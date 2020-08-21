@@ -11,3 +11,5 @@
 * ich bin; du bist; er ist; sie ist; es ist
 
 * Brot und Wasser
+
+* Er ist ein Man und sie ist eine Frau.
