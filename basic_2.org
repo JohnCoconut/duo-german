@@ -1,0 +1,43 @@
+#+TITLE: Basic 2
+
+* die Männer
+
+* die Frauen
+
+* ich bin
+I am.
+
+* du bist
+you are (informal, addressing one person)
+
+* er/sie/es ist
+he/she/it is
+
+* wir sind
+we are
+
+* ihr seid
+you are (informal, addressing more than one person)
+
+* sie (lowercase) sind
+they are
+
+* Sie (always capitalised) sind
+you are (formal, addressing one or more people)
+
+* Wir sind Männer
+* Wir sind Frauen
+
+* Wir sind Frauen und ihr seid Männer
+
+* die Kinder
+
+* Jungen
+
+* Das ist Hamburg.
+
+* Das ist ein Mann.
+
+* Sie sind Jungen.
+
+* Sie sind Kinder.
