@@ -82,3 +82,6 @@ No idea.
 
 * Nein, keine Ahnung!
 No, no idea.
+
+* In Ordnung. Danke.
+Alright. Thank you.
