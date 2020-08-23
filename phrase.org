@@ -37,3 +37,48 @@ Bitte informal, Gern geschehen formal
 
 * Guten Abend!
 Good evening!
+
+* Danke, gute Nacht.
+Thanks, good night.
+
+* Danke, auf Wiedersehen!
+Thanks, goodbye!
+
+* Danke, bis bald.
+Thanks, see you soon.
+
+* Bis später.
+See you later.
+
+* Bis morgen.
+See you tomorrow.
+
+* Entschuldigung!
+Excuse me!
+
+* Nein, Entschuldigung!
+No, I am sorry.
+
+* Nein, leider.
+No, unfortunately.
+
+* Genau!
+Exactly!
+
+* Es tut mir leid!
+I'm sorry.
+
+* Guten Tag, wie geht's?
+Good afternoon, how are you?
+
+* Mir geht's gut, danke.
+I am good, thank you.
+
+* Ja, alles klar!
+Yes, all right.
+
+* Keine Ahnung!
+No idea.
+
+* Nein, keine Ahnung!
+No, no idea.
