@@ -1,0 +1,130 @@
+#+TITLE: Acc Case
+
+* die Milch
+milk
+
+* Du trinkst Wasser.
+You drink water.
+
+* Die Männer trinken Wasser.
+The men drink water.
+
+* Die frauen trinken Wasser.
+The women drink water.
+
+* Ihr trinkt Wasser.
+You drink water.
+
+* Ich trinke.
+I drink.
+
+* Du trinkst Milch und ich trinke Wasser.
+You drink milk and I drink water.
+
+* Wir trinken.
+We drink.
+
+* der Apfel
+the apple
+
+* Ich trinke. Ich esse.
+I am drinking. I am eating.
+
+* Ihr esst Brot.
+You are eating bread.
+
+* Wir essen Bort
+We are eating bread.
+
+* Bitte einen Apfel.
+One apple, please.
+
+* Sie isst.
+She is eating.
+
+* die Zeitung
+the newspaper
+
+* Du liest.
+You read.
+
+* Sie liest.
+She reads.
+
+* Sie liest eine Zeitung
+She reads a newspaper.
+
+* Das Mädchen liest eine Zeitung.
+The girl is reading a newspaper.
+
+* Du liest eine Zeitung.
+You read a newspaper.
+
+* das Buche
+the book
+
+* die Bucher
+the books
+
+* Sie lesen.
+They read.
+
+* Wir lesen eine Zeitung.
+We are reading a newspaper.
+
+* Ich lese.
+I read.
+
+* Die Frauen lesen ein Buch.
+The women are reading a book.
+
+* Wir lesen Bücher.
+We are reading books.
+
+* Ich lese ein Buch.
+I am reading a book.
+
+* Wir lesen die Bücher.
+We are reading the books.
+
+* Sie hat Wasser.
+She has water.
+
+* Wir tinken das Wasser.
+We are drinking the water.
+
+* Sie isst den Apfel
+She eats the apple.
+
+* Der Mann isst den Apfel.
+The man eats the apple.
+
+* Ein Man isst die Zeitung.
+A man is reading the newspaper.
+
+* Sie trinkt die Milch.
+She drinks the milk.
+
+* Wir lesen die Bücher.
+We read the books.
+
+* Du hast Wasser.
+You have water.
+
+* Sie haben Bücher.
+They have books.
+
+* Wir haben einen Apfel.
+We have an apple.
+
+* Ihr habt einen Apfel.
+You have an apple.
+
+* Ihr habt Brot.
+You have bread.
+
+* Ich habe einen Apfel.
+I have an apple.
+
+* Sie haben den Apfel.
+They have the apple.
