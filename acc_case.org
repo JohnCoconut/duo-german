@@ -128,3 +128,14 @@ I have an apple.
 
 * Sie haben den Apfel.
 They have the apple.
+
+* Eine Frau isst einen Apfel.
+A women is eating an apple.
+
+===================== level 2 ====================
+
+* Ich esse, du trinkst.
+I am eating, you are drinking.
+
+* Ihr esst.
+You eat.
