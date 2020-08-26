@@ -1,0 +1,28 @@
+#+TITLE: Food
+
+* der Fisch
+the fish
+
+* das Essen
+the food
+
+* Du hast Hunger.
+You are hungry.
+
+* die Suppe
+the soup
+
+* Wir haben Suppe.
+We have soup.
+
+* Der Mann hat einen Fisch.
+The man has a fish.
+
+* Er isst Eis.
+He is eating ice cream.
+
+* Das Wasser ist gut.
+The water is good.
+
+* Wir haben Essen.
+WE have food.
