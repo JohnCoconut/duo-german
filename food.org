@@ -26,3 +26,114 @@ The water is good.
 
 * Wir haben Essen.
 WE have food.
+
+* der Wine
+the wine
+
+* das Bier
+the beer
+
+* Die Pizza schmeckt gut.
+The pizza tasts good.
+
+* Tee
+tea
+
+* der Kaffee
+the coffee
+
+* Er trinkt Bier.
+He drinks beer.
+
+* Wir haben Kaffee.
+We have coffee.
+
+* Du hast Durst.
+You are thirsty.
+
+* die Banana
+the banana
+
+* der Saft
+the juice
+
+* die Orange
+the orange
+
+* das Obst
+the fruit
+
+* Sie trinkt Apfelsaft.
+She drinks apple juice.
+
+* Wir essen Obst.
+We eat fruit.
+
+* Der Apfelsaft
+the apple juice
+
+* das Fleisch
+the meat
+
+* der Käse
+the cheese
+
+* Der Käse schmeckt gut.
+The cheese tastes good.
+
+* die Kartoffel
+the potato
+
+* Ein Mann isst ein Ei.
+A man eats an egg.
+
+* Die Frauen essen Gemüse.
+The women are eating vegitables.
+
+* Er isst eine Kartoffel.
+He is eating a potato.
+
+* Die Manner essen das Gemüse.
+The men are eating the vegitables.
+
+* die Schokolade
+the chocolate
+
+* der Zucker
+the sugar
+
+* Das Essen ist lecker.
+The food is delicious.
+
+* die Erdbeere
+the strawberry
+
+* Zucker ist gut.
+Sugar is good.
+
+* Obst ist süß.
+Fruit is sweet.
+
+* Die Schokolade ist süß.
+The chocolate is sweet.
+
+* Die Erdbeere ist frisch.
+The strawberry is fresh.
+
+* das Salz
+the salt
+
+* das ol
+the oil
+
+* der Reis
+the rice
+
+* Er isst die Nudeln.
+He is eating the pasta.
+
+* Die Nudeln sind aus Italien.
+The pasta is from Italy.
+
+* Der Man hat ol.
+The man has oil.
