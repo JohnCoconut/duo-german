@@ -1,0 +1,64 @@
+#+TITLE: Intro
+
+* Wir heißen Anna und Lukas.
+We are called Anna and Lukas.
+
+* Heißt du Anna?
+Are you called Anna?
+
+* Er heißt Karl.
+He is called Karl.
+
+* Ich heiße Karl.
+I am called Karl.
+
+* Sie heißt Julia.
+She is calle Julia.
+
+* Deutschland
+Germany
+
+* Sie kommen!
+They are comming!
+
+* Ich komme.
+I am coming.
+
+* Kommst du aus Deutschland?
+Are you from Germany?
+
+* Du kommst aus Chicago.
+You come from Chicago.
+
+* Sie kommt aus Deutschland.
+She comes from Germany.
+
+* Wir kommen aus England.
+We come from England.
+
+* Ich komme aus England.
+I come from England.
+
+* Ich spreche.
+I am talking.
+
+* Ich verstehe.
+I understand.
+
+* Sie verstehen.
+They understand.
+
+* Sie versteht.
+She understands.
+
+* Die Frau spricht.
+The woman is speaking.
+
+* Wir verstehen.
+We understand.
+
+* Sprichst du Deutsch?
+Do you speak German?
+
+* Du verstehst Deutsch.
+You understand German.
