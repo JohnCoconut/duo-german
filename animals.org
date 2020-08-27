@@ -1,0 +1,85 @@
+#+TITLE: Animals
+
+* Recognizing noun gender
+
+** Non-living objects that end in -e will almost always be feminine.
+
+** Nouns beginning with Ge- are often neuter
+
+* die Katze
+the cat
+
+* der Bar
+the bear
+
+* Er hat einen Hund.
+He has a dog.
+
+* die Maus
+the mouse
+
+* der Hund
+the dog
+
+* Wir haben einen Katze.
+We have a cat.
+
+* Die Katze trinkt Milch.
+The cat drinks milk.
+
+* Sie hat ein Tier.
+She has an animal.
+
+* Das Tier trinkt.
+The animal drinks.
+
+* das Pferd
+the horse
+
+* der Vogel
+the bird
+
+* Ich habe ein Haustier.
+I have a pet.
+
+* Eine Ente frisst einen Apfel.
+A duck is eating an apple.
+
+* Das Schwein hat Hunger.
+The pig is hungry.
+
+* Die Katze frisst die Ente.
+The cat is eating the duck.
+
+* Die Kuh frisst.
+The cow is eating.
+
+* Du hast einen Ente.
+You have a duck.
+
+* Die Frau hat eine Kuh.
+The woman has a cow.
+
+* die Spinne
+the spider
+
+* Das kind hat eine Biene.
+The child has a bee.
+
+* Die Ente frisst den Käfer.
+The duck is eating the beetle.
+
+* Eine Biene!
+A bee!
+
+* Der Mann hat eine Spinne.
+The man has a spider.
+
+* Die Fliege
+the fly
+
+* Die Ente frisst eine Fliege.
+The duck is eating a fly.
+
+* Das Insekt frisst Brot.
+The insect is eating bread.
