@@ -1,0 +1,69 @@
+#+TITLE: Plurals
+
+ä ö ü
+
+Ä Ö Ü
+
+
+* die Hunde
+
+* Wir haben Hunde.
+
+* Die Kinder haben Fische.
+
+* Sie hat Tiere.
+
+* Die Mäuse.
+
+* Du hast Pferde.
+
+* Die Pferde.
+
+* Die Kühe trinken Milch.
+
+* Der Junge isst Eier.
+
+* Anna und Lukas sind Menschen.
+
+* Wir essen Kartoffeln.
+
+* Ich habe die Zeitungen.
+
+* Kartoffeln sind gut.
+
+* Obst, Gemuse, Eier
+
+* Obst, Gemuse, Eier
+
+* Die Schweine fressen Kartoffeln.
+
+* Das sind Katzen.
+These are cats.
+
+* Die Kuhe haben Fliegen.
+The cows have flies.
+
+* Wir essen Erdbeeren.
+We eat strawberries.
+
+* Die Katzen fressen Fisch.
+
+* Die Baren fressen die Erdbeeren.
+
+* Wir essen Tomaten.
+
+* Eine Frau isst Orangen.
+
+* Der Mann isst Banane.
+
+* Die Fliegen trinken Wasser.
+
+* Sind das Orangen?
+
+* die Madchen
+
+* Der Junge hat Kafer.
+
+* Die Vogel trinken Wasser.
+
+* Enten sind Vogel.
