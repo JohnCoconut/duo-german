@@ -83,3 +83,35 @@ The duck is eating a fly.
 
 * Das Insekt frisst Brot.
 The insect is eating bread.
+
+=================================== level 1 =====================================
+
+* Die Maus frisst den Käse.
+
+* Die Katze trinkt Milch.
+
+* Der Bär
+
+* Das Tier trinkt
+
+* Wir haben eine Katze
+
+* Er hat eine Maus
+
+* Wir haben eine Hund und eine Katze
+
+* Sie hat ein Haustier.
+
+* Eine Ente ist ein Vogel.
+
+* Es ist ein Schwein.
+
+* Das Pferd
+
+* Die Kuh trinkt Wasser.
+
+* Die Spinne frisst die Fliege.
+
+* Eine Biene ist ein Insekt.
+
+* Der Käfer trinkt Milch.
