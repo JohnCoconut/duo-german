@@ -1,0 +1,85 @@
+#+TITLE: Adjectives
+
+* Das ist normal.
+That is normal.
+
+* Sind die Bücher toll?
+Are the books great?
+
+* Der Kaffee ist toll.
+The coffee is great.
+
+* Der Vogel is frei.
+The bird is free.
+
+* Nein, ich bin perfekt.
+No, I am perfect.
+
+* Die Suppe ist schlecht.
+The soup is bad.
+
+* Ein Apfel is leicht.
+An apple is light.
+
+* Das Essen ist schlecht.
+The food is bad.
+
+* Sie ist leicht.
+She is light.
+
+* Das Wasser ist normal.
+The water is normal.
+
+* Die Maus ist leise.
+The mouse is quiet.
+
+* Duo ist stark und toll.
+Duo is strong and great.
+
+* Ich bin stark.
+I am stark.
+
+* Die Kinder sind laut.
+The children are loud.
+
+* Der Junge ist schwach.
+The boy is weak.
+
+* Ist es lang?
+Is it long?
+
+* Die Nudeln sind kurz.
+The noodles are short.
+
+* Die Nudeln sint lang.
+The noodles are long.
+
+* Die Suppe ist klar.
+The soup is clear.
+
+* Afrika ist groß.
+Africa is big.
+
+* Sie ist groß.
+She is tall.
+
+* Die Männer sind klein.
+The men are small.
+
+* Sie ist ruhig.
+She is calm.
+
+* Sie Kartoffel ist rund.
+The potato is round.
+
+* Er ist ruhig.
+He is calm.
+
+* Der Apfel ist rund.
+The apple is round.
+
+* Es ist klar.
+It is clear.
+
+* Nein, er ist klein.
+No, he is small.
