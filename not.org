@@ -1,0 +1,31 @@
+#+TITLE: Not
+
+* Es ist einfach.
+It is easy.
+
+* Nein, es ist nicht lang.
+No, it is not long.
+
+* Nein, es ist nicht einfach.
+No, it is not easy.
+
+* Er ist gesund.
+He is healty.
+
+* Der Mann ist nicht traurig.
+The man is not sad.
+
+* Es ist nicht lustig.
+It is not funny.
+
+* Der Käfer trinkt Milch.
+The beetle is drinking milk.
+
+* Es ist feritg.
+It is ready.
+
+* Er ist lustig.
+He is funny.
+
+* Sie ist nicht gesund.
+She is not healty.
