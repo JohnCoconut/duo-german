@@ -1,0 +1,94 @@
+#+TITLE: Question 1
+
+* Ist der Mann wichtig?
+Is the man important?
+
+* Ihr seid langsam.
+You are slow.
+
+* Ihr seid schön.
+You are beautiful.
+
+* Das Fleisch ist teuer.
+The meat is expensive.
+
+* Ist das Essen teuer?
+Is the food expensive?
+
+* Es ist neu.
+It is new.
+
+* Es ist weit.
+It is far.
+
+* Ist die Fliege schnell?
+Is the fly fast?
+
+* Das ist neu.
+That is new.
+
+* Die Fliege ist wichtig.
+The fly is important.
+
+* Langsam, bitte.
+Slowly, please.
+
+* kalt
+cold
+
+* Es ist schwer.
+It is heavy.
+
+* Das Tier ist schwer.
+The animal is heavy.
+
+* Ja, das ist richtig.
+Yes, that is correct.
+
+* Ist der Käse alt?
+Is the cheese old?
+
+* Bist du müde?
+Are you tired?
+
+* Das kind ist jung.
+The child is young.
+
+* Ist das Kind jung?
+Is the child young?
+
+* Das ist richtig.
+This is right.
+
+* Ist der Hund müde?
+Is the dog tired?
+
+* Ist die Frau alt?
+Is the woman old?
+
+* Ist das Ei schmutzig?
+Is the egg dirty?
+
+* Ist das Wasser tief?
+Is the water deep?
+
+* Es ist warm.
+It is warm.
+
+* Das ist hoch.
+That is high.
+
+* Die Kartoffel ist sauber.
+The potato is clean.
+
+* Sie sind sauber.
+They are clean.
+
+* Ist es schmutig?
+Is it dirty?
+
+* Es ist hoch.
+It is high.
+
+* Ist das Wasser sauber?
+Is the water clean?
