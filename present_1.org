@@ -140,3 +140,44 @@ He is paying.
 
 * Wir washcen die Tomaten.
 We are washing the tomatoes.
+
+========================== level 1 =================================
+
+* Wir gehen essen.
+We are going to eat.
+
+* Es geht ihr gut.
+She is feeling well.
+** Es = it(her life, the circumstances)
+** Geht gut = is going well
+** ihr = for her (dative of "sie")
+
+* Wir spielen un ihr spielt.
+We are playing and you are playing.
+
+* Die Menchen lessen Bücher.
+The people are reading books.
+
+* Schreiben sie ein Buch?
+Are they writing a book?
+
+* Der Mann sieht die Erdbeere.
+The man sees the strawberry.
+
+* Liest er?
+Is he reading?
+
+* Wir sehen den Apfel.
+We see the apple.
+
+* Du siehst den Kaffee.
+You see the coffee.
+
+* Du spielst und lernst.
+You play and learn.
+
+* Wir spielen und lernen.
+We play and learn.
+
+* Das bezahle ich nicht.
+I am not paying for that.
