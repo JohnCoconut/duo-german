@@ -1,0 +1,126 @@
+#+TITLE: Clothing
+
+* der Rock
+the skirt
+
+* der Hut
+the hat
+
+* Die Hüte sind groß.
+The hats are big.
+
+* der Schuh
+the shoe
+
+* das Kleid
+the dress
+
+* Die Mädchen haben Röcke.
+The girls have skirts.
+
+* Die Schuhe sind perfekt!
+The shoes are perfect.
+
+* Das Mädchen hat einen Hut.
+The girl has a hat.
+
+* Die Männer tragen Hüte.
+The men are wearing hats.
+
+* Tragt ihr Kleider?
+Do you wear dresses?
+
+* Die Mädchen tragen Röcke.
+The girls are wearing skirts.
+
+* Ich trage ein Kleid und du trägst einen Rock.
+I am wearing a dress and you are wearing a skirt.
+
+* der Mantel
+the coat
+
+* Kleidung
+clothes
+
+* Die Jacke is alt.
+The jacket is old.
+
+* Hose
+pants
+
+* die Jacke
+the jacket
+
+* Sie haben ein Hemd.
+They have a shirt.
+
+* Er trägt eien Mantel.
+He is wearing a coat.
+
+* Die Kleidung ist schmutzig.
+The clothers are dirty.
+
+* Wir haben Jacken.
+We have jackets.
+
+* Ich trage eien Hose.
+I am wearing pants.
+
+* Ihr habt Hosen.
+You have trousers.
+
+* Sie haben Hemden.
+They have shirts.
+
+* die Tasche
+the bag
+
+* Die Tüte
+the bag
+
+* Die Hose hat einen Fleck.
+The trousers have a stain.
+
+* Die Mädchen sind nicht traurig.
+The girls are not sad.
+
+* Passt das Kleid?
+Do the dress fit?
+
+* Der Ring ist schön.
+The ring is beautiful.
+
+* Die Schuhe passen nicht.
+The shoes do not fit.
+
+* Die Taschen
+the bags
+
+* Das Kleid passt.
+The dress fits.
+
+* Es ist Schmuck.
+It is jewelry.
+
+* Der Knopf
+the button
+
+* Die Kosmetik is perfekt!
+The cosmetics are perfect.
+
+* Die Ringe sind rund.
+The rings are round.
+
+* Die Kuh hat Flecken.
+The cow has spots.
+
+* Habt ihr Schuhe?
+Do you have shoes?
+
+=========================== level 1 ===================================
+
+* Hat der Rock einen Fleck?
+Does the skirt has a stain?
+
+* Die Schuhe passen nicht.
+The shoes do not fit.
