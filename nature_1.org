@@ -1,0 +1,114 @@
+#+TITLE: Nature 1
+
+* der Baum
+the tree
+
+* die Erde
+the earth
+
+* der Berg
+the moutains
+
+* der Wind
+the wind
+
+* die Natur
+Nature
+
+* Die Berge sind schön.
+The moutains are beautiful.
+
+* Wir sehen die Bäume.
+We see the trees.
+
+* Die Natur ist schön.
+Nature is beautiful.
+
+* Der Wind ist kalt.
+The wind is cold.
+
+* Der Berg ist klein.
+The mountain is small.
+
+* ein Baum
+a tree
+
+* Die Bäume sind alt.
+The trees are old.
+
+* das Feuer
+the fire
+
+* der Mond
+the moon
+
+* das Meer
+the sea
+
+* die Blume
+the flower
+
+* Sie sieht das Meer.
+She sees the sea.
+
+* Sie mag Blumen.
+She likes flowers.
+
+* Die Blumen sind willkommen.
+The flowers are welcome.
+
+* Die Blumen sind schön.
+The flowers are beautiful.
+
+* Die Luft
+The air
+
+* Wir brauchn ein Feuer.
+We need a fire.
+
+* die Sonne
+the sun
+
+* der Stern
+the star
+
+* der Himmel
+the sky
+
+* Ich lebe.
+I live
+
+* Er sieht den Himmel.
+He sees the sky.
+
+* Der Apfel fällt.
+The apple falls.
+
+* Die Sterne sind klein.
+The stars are small.
+
+* Die Sonne ist rund.
+The sun is round.
+
+* Die Sonne ist ein Stern.
+The sun is a star.
+
+* Die Blumen fallen.
+The flowers are falling.
+
+* Die Tiere leben.
+The animals live.
+
+============================== level 1 =================================
+
+* Die Luft is schlecht.
+The air is bad.
+
+* Siehst du die Blumen?
+Do you see the flowers?
+
+* Sie sieht den Mond.
+She sees the moon.
+
+* Der Himmel fällt.
+The sky is falling.
