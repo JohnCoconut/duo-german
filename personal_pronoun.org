@@ -81,3 +81,47 @@ He skirt is short.
 
 * Eure Jungen sind schnell.
 Your boys are fast.
+
+================================ level 1 ===============================
+
+* Mein Kind spielt.
+My child plays.
+
+* Dein Pferd hat Durst.
+Your horse is thirsty.
+
+* Mein Hund frisst Fleisch.
+My dog eats meat.
+
+* Dein Mantel ist lang.
+Your coat is long.
+
+* Mein Pferd frisst einen Apfel.
+My horse eats an apple.
+
+* Das ist meine Tasche.
+That is my bag.
+
+* Deine Jungen lesen eine Zeitung.
+Your boys read a newspaper.
+
+* Es ist nicht deine Jacke.
+That is not your jacket.
+
+* Seine Katzen sind schön.
+His cats are pretty.
+
+* Eure Kuh ist schön.
+Your cow is pretty.
+
+* Ihr Hund frisst.
+Their dog eats.
+
+* Ihre Kleidung ist gut.
+Her clothes are good.
+
+* Unser Vogel schwimmt.
+Our bird swims.
+
+* Unsere Kinder haben eine Katze.
+Our children have a cat.
