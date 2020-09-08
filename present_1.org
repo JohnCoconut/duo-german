@@ -60,7 +60,7 @@ They read the newspaper.
 * Ihr spielt und lernt.
 You are playing and learning.
 
-* Sie lernt Deutch.
+* Sie lernt Deutsch.
 She is learning German.
 
 * Du siehst das Insekt.
@@ -181,3 +181,15 @@ We play and learn.
 
 * Das bezahle ich nicht.
 I am not paying for that.
+
+
+======================= level 2 ============================================
+
+* Lernt ihr Deutsch?
+Do you learn German?
+
+* Ein Sechstel reicht.
+A sixth is enough. (one sixth)
+
+* Das brauche ich.
+I need that.
