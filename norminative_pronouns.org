@@ -74,3 +74,16 @@ I have a few books.
 
 * Ich höre nich viel.
 I do not hear much.
+
+============================= level 1 ================================
+* Niemand hat es.
+Nobody has it.
+
+* Niemand mag das.
+Nobody like that.
+
+* Hat jemand eine Jacke?
+Does anyone has a jacket?
+
+* Ich brauche etwas Zucker.
+I need some sugar.
