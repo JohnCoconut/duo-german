@@ -1,0 +1,148 @@
+#+TITLE: Places 1
+
+* der Garten
+the garden
+
+* die Schule
+the school
+
+* das Gebäude
+the building
+
+* Die Kinder siehen die Gärten.
+The children see the gardens.
+
+* Der Garten ist groß.
+The garden is big.
+
+* Die Gebäude sind groß.
+The buildings are big.
+
+* Der Markt
+the market
+
+* Wir siehen die Ecke.
+We see the corner/edge.
+
+* Sie will ein Haus.
+She wants a house.
+
+* Sind das eure Häuser?
+Are those your houses?
+
+* Wir mögen Häuser.
+We like houses.
+
+* Haben wir einen Markt?
+Do we have a market?
+
+* Die Schulen sind klein.
+The schools are small.
+
+* Das ist eine Ecke.
+That is a corner.
+
+* Ich mag die Schule.
+I like school.
+
+* My Huas ist nicht so groß.
+My house is not so big.
+
+* Du siehst die Märkte.
+You see the markets.
+
+* die Bibliothek
+the library
+
+* die Bank
+the bank
+
+* das Restaurant
+the restaurant
+
+* Das Hotel is nicht groß.
+The hotel is not big.
+
+* Ist das ein Schloss?
+Is this a castle/palace?
+
+* Die Hotels sind schön.
+The hotels are beautiful.
+
+* Die Bahnhöfe sind neu.
+The train stations are new.
+
+* Wir mögen Restaurants.
+We like restaurants.
+
+* Das Restaurant is nicht gut.
+The restaurant is not good.
+
+* Die Straße
+the street
+
+* Die Bibliotheken sind alt.
+The libraries are old.
+
+* Das Hotel
+the hotel
+
+* Die Restaurants haben Brot.
+The restaurants have bread.
+
+* Ist das der Bahnhof?
+Is that the train station?
+
+* Die Schule hat keine Bibliothek.
+This school does not have a library.
+
+* Die Bank is klein.
+The bank is small.
+
+* das Zimmer
+the room
+
+* die Brucke
+the bridge
+
+* die Stadt
+the city
+
+* der Park
+the park
+
+* Das Kind mag das Zimmer nicht.
+The child does not like the room.
+
+* Österreich ist ein Land.
+Austria is a country.
+
+* Wir bauen ein Haus.
+We are building a house.
+
+* Sie bauen eine Schule.
+They are building a school.
+
+* London und Hamburg sind Städte.
+Londons and Hamburg are cities.
+
+* Diese Dörfer sind alt.
+These villages are old.
+
+* Bauen sie ein Hotel?
+Are they building a hotel?
+
+* Unsere Zimmer sind klein.
+Our rooms are small.
+
+* Ich mag dieses Land.
+I like this country.
+
+* Die Stadt ist klein.
+The city is small.
+
+* das Dorf
+the village
+
+* Die Parks sind schön.
+The parks are beautiful.

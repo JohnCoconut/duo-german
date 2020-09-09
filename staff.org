@@ -1,0 +1,40 @@
+#+TITLE: Staff
+
+* das Spielzeug
+the toy
+
+* das Flugzeug
+the plane
+
+* das Fahrzeug
+the vehicle
+
+* Mein Feuerzeug is neu.
+My lighter is new.
+
+* Das Kind hat ein Spielzeug.
+The child has a toy.
+
+* Ich habe kein Feuerzeug.
+I don't have a lighter.
+
+* Die Frauen mögen die Werkzeuge.
+The women like the tools.
+
+* Ich habe kein Flugzeug.
+I don't have an airplane.
+
+* Ich mag keine Feuerzeuge.
+I don't like lighters.
+
+* das Werkzeug
+the tool
+
+* Wir haben kein Fahrzeug.
+We do not have a vehicle.
+
+* Wir haben viele Flugzeuge.
+We have many planes.
+
+* Ist das dein Zeug?
+Is that your stuff?
