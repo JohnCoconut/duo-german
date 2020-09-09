@@ -119,3 +119,29 @@ We eat bread again.
 
 * Es ist vielleicht ein Bär.
 It might be a beer.
+
+============================ level 1 =============================
+
+* Gehst du auch?
+Do you go as well?
+
+* Heiße Pizza ist auch lecker.
+Hot pizza is tasty too.
+
+* Sie isst nur Fleisch.
+She only eats meat.
+
+* Haben wir genug Milch?
+Do we have enough milk?
+
+* Sie isst nur Obst.
+She only eats fruits.
+
+* Wir spielen gerne zusammen.
+We like playing together.
+
+* Mein Kund schläft wieder.
+My dog is sleeping again.
+
+* Sie sind dran.
+It is their turn.

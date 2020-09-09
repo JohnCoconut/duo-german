@@ -68,3 +68,34 @@ She never drinks coffee.
 
 * Ich schwimme nie.
 I never swim.
+
+
+===================================== level 1 ======================================
+
+* Magst du keine Bäume?
+Do you not like trees?
+
+* Kühe tragen keine Hüte.
+Cows don't wear hats.
+
+* Das ist kein Stern.
+That is not a star.
+
+* Keine Katze mag Wasser.
+No cat likes water.
+
+* Das Kind hat kein Buch.
+The child has no book.
+
+* Ich verstehe kein Deutsch.
+I don't understand German.
+
+* Keiner spielt.
+Nobody plays.
+
+*
+
+======== umlaut ============
+
+** ä
+** ü
