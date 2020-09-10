@@ -1,0 +1,130 @@
+#+TITLE: Accusative Pronouns
+
+* Wir haben ihn!
+We have him.
+
+* Seht ihr mich?
+Do you see me?
+
+* Magst du mich?
+Do you like me?
+
+* Ich kenne euch nicht.
+I don't know you.
+
+* Sie sien uns.
+They see us.
+
+* Kennt sie auch?
+Does she know you?
+
+* Ich sehe dich.
+I see you.
+
+* Er sieht sie.
+He sees them/her.
+
+* Ich brauche dich.
+I need you.
+
+* Ich habe es nicht.
+I don't have it.
+
+* Kennst du uns?
+Do you know us?
+
+* Wir Mögen ihn alle.
+We all like him.
+
+* Ich lese sie.
+I read them.
+
+* Ich mag Sie.
+I like you.
+
+* Sie mag diese Katzen.
+She like these cats.
+
+* Hast du deine Bücher?
+Do you have your books?
+
+* Der Bär trägt ihre Kleider.
+The bear is wearing her dresses.
+
+* Die Katze trinkt eure Milch.
+The cat is drinking your milk.
+
+* Wir sehen unsere Bücher.
+We see our books.
+
+* Wir essen seine Bananen.
+We are eating his bananas.
+
+* Ich sehe euer Kind.
+I see your child.
+
+* Wir trinken seine Bier.
+We are drinking his beer.
+
+* Wir trinken seie Milch.
+We are drinking his milk.
+
+* Der Hund frisst mein Buch!
+The dog is eating my book.
+
+* Ihr liest unsere Zeitung.
+You are reading our newspaper.
+
+* Wir brauchen unseren Hund.
+We need our dog.
+
+* Lukas mag euren Hund.
+Lukas likes your dog.
+
+* Sie kennen minen Hund.
+They know my dog.
+
+* Die Katze trinkt deine Milch.
+The cat drinks your milk.
+
+* Mögt ihr diesen Bahnhof?
+Do you like this train station?
+
+* De Katze trinkt ihr Wasser.
+The cat drinks its water.
+
+* Ist es etwas anderes?
+Is it something else?
+
+* Sie mag jedes Tier.
+She likes every animal.
+
+* Ich kenne das nicht.
+I do not know that.
+
+* Ich habe viele Blumen.
+I have lots of flowers.
+
+* Ich habe viele Bücher.
+I have many books.
+
+* Ich lese eine andere Zeitung.
+I am reading a different newspaper.
+
+* Wir mögen alle Katzen.
+We like all cats.
+
+* Sie mag jede Zeitung.
+She like every newspaper.
+
+* Sie will einen andere Mantel.
+She wants a different coat.
+
+* Er liest jedes Buch.
+He reads every book.
+
+* Niemand anderes.
+nobody else
+
+* Du brauchst das.
+You need that.

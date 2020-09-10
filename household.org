@@ -1,0 +1,190 @@
+#+TITLE: Household
+
+* das Fenster
+the window
+
+* die Wand
+the wall
+
+* die Tür
+the door
+
+* Ich öffne den Saft.
+I open the juice.
+
+* Sie öffnen die Bücher.
+They open the books.
+
+* Die Türen sind neu.
+The doors are new.
+
+* Das ist meine Tür.
+This is my door.
+
+* Nicht diese Tür!
+Not this door!
+
+* Die Zäune sind lang.
+The fences are long.
+
+* Jedes Haus hat Wänder.
+Every house has walls.
+
+* Das Haus hat eine Treppe.
+The house has a staircase.
+
+* Die Fenster sind klein.
+The windows are small.
+
+* Der Zäune ist lang.
+The fence is long.
+
+* Dieses Haus hat keine Treppen.
+This house has no stairs.
+
+* Meine Decke ist sauber.
+My blanket is clean.
+
+* Das Kind öffnet den Apfelsaft.
+The child opens the apple juice.
+
+* der Schlüssel
+the key
+
+* die Küche
+the kitchen
+
+* Es ist ein Schlüssel.
+It is a key.
+
+* Das Haus hat kein Dach.
+The house has no roof.
+
+* Die Keller sind schön.
+The basements are beautiful.
+
+* Ist das der Balkon?
+Is this the balcony?
+
+* Er hat eine Schlüssel.
+He has a key.
+
+* Der Keller
+the basement
+
+* Die Dächer sind alt.
+The roofs are old.
+
+* Das Dach is alt!
+The roof is old.
+
+* Ihre Wohnung ist klein.
+Her apartment is small.
+
+* Dein Haus hat eien Keller.
+Your house has a basement.
+
+* Das sind Schlüssel.
+These are keys.
+
+* Die Küche ist klein.
+The kitchen is small.
+
+* die Wohnung
+the apartment
+
+* Hat die Wohnung eieen Balkon?
+Does the apartment have a balcony?
+
+* der Stuhl
+the chair
+
+* der Tisch
+the table
+
+* das Sofa
+the sofa
+
+* Wir haben ein Wohnzimmer.
+We have a living room.
+
+* Habt ihr Möbel?
+Do you have furniture?
+
+* das Vohnzimmer
+the living room
+
+* Wir haben keine Möbel.
+We have no furniture.
+
+* Die Tische sind nicht rund.
+The tables are not round.
+
+* Jedes Restaurant hat Stühle.
+Every restaurant has chairs.
+
+* Euer Wohnzimmer ist klein.
+Your living room is small.
+
+* Sie sieht den Tisch.
+She sees the table.
+
+* Mein Schrank is alt.
+My cabinet is old.
+
+* Er hat Keine Schränke.
+He has no cabinets.
+
+* Es ist ein Stuhl.
+It is a chair.
+
+* Wir brauchen einen Schrank.
+We need a cupboard.
+
+* das Bett
+the bed
+
+* die Lampe
+the lamp
+
+* das Licht
+the light
+
+* Er hat ein Bett.
+He has a bed.
+
+* Die Betten sind schutzig.
+The beds are dirty.
+
+* Ich brauche eine Steckdose.
+I need a power outlet.
+
+* Ich sehe das Licht.
+I see the light.
+
+* Dieses Bett is kalt.
+This bed is cold.
+
+* Dieses Schloss ist schön.
+This castle is beautiful.
+
+* Ich brauche ein Ladegerät.
+I need a charger.
+
+* Das ist meine Lampe.
+That is my lamp.
+
+* Das Haus hat Keine Steckdosen.
+The house does not have any power outlets.
+
+* Meine Frau mag den Teppich nicht.
+My wife does not like the carpet.
+
+* Das ist ein Teppich.
+That is a carpet.
+
+* Haben wir genug Ladegeräte?
+Do we have enough chargers?
+
+* Das Schlafzimmer ist schön.
+The bedroom is beautiful.
