@@ -128,3 +128,10 @@ nobody else
 
 * Du brauchst das.
 You need that.
+
+=============================== level 1 =======================================
+
+* Wasser mögen sie nicht.
+They don't like water.
+
+*

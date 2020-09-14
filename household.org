@@ -36,7 +36,7 @@ The house has a staircase.
 * Die Fenster sind klein.
 The windows are small.
 
-* Der Zäune ist lang.
+* Der Zaun ist lang.
 The fence is long.
 
 * Dieses Haus hat keine Treppen.
