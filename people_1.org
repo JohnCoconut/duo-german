@@ -1,0 +1,178 @@
+#+TITLE: People_1
+
+* das Baby
+the baby
+
+* Ich kenne deinen Vornamen.
+I know your first name.
+
+* Die Namen sind toll.
+The names are terrific.
+
+* Nein, ich siehe keine Person.
+No, I do not see any person.
+
+* Mein Name ist Maria.
+My name is Maria.
+
+* Sie sind Babys.
+They are babies.
+
+* Die Katze mag die Freundin.
+The cat likes the girlfriend.
+
+* Kennst du seinen Namen?
+Do you know his name?
+
+* Ja, ich habe einen Freund.
+Yes, I have a friend.
+
+* Der Forname ist kurz.
+The first name is short.
+
+* Nein, wir haben keine Babys.
+No, we don't have babies.
+
+* Das Baby trinkt Milch.
+The baby drinks milk.
+
+* Meine Freunde sind alt.
+My friends are old.
+
+* Sie ist eine Person.
+She is a person.
+
+* Dein Freund?
+Your friend?
+
+* Ich sehe die Freunde.
+I see the friends.
+
+* Meine Freundin kommt aus Indien.
+My girlfriend is from India.
+
+* Willkommen, meine Damen.
+Wecome, my ladies.
+
+* Ich kenne diese Leute nicht.
+I don't know these people.
+
+* Die Herren spielen.
+The gentlemen are playing.
+
+* Der Herr is wichtig.
+The gentleman is important.
+
+* Ich sehe Menschen.
+I see people.
+
+* Der Bürger hat Restaurants.
+The citizen has restaurants.
+
+* Ich kenne diese Dame nicht.
+I don't know this lady.
+
+* Der Erwachsene
+the adult
+
+* Junge Leute
+young people
+
+* Die Menschen essen Tiere
+The humans eats animals
+
+* Sind sie Bürger?
+Are they citizens?
+
+* Der Mensch braucht andere Menschen.
+The human needs other people.
+
+* Ich bin der Erwachsene.
+I am a adult.
+
+* Die Gäste haben Hunger.
+The guests are hungry.
+
+* Sie sehen das Publikum nicht.
+They do not see the audience.
+
+* Die Gegner sind müde.
+The opponents are tired.
+
+* Dieser Vegetarier mag mich nicht.
+This vegetarian does not like me.
+
+* Sie sind Vegetarier.
+They are vegetarians.
+
+* Das Gemüse mag keine Vegetarier.
+The vegetable does not like vegetarians.
+
+* Das Geschlecht
+the gender
+
+* Er ist mein Gegner.
+He is my opponent.
+
+* Die Gruppe lernt.
+The group is learning.
+
+* Der Gast
+the guest
+
+* Der Gast ist Vegetarier.
+The guest is a vegetarian.
+
+* Sie kennt die Gruppen.
+She knows the groups.
+
+* Das Publikum learnt Deutsch.
+The audience is learning German.
+
+* Mein Gegner schläft.
+My opponent is sleeping.
+
+* Nein, ich bin kein Türke.
+No, I am not a Turk.
+
+* Wir sind Mitglieder.
+We are members.
+
+* Hast du Nachbarn?
+Do you have neighbours?
+
+* Wir sind keine Fans.
+We are not fans.
+
+* Der Besucher mag mich nicht.
+The visitor does not like me.
+
+* Das Mitglied
+the members
+
+* Der Feind
+the enemy
+
+* Sie hat keine Feinder.
+She does not have enemies.
+
+* Wir sehen den Feind nicht.
+We do not see the enemy.
+
+* Wir sind Besucher.
+We are visitors.
+
+* Der Anfänger
+the beginner
+
+* Dein Nachbar ist laut.
+Your neighbour is noisy.
+
+* Sie haben viefe Fans.
+They have many fans.
+
+* Diese Kinder sind Anfänger.
+These children are beginners.
+
+* Sie mögen keine Besucher.
+They do not like visitors.
