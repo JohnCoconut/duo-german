@@ -125,3 +125,23 @@ My name is not Hans, but Karl!
 
 * Sie trägt keinen Rock, sondern einen Mantel.
 She is not wearing a skirt, but a coat.
+
+
+============================ level 1 ========================
+
+* Ist sie auch da?
+Is she there too?
+
+* Solange wir schnell sind, rennen wir.
+As long as we are fast, we run.
+
+* Er reent, sobald er Wasser sieht.
+He runs as soon as he sees water.
+
+* Sobald sie Wasser hat, trinkt sie.
+As soon as she has water, she drinks.
+
+* Ich mag ihn, da er das Essen bezalt.
+I like him since he is paying for the food.
+
+*
