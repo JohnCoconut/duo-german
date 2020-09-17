@@ -176,3 +176,10 @@ These children are beginners.
 
 * Sie mögen keine Besucher.
 They do not like visitors.
+
+====================================level 1 =================================
+
+* Leute kommen, leute gehen.
+People come, people go.
+
+*
