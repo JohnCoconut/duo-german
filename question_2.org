@@ -1,0 +1,143 @@
+#+TITLE: Question_2
+
+* Vos ist dein Haus?
+Where is your house?
+
+* Vas ist dein Vorname?
+What is your first name?
+
+* Wann lernst du?
+When do you learn?
+
+* Wohin geht sie?
+Where is she going?
+
+* Woher kommst du?
+Where do you come from?
+
+* Was bauen wir?
+What are we building?
+
+* Die Fragen sind willkommen.
+The questions are welcome.
+
+* Ich habe eine Frage.
+I have a question.
+
+* Habt ihr Fragen?
+Do you have questions?
+
+* Wohere kommt ihr?
+Where do you come from?
+
+* Und wann sind sie fertig?
+And when are they ready?
+
+* Was brauchst du?
+What do you need?
+
+* Wo bin ich?
+Where am I?
+
+* Wohin gehen wir?
+Where are we going?
+
+* Wofür ist das Werkzeug?
+What is the tool for?
+
+* Wessen Jacke ist es?
+Whose jacket is this?
+
+* Wenn du müde bist, warum gehst du nicht schlafen?
+If you are tired, why don't you go to sleep?
+
+* Warum nicht?
+Why not?
+
+* Womit bezahlst du?
+With what do you pay?
+
+* Noch keine Antworten.
+No answers yet.
+
+* Die Antwort is nein.
+The answer is no.
+
+* Wer? - Er!
+Who? - He!
+
+* Duo kennt alle Antworten.
+Duo knows all answers.
+
+* Worüber sprecht ihr?
+What are you talking about?
+** Worüber: about what?
+
+* Wieso nicht?
+Why not?
+** wieso: how so
+
+* Jede Frage hat eine Antwort.
+Every question has an answer.
+
+* Wem schreibst du?
+Who are you writing to?
+** Wem: to whom
+
+* Wen kennst du?
+Whom do you know?
+
+* Wer bin ich?
+Who am I?
+
+* Welcher Mann? - Dieser Mann!
+Which man? - This man!
+
+* Welches Kind?
+Which child?
+
+* Wie bitte?
+Pardon? Excuse me?
+
+* Warum antwortest du nicht?
+Why don't you answer?
+
+* Wie viele Katzen hast du?
+How many cat do you have?
+
+* Wie groß ist Großbritannien?
+How large is Great Britain?
+
+* Welchen Saft trinkt sie?
+Which juice does she drink?
+
+* Wie viel Milch trinkst du?
+How much milk do you drink?
+
+* Die Frauen antworten.
+The women are answering.
+
+* Sie antwortet.
+She answers.
+
+* Welche Bäume?
+Which trees?
+
+* Welchen Hund will sie?
+Which dog does she want/
+
+* Wie viele Schuhe hast du?
+How many shoes do you have?
+
+* Und antwortest du?
+And what do you answer?
+
+* Wie viel Käse esst ihr?
+How much cheese do you eat?
+
+* Welches Essen magst du?
+Which food do you like?
+
+* Wie geht es ihr?
+How is she?
+** literal meaning: How(Wie) is it(es) going to you(ihr)?
