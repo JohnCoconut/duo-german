@@ -141,3 +141,63 @@ Which food do you like?
 * Wie geht es ihr?
 How is she?
 ** literal meaning: How(Wie) is it(es) going to you(ihr)?
+
+* Es ist so wie schwimmen.
+It is like swimming.
+** so wie: like, just like
+
+* Wann antwortest du?
+When do you answer?
+
+* Welchen Vogel siehst du?
+Which girl do you see?
+
+* Aber wie?
+But how?
+
+* Wie heißen Sie?
+What is your name?
+
+* Was machst du gern?
+What do you like to do?
+
+
+====================== level 1 ==============================
+
+* Wann brauchen Sie das?
+When do you need that?
+
+* Was ist ein Mann?
+What is a man?
+
+* Wohere hast du das?
+Where did you get that from?
+
+* Was ist neu?
+What is new?
+
+* Wofür brauchst du das?
+What do you need that for?
+
+* Warum bist du so langsam?
+Why are you so slow?
+
+* Niemand anderes hat Antworten.
+Nobody else has any answers.
+
+* Wieso ist es so klein?
+Why is it so small?
+
+* Womit schreibt er?
+What is he writing with?
+
+* Wie viele Schulen hat die Stadt?
+How many schools does the city have?
+
+* Wie schnell schwimmt sie?
+How fast does she swim?
+
+* Wie hoch ist es?
+How high is it?
+
+*
