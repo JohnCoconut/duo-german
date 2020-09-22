@@ -1,0 +1,172 @@
+#+TITLE: Family 1
+
+* die Mutter
+the mother
+
+* der Vater
+the father
+
+* das Baby
+the baby
+
+* Sie hat keine Schwester.
+She does not have a sister.
+
+* Sie sieht die Töchter.
+She sees the daughters.
+
+* Mein Sohn spielt.
+My son is playing.
+
+* Ich mage Hunde, aber meine Schwester mag Katzen.
+I like dogs, but my sister likes cats.
+
+* Unsere Mütter schlafen.
+Our mothers are sleeping.
+
+* Eure Väter sind alt.
+YOur fathers are old.
+
+* Tee oder Kaffee?
+Tea or coffee?
+
+* Sie hat keinen Bruder.
+She does not have a brother.
+
+* Unsere Söhne das Schloss.
+Our sons see the castle.
+
+* Die Töchter sehen die Tiere.
+The daugher see the animals.
+
+* Hat er einen Sohn?
+Does he have a son?
+
+* Ich habe eine Tochter.
+I have a daughter.
+
+* Hans und Karl sind Brüder.
+Hans and Karl are brothers.
+
+* Wir haben Brüder.
+We have brothers.
+
+* Hast du Schwstern?
+Do you have sisters?
+
+* Er ist mein Bruder.
+He is my brother.
+
+* Das Baby braucht seine Mutter.
+The baby needs his mother.
+
+* Deine Tochter hat einen Vater.
+You dauther has a father.
+
+* die Familie
+the family
+
+* Die Restaurants mögen Familien.
+The restaurants like families.
+
+* Wir haben Familien.
+We have families.
+
+* Haben wir eine Beziehung?
+Do we have a relationship?
+
+* Unsere Beziehung ist stark.
+Our relationship is strong.
+
+* Er hat Beziehungen.
+He has relationships.
+
+* Der Partner
+the partner
+
+* Ich kenne seine Familie.
+I know his family.
+
+* Magst du deine Eltern?
+Do you like your parents?
+
+* Mutter, Vater, Geschwister
+mother, father, siblings
+
+* Meine Eltern sind aus China.
+My parents are from China.
+
+* Wir sind Partner, nicht Gegner.
+We are parters, not opponents.
+
+* Hast du Geschwister?
+Do you have siblings?
+
+* Meine Eltern mögen Bier.
+My parents like beer.
+
+* Eure Beziehung ist schön.
+Your relationship is nice.
+
+* der Großvater
+the grandfather
+
+* die Großmutter
+the grandmother
+
+* Ich bin dein Großvater.
+I am your grandfather.
+
+* Mine Mutter hat viele Enkel.
+My mother has many grandchildren.
+
+* Ich bin sein Enkel.
+I am his grandson.
+
+* Hast du eine Enkelin?
+Do you have a granddaughther?
+
+* Wir haben eine Großvater.
+We have a grandfather.
+
+* Hast du eine Enkelin?
+Do you have a granddaughter?
+
+* Seine Großeltern sind Jung.
+His grandparents are young.
+
+* Ich bin deine Enkelin.
+I am your granddaughter.
+
+* Der Mann hat keine Enkel.
+The man has no grandchildren.
+
+* Die Großmutter hat einen Enkel.
+The grandmother has a grandson.
+
+* Meine Mutter ist eine Großmutter.
+My mother is a grandmother.
+
+* Deine Großeltern haben Hunger.
+You grandparents are hungry.
+
+* Meine Oma
+My grandma
+
+* Ich kenne deinen Papa.
+I know your dad.
+
+* Mein Opa und meine Oma
+My grandpa and my grandma
+
+* Und dein Papa?
+And your dad?
+
+* Mama trinkt Kaffee.
+Mom is drinking coffee.
+
+* Mama trinkt Kaffee und papa trinkt Wasser.
+Mom is drinking coffee and Dad is drinking water.
+
+* Das ist meine Tochter, nicht meine Oma.
+That is my daughter, not my grandma.
