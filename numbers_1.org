@@ -115,3 +115,32 @@ The number is high.
 
 * Was zählt ist die Natur.
 The thing that counts is nature. / All that counts is nature.
+
+============================= level 1 ===================================
+
+* Ich habe fünf Geschwister, drei Schwestern und zwei Brüder.
+I have five siblings, three sisters and two brothers.
+
+* Die vier Mädchen lesen vier Bücher.
+The four girls are reading four books.
+
+* Sieben ist ihre Nummer.
+Seven is her number.
+
+* Warum isst du dreizehn Tomaten?
+Why are eating thirteen tomatoes?
+
+* Es gibt vierzehn Hemden.
+There are fourteen shirts.
+
+* Bist du achtzehn?
+Are you eighteen?
+
+* Ich mag diese Zahl.
+I like this number.
+
+* Neunzehn ist eine Zahl.
+Nineteen is a number.
+
+* Ich habe ein Dutzend Katzen.
+I have a dozen cats.
