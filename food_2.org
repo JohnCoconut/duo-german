@@ -1,0 +1,172 @@
+#+TITLE: Food 2
+
+* das Frühstück
+the breakfast
+
+* die Nuss
+the nut
+
+* Magst du Honig?
+Do you like honey?
+
+* die Butter
+the butter
+
+* Sie frühstücken.
+They are eating breakfast.
+
+* die Milch
+the milk
+
+* Wann frühstückt ihr?
+When do you eat breakfast?
+
+* Sie frühstückt.
+She is eating breakfast.
+
+* Wir frühstücken.
+We are eating breakfast.
+
+* das Müsli
+the muesli
+
+* Du frühstückst.
+You are eating breakfast.
+
+* Brot, Butter und Salz
+bread, butter, and salt
+
+* die Marmelade
+the jam
+
+* Ich frühstücke.
+I have eating breakfast.
+
+* die Tomate
+the tomato
+
+* der Pilz
+the mushroom
+
+* Ich mag Pilze.
+I like mushrooms.
+
+* das Mittagessen
+the lunch
+
+* Du magst Hähnchen.
+I like chicken.
+
+* Mittagessen is fertig.
+Lunch is ready.
+
+* Das Rezept ist nicht schlecht.
+The recipe is not bad.
+
+* Das Mädchen hat ein Hähnchen.
+The girl has a chicken.
+
+* Diser Wein ist salzig!
+This wine is salty.
+
+* Ich esse zu Mittag.
+I eat lunch.
+
+* die Speisekarte
+the menu
+
+* die Zitrone
+the lemon
+
+* das Getränk
+the beverage
+
+* Welches Getränk magst du?
+Which drink do you like?
+
+* Die Kinder essen Bohnen.
+The children are eating beans.
+
+* Die Orangen schmecken gut.
+The oranges taste good.
+
+* Sie kocht Gemüse für das Baby.
+She cooks vegetables for the baby.
+
+* Es ist eine Speisekarte.
+It is a menu.
+
+* Wo sind unsere Getränke?
+Where are our beverages?
+
+* Ich esse, weil er kocht.
+I eat, because he cooks.
+
+* Meine Töchter kochen.
+My daughters cook.
+
+* Sie macht ein Getränk aus Bohnen.
+She is making a drink from beans.
+
+* Wenn ich nicht koche, essen ich nicht.
+When I do not cook, I do not eat.
+
+* Schmekct die Marmelade?
+Do the jam taste good?
+
+* Zitronen sind immer sauer.
+Lemons are always sour.
+
+* der Salat
+the salad
+
+* die Zwiebel
+the onion
+
+* Das ist eine Zweibel.
+This is an oion.
+
+* der Knoblauch
+the garlic
+
+* Ich mag Senf.
+I like mustard.
+
+* das Hauptgericht
+the main course
+
+* Schokolade ist keine Vorspeise.
+Chocolate is not an appetizer.
+
+* Das essen ist scharf.
+The food is spicy.
+
+* Ich essen scharf.
+I eat spicy food.
+
+* der Löffel / die Löffel
+the spoon / the spoons
+
+* das Messer / die Messer
+the knife / the knives
+
+* die Gabel
+the fork
+
+* Wo sind die Gabeln?
+Where are the forks?
+
+* der Kuchen / die Kuchen
+the cake / the cakes
+
+* Der Nachtisch ist süß.
+The dessert is sweet.
+
+* Das Abendessen ist nich fertig.
+The dinner is not ready.
+
+* Die Messer sind scharf.
+The knives are sharp.
+
+* Ihr esst zu Abend.
+You are eating dinner.
