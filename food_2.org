@@ -3,8 +3,8 @@
 * das Frühstück
 the breakfast
 
-* die Nuss
-the nut
+* die Nuss / die Nüsse
+the nut / nuts
 
 * Magst du Honig?
 Do you like honey?
@@ -28,7 +28,7 @@ She is eating breakfast.
 We are eating breakfast.
 
 * das Müsli
-the muesli
+the muesli / cereal
 
 * Du frühstückst.
 You are eating breakfast.
@@ -170,3 +170,19 @@ The knives are sharp.
 
 * Ihr esst zu Abend.
 You are eating dinner.
+
+======================= level 1 =====================================
+
+* Die Frau is nicht zu Mittag.
+The woman is not eating lunch.
+
+* Dein Getränk bezahle ich.
+I am paying for your beverage.
+
+* Die Männer waschen die Fische und die Frauen kochen sie.
+The men are washing the fish and the women are cooking them.
+
+* Bier, Kaffee und Wein sind Getränke.
+Beer, coffee and wine are beverages.
+
+*
