@@ -1,0 +1,85 @@
+#+TITLE: Dative Case
+
+* Die Frau gibt einem Freund eine Orange.
+The woman gives an orange to a friend.
+
+* Sie gibt einem Mann eine Orange.
+She gives a man an orange.
+
+* Es gibt kein Salz.
+There is not salt.
+
+* Wir geben das Buch einem Mann.
+We give the book to a man.
+
+* Die Katze gibt einer Frau einen Rock.
+The cat gives a skirt to a woman.
+
+* Ich gebe einer Frau einen Hut.
+I give a woman a hat.
+
+* Gibst du bitte einer Frau einen Apfel?
+Will you please give a woman an apple?
+
+* Der Hunb gibt einem Mann einen Apfel.
+The dog give a man an apple.
+
+* Es gibt Menschen, die kein Haus haben.
+There are people who do not have a house.
+
+* Die Gäste zeigen einem Mann die Küche.
+The guests are showing the kitchen to a man.
+
+* Aus einem Ei
+from an egg
+
+* Sie gibt einem Kind ihren Schlüssel.
+She gives her key to a child.
+
+* Das Baby zeigt einer Frau ein Kleid.
+The baby is showing a dress to a woman.
+
+* Sie zeigt die Lampe einem Kind.
+She shows the lamp to a child.
+
+* Ich zeige einem Kind meinen Schuh.
+I am showing a child my shoe.
+
+* Er sagt ja.
+He says yes.
+
+* Sie sagen nein.
+They say no.
+
+* Wir zeigen dem Kind den Tee.
+We are showing the child the tea.
+
+* Die Menschen geht es gut.
+The people are doing well.
+
+* Das Mädchen gibt der Frau den Apfel.
+The girl gives the apple to the woman.
+
+* Er kommt aus der Schweiz.
+He comes from Switzerland.
+
+* Der Vater sagt dem Kind, dass es wichtig ist.
+The father tells the child that it is important.
+
+* Ich sage ja.
+I am saying yes.
+
+* Was sagst du dem Vater?
+What are you telling the father?
+
+* Das ist der Herr aus dem Restaurant.
+That is the gentleman from the restaurant.
+
+* Alle sagen: Tschüss.
+Everybody is saying: Bye.
+
+* Sie zeigt den Männern die Stadt.
+She shows the city to the men.
+
+* Ich sage ihr nein.
+I tell her no.
