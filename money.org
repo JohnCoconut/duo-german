@@ -95,3 +95,12 @@ The man owns a horse.
 
 * Wo ist der Geldautomat?
 Where is the ATM?
+
+
+========================== level 1 ===========================
+
+* Ich kaufe nie wieder ein Pferd.
+I am never buying a horse again.
+
+* Wer gewinnt?
+Who wins?
