@@ -1,0 +1,136 @@
+#+TITLE: Dative Propositions
+
+* Die Hemden von dem Mann sind groß.
+The men's shirts are big.
+
+* Seit dem Frühstück?
+Since breakfast?
+
+* Du lernst von ihm.
+You are learning from him.
+
+* Er spielt mit einem Tier.
+He plays with an animal.
+
+* Wir essen mit Freunden.
+We eat with friends.
+
+* Ich sehe dich von meinen Haus.
+I see you from my house.
+
+* Mein Hund speilt mit dir.
+My dog is playing with you.
+
+* Seit wann trinkt er Tee?
+Since when does he drink tee?
+
+* Von wem sprichst du?
+Who are you talking about?
+
+* Ihr sprecht von meinem Tier.
+You are talking about my animal.
+
+* mit dir
+with you
+
+* Niemand von uns ist willkommen.
+None of us is welcome.
+
+* Die Eltern sprechen mit meinen Eltern
+The parents are talking to my parents.
+
+* Nein, ich trinke nicht mit ihm!
+No, I am not drinking with him!
+
+* Sie sind Besucher von einem anderen Stern.
+They are visitors from another star.
+
+* Er schwimmt mit meiner Fruendin.
+He is swimming with my friends.
+
+* Ist jemand zu Hause?
+Is anybody home?
+
+* Ich gehe nach Hause.
+I am going home.
+
+* Die Großeltern sind bei der Wand.
+The grandparents are by the wall.
+
+* Ich kommen von zu Hause.
+I am coming from home.
+
+* Ja, sie ist zu Hause.
+Yes, she is at home?
+
+* Wer will nach Schweden?
+Who want to go to Sweden?
+
+* Ich gehe zu ihm.
+I am going to him.
+
+* Das Mittagessen ist bei meinem Eltern.
+Lunch is at my parents' house.
+
+* Wir schwimmen von Deutschland nach Österreich.
+We are swimming from Germany to Austria.
+
+* Sie liest nach dem Mittagessen.
+She reads after lunch.
+
+* Er ist bei diesem Haus.
+He is next to this house.
+
+* Meine Tochter is bei ihren Großeltern.
+My daughter is with her grandparents.
+
+* Ich gehe zu einer Brücke.
+I am walking to a bridge.
+
+* Trinkst du beim Essen?
+Do you drink while eating?
+
+* Er kommt zum Haus.
+He is coming to the house.
+
+* Ich komme nicht zur Hochzeit.
+I am not coming to the wedding.
+
+* Wir sprechen vom Großvater.
+We are talking about the grandfather.
+
+* Wie komme ich zum Bahnhof?
+How do I get to the train station?
+
+* Das sind die Lampen vom Balkon.
+These are the lamps from the balcony.
+
+* Gehst du zum Mittagessen?
+Are you going to lunch?
+
+* Wir gehen zum Meer.
+We go the the sea.
+
+* Der Apfel fällt vom Baum.
+The apple is falling from the tree.
+
+* Wir rennen zum Haus.
+We are running to the house.
+
+* Wir sind beim Abendessen.
+We are at dinner.
+
+* Wir gehe zur Schule.
+We are going to the school.
+
+* Ich gehe zum Park.
+I go to the park.
+
+* Meine Eltern lesen die Zeitung beim Frühstück.
+My parents read newspaer at breakfast.
+
+* Ich gehe zur Bank.
+I am going to the bank.
+
+* Ich komme mit dir zum Rhein.
+I am coming with you to the Rhine.
