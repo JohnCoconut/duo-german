@@ -1,0 +1,166 @@
+h#+TITLE: Body 1
+
+* das Auge
+the eye
+
+* das Ohr
+the ear
+
+* eure Augen
+your eyes
+
+* die Nase
+the nose
+
+* die Köpfe
+the heads
+
+* Der Körper ist schwer.
+The body is heavy.
+
+* Warum sind deine Augen so groß?
+Why are your eyes so big?
+
+* Er wäscht seinen Körper.
+He is washing his body.
+
+* Die Körper sind klein.
+The bodies are small.
+
+* Magst du meine Haare?
+Do you like my hair?
+
+* Auge um Auge!
+An eye for an eye!
+
+* Ihre Nasen sind schön.
+Their noses are beautiful.
+
+* Der Kopf
+the head
+
+* Das ist für deinen Kopf.
+This is for your head.
+
+* Die Wände haben Ohren.
+The walls have ears.
+
+* der Mund
+the mouth
+
+* der Arm
+the arm
+
+* Er hat neun Finger.
+He has nine fingers.
+
+* die Hand
+the hand
+
+* der Hals
+the neck
+
+* Eure Schwestern waschen ihre Hände.
+Your sisters are washing their hands.
+
+* Hände hoch!
+Hands up!
+
+* Sie hat nur neuer Finger.
+She has only nine finghers.
+
+* Das ist meine Hand.
+That is my hand.
+
+* Ich drüke dich!
+I hug you.
+
+* der Zahn / die Zähne
+the tooth / teeth
+
+* Ihre Zähne sind gesund.
+Her teetch are healty.
+
+* Nicht drüken!
+Don't push.
+
+* Sein Mund
+his mouth
+
+* Das sind nicht meine Finger.
+Those are not my fingers.
+
+* der Rücken
+the back
+
+* das Herz / die Herzen
+the heart / the hearts
+
+* Mein Herz ist schwach.
+My heart is weak.
+
+* der Magen
+the stomach
+
+* Die Schulter / die Schultern
+the shoulder
+
+* die Brust / die Brüste
+the chest, breast / the chests, breasts
+
+* meine Schultern
+my shoulders
+
+* Insekten haben keine Schultern.
+Insects don't have shoulders.
+
+* Der Brustkorb
+the chest
+
+* der Fuß / die Füße
+the foot / the feet
+
+* das Bein / die Beine
+the leg / legs
+
+* Mein Bein!
+My leg!
+
+* das Gesicht / die Gesichter
+the face/ the faces
+
+* Mein Gesicht ist nicht rund!
+My face is not round!
+
+* Deine Füße sind groß.
+Your feet are big.
+
+* Er ist fünf Fuß groß.
+He is five feet tall.
+
+* Seine Beine sind lang.
+His legs are long.
+
+* Dein Gesicht!
+Your face!
+
+* Insekten haben sechs Beine.
+Insects have six legs.
+
+* die Haut / die Häute
+the skin / the skins
+
+* Seien Haut ist kalt.
+His skin is cold.
+
+* das Blut / die Blute
+the blood
+
+* Ist das Blut?
+Is that blood?
+
+* Du hast zwei Beine.
+You have two legs.
+
+* Ich habe zwei Hände und zwei Füße.
+I have two hands and two legs.
