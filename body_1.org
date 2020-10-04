@@ -3,8 +3,8 @@ h#+TITLE: Body 1
 * das Auge
 the eye
 
-* das Ohr
-the ear
+* das Ohr / die Ohren
+the ear / the ears
 
 * eure Augen
 your eyes
@@ -54,8 +54,8 @@ the arm
 * Er hat neun Finger.
 He has nine fingers.
 
-* die Hand
-the hand
+* die Hand / die Hände
+the hand / the hands
 
 * der Hals
 the neck
@@ -164,3 +164,11 @@ You have two legs.
 
 * Ich habe zwei Hände und zwei Füße.
 I have two hands and two legs.
+
+
+======================= level 1 ============================
+* Er hat ein Dutzend Arme.
+He has a dozen arms.
+
+* Sie drükt mir die Hand
+She squeezes my hand.
