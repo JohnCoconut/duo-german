@@ -41,3 +41,35 @@ From which country do you come?
 
 * Mögen Sie Schmuck?
 Do you like jewery?
+
+======================== level 1-2 =======================
+
+* Was ist mit Ihnen?
+What about you?
+
+* Nach dir. / Nach Ihnen.
+After you.
+
+* Bitte essen Sie etwas.
+Please eat something.
+
+* Warum haben Sie keine Äpfel?
+Why don't you have apples?
+
+* Wohin gehen Sie?
+Where are you going?
+
+* Der Apfel ist für Sie.
+The apple is for you.
+
+* Sind Sie verheiratet?
+Are you married?
+
+* Ich gibe es Ihnen.
+I am giving it to you.
+
+* Bitte folgen Sie mir.
+Please follow me.
+
+* Drücken Sie den Knopf.
+Push the button.
