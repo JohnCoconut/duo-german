@@ -1,0 +1,31 @@
+#+TITLE: Some
+
+* Kennt irgendwer eine Rezept?
+Does anyone know a recipe?
+
+* irgendwo
+somewhere
+
+* Sie schläft irgendwo.
+She is sleeping somewhere.
+
+* Ich bin irgendwie traurig.
+Somehow I am sad.
+
+* irgendwann
+sometime
+
+* Irgendwann reicht es.
+At some point, it is enough.
+
+* Da ist irgendwas.
+Something is there.
+
+* Irgendwer hat zwei.
+Somebody has two.
+
+* irgendwer
+somebody
+
+* Sie sagt irgendwas.
+She says something.
