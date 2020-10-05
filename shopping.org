@@ -1,0 +1,133 @@
+#+TITLE: Shopping
+
+* der Laden / die Läden
+the store / the stores
+
+* Sie besitzt drei Läden.
+She owns three shops.
+
+* Ich gehe nicht einkaufen.
+I am not going shopping.
+
+* Wir gehen einkaufen.
+We go shopping.
+
+* die Bäckerei / die Bäckereien
+the bakery / the bakeries
+
+* Hat die Bäckerei Tomaten?
+Does the bakery have tomatoes?
+
+* Hans hat eine Bäckerei.
+Hans has a bakery.
+
+* Wo ist die Bäckerei?
+Where is the bakery?
+
+* Geschäft ist Geschäft.
+Business is business.
+
+* Der Marktplatz
+the market square
+
+* Aus dem Laden
+From the store
+
+* Das Geschäft hat keine Tomaten.
+The store has no tomatoes.
+
+* Wir verkaufen Kartoffeln.
+We are selling potatoes.
+
+* Die Bäckerei verkauft Brot.
+The backery sells bread.
+
+* die Kundin / die Kundinnen
+the female client,customer / the clients
+
+* der Kunde / die Kuden
+the male customer / the male customer
+
+* Meine Kundin ist eine Großmutter.
+My client is a grandmother.
+
+* Was verkaufst du?
+What are you selling?
+
+* Der Supermarkt hat keine Katzen.
+The supermarket has no cats.
+
+* die Kasse / die Kassen
+the cash register / the cash registers
+
+* Wo ist die Kasse?
+Where is the checkout?
+
+* die Tüte / die Tüten
+the bag / the bags
+
+* Er hat achtzehn Tüten.
+He has eighteen bags.
+
+* Die Kunden kaufen zwölf Fische.
+The customers are buy tweleve fish.
+
+* Ist das Ihr Einkaufswagen?
+Is that your shopping cart?
+
+* Sie verkaufen Fisch und Fleisch.
+You are selling fish and meat.
+
+* Das ist nicht meine Tüte.
+That is not my bag.
+
+* Diese Tüte ist zu klein.
+This bag is too small.
+
+* De Geschäft verkauft Äpfel.
+The shop sells apples.
+
+* die Apotheke / die Apotheken
+the pharmacy / the pharmacies
+
+* Das ist die Apotheke.
+That is the pharmacy.
+
+* das Angebot / die Angebote
+the offer / the offers
+
+* Das ist ein Sonderangebot.
+That is a special offer.
+
+* Das ist billig!
+That is cheap!
+
+* Es gibt fünf Apotheken.
+There are five pharmacies.
+
+* Das ist gratis.
+That is free.
+
+* der Gutschein / die Gutscheine
+the voucher / the vouchers
+
+* Das ist kein Gutschein.
+That is not a voucher.
+
+* das Zentrum / die Zentren
+the center, hub / the centers, hubs
+
+* Das Einkaufszentrum ist groß.
+The shopping center is big.
+
+* Duo kauft ein Einkaufszentrum.
+Duo buys a shopping mall.
+
+* Das sind Gutscheine für das Restaurant.
+These are vouchers for the restaurant.
+
+* Ist die Tüte gratis?
+Is the bag free?
+
+* Dieses Einkaufszentrum ist klein.
+This shopping mall is small.
