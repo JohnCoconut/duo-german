@@ -1,0 +1,349 @@
+#+TITLE: Travel
+
+* das Fahrrad / die Fahrräder
+the bicycle / the bicycles
+
+* der Bus / die Busse
+the bus / the busses
+
+* Wir kommen aus Österreich.
+We come from Austria.
+
+* Das sind Fahrräder.
+These are bicycles.
+
+* das Auto / die Autos
+the car / the cars
+
+* Dies sind Autos.
+These are cars.
+
+* Sein Auto
+His car
+
+* der Zug / die Züge
+the train / the trains
+
+* Ich mag den Zug nicht.
+I don't like the train.
+
+* Diese Züge sind schnell.
+These trains are fast.
+
+* Wir haben ein Fahrrad.
+We have a bicycle.
+
+* Mit diesem Zug?
+With this train?
+
+* Jeder braucht Urlaub.
+Everyone needs vacation.
+
+* Wir schwimmen von Deutschland nach Österreich.
+We are swimming from Germany to Austria.
+
+* Wir sprechen von meinem Auto.
+We talk about my car.
+
+* Wir sind aus Bayern.
+We are from Bavaria.
+
+* Wo ist Wien?
+Where is Vienna?
+
+* Ich mag wein aus Wien?
+I like wine from Vienna.
+
+* Wann ist der Urlaub?
+When is the vocation?
+
+* der Pass / die Pässe
+the passport / the passports
+
+* Frankreich
+France
+
+* das Visum / die Visa
+the visa / the visas
+
+* Wir haben Visa.
+We have visas.
+
+* Das ist Afrika.
+That is Africa.
+
+* die Reise / die Reisen
+the trip / the trips
+
+* Deine Reise
+your trip
+
+* Ich komme aus Hamburg.
+I am from Hamburg.
+
+* die Ferien
+the vacation
+
+* Wir haben Ferien!
+We are on vocation!
+
+* der Zoll
+the customs
+
+* Wo ist der Zoll?
+Where is customs?
+
+* Der Käse ist aus Frankreich.
+The cheese is from France.
+
+* Unsere Pässe sind bei mir.
+Our passports are with me.
+
+* Die Damen beginnen ihre Reise.
+The ladies are starting their trip.
+
+* Hamburg ist eine Stadt.
+Hamburg is a city.
+
+* Aus Deutschland, Italien und Frankreich
+From Germany, Italy and France
+
+* Er fährt mich zum Zoll.
+He is driving me to customs.
+
+* Ich habe ein Visum.
+I have a visa.
+
+* Braiche ich ein Visum?
+Do I need a visa?
+
+* Sie brauchen einen Pass und ein Visum.
+You need a passport and a visa.
+
+* der Plan / die Pläne
+the scheme, plan, map
+
+* Sie reicht ihm den Stadtplan.
+She is handing him the city map.
+
+* die Sehenswürdigkeit / die Sehenswürdigkeiten
+the sight, tourist attraction
+
+* die Würdigkeit / -
+the worthiness
+
+* Wo sind die Sehenswürdigkeiten?
+Where are the sights?
+
+* der Flug / die Flüge
+the flight
+
+* Ich bezahle die Flüge.
+I am paying for the flights.
+
+* das Taxi / die Taxis
+the taxi
+
+* Ein Taxi von Hamburg nach Wien ist teuer.
+A taxi from Hamburg to Vienna is expensive.
+
+* der Weg / die Wege
+the path, lane
+
+* Die Wege sind lang.
+The paths are long.
+
+* Wann ist der Flug?
+When is the flight?
+
+* der Führer / die Führer
+the leader, guide
+
+* Er ist mein Reiseführer.
+He is my travel guide.
+
+* Wir mögen Spanien.
+We like Spain.
+
+* der Tourismus / -
+tourism
+
+* Wien braucht etwas Tourismus.
+Vienna needs a little bit of tourism.
+
+* Tourismus hilft den Menschen.
+Tourism helps the people.
+
+* Er mag die Sehenswürdigkeiten.
+He like the sights.
+
+* Sie fährt den Weg entlang.
+She is driving along the path.
+
+* Ich habe einen Flug nach Deutschland.
+I have a flight to Germany.
+
+* Mein großvater is aus Spanien.
+My grandfather is from Spain.
+
+* Der Weg ist schwer.
+The method is difficult.
+
+* das Motorrad / die Motorräder
+the motorcycle
+
+* Es ist aus der Schweiz.
+He is from Switzerland.
+
+* Ich mag die Schweiz.
+I like Switzerland.
+
+* Das Publikum mag den Schweizer.
+The audience likes the Swiss man.
+
+* der Verkehr / die Verkehre
+the traffic
+
+* Ich mag den Verkehr nicht.
+I do not like the traffic.
+
+* Einen Mietwagen, bitte.
+A rental car, please.
+
+* Ich bin Schweizer.
+I am Swiss.
+
+* die Fahrt / die Fahrten
+the journey, drive, ride
+
+* Die Fahrt is lang.
+The drive is long.
+
+* Ich zeige ihm die Strecke.
+I show him the route.
+
+* Dieser Mietwagen ist zu klein.
+This rental car is too small.
+
+* Er fährt alle Strecken.
+He drives all routes.
+
+* Sein Motorrad ist schnell.
+His motorcycle is fast.
+
+* Ich bezahle diese Fahrt.
+I am paying for this trip.
+
+* Unsere Nachbarn sind Schweizer.
+Our neighours are Swiss.
+
+* Es ist ihre Fahrt.
+It is her trip.
+
+* Er hat ein Auto und zwei Motorräder.
+He has a car and two motorcycles.
+
+* Die Schweiz hat viele Berge.
+Switzerland has many mountains.
+
+* das Boot / die Boote
+the boat
+
+* Mag sie Italien?
+Does she like Italy?
+
+* Wo sind die Boote?
+Where are the boats?
+
+* das Abenteuer / die Abenteuer
+the adventure
+
+* Magst du Abenteuer?
+Do you like adventures?
+
+* Wanderst du gern?
+Do you like hiking?
+
+* Wie groß ist Großbritannien?
+How big is Great Britain?
+
+* Das Boot ist toll.
+The boat is great.
+
+* die Bahn / die Bahnen
+the train
+
+* Die Bahn kommt.
+The train is coming.
+
+* die Tour / die Touren
+the tour
+
+* Das ist eine Tour.
+That is a tour.
+
+* Das Abenteuer beginnt.
+The adventure begins.
+
+* Ich komme mit der Bahn
+I am coming by train.
+
+* Ich wandere nach Italien!
+I am hiking to Italy.
+
+* Wir wandern nach Hamburg.
+We are hiking to Hamburg.
+
+* Gibt es noch eine Tour?
+IS there another tour?
+
+* die Fähre / die Fähren
+the ferry
+
+* Wo ist die Fähre?
+Where is the ferry?
+
+* Der Besuch / die Besuche
+the visit
+
+* Sprichst du mit dem Schweden?
+Are you talking to the Swiss?
+
+* Fähren sind langsam.
+Ferries are slow.
+
+* die Haltestelle / die Haltestellen
+the stop
+
+* Wo ist die Bushaltestelle?
+Where is the bus stop?
+
+* Der Schweizer bucht eine Hotel.
+The Swiss man is booking a hotel.
+
+* Schweden ist nicht die Schweiz.
+Sweden is not Switzerland.
+
+* Sie kennt den Schweden.
+She knows the Swede.
+
+* Meine Möbel sind aus Schweden.
+My furniture is from Sweden.
+
+* Nein danke, wir buchen eine Hotel.
+No thanks. We are booking a hotel.
+
+* Ihr fliegt.
+You fly.
+
+* Die Verspätung / die Verspätungen
+the delay
+
+* Danke für deinen Besuch.
+Thank you for your visit.
+
+* Wie komme ich zur Bushaltestelle?
+How do I get to the bus stop?
+
+* Sie fliegen
+they fly
