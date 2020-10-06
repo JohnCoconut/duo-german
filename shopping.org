@@ -131,3 +131,9 @@ Is the bag free?
 
 * Dieses Einkaufszentrum ist klein.
 This shopping mall is small.
+
+
+====================== level 1 ===============
+
+* Eine Tüte kostet zehn Cent.
+A bag costs ten cents.
