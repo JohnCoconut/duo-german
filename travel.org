@@ -347,3 +347,41 @@ How do I get to the bus stop?
 
 * Sie fliegen
 they fly
+
+
+====================== level 1 ========================
+
+* Was ist mit unserem Zug?
+What is up with our train?
+
+* Die Busse kommen aus vielen Ländern.
+The busses come from many countries.
+
+* Er fährt mit dem Fahrrad zum Meer.
+He is riding his bicycle to the sea.
+
+* Wir fahren nach Bayern.
+We are going to Bavaria.
+
+* Wir fahren mit dem Auto.
+We are driving by car.
+
+* Wohin fährt diser Bus?
+Where does this bus go?
+
+* Die Familie macht Urlaub.
+The family is on vocation.
+
+* Ich will zum Zoll, bitte.
+I want to go to the customs, please.
+
+* Wir haben Ferien.
+WE are on vocation!
+
+* Die Geschwister laufen den Weg entlang.
+The siblings are running along the path.
+
+* Mein Flug ist um sechs.
+My flight is at six.
+
+*
