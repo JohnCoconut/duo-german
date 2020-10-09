@@ -1,0 +1,196 @@
+#+TITLE: Color
+
+* Schwarz
+black
+
+* Blau
+blue
+
+* Er ist blau.
+He is drunk.
+
+* Weiß
+white
+
+* Grün
+green
+
+* Nicht grün?
+Not green?
+
+* die Farbe / die Farben
+the color
+
+* Diser Tee hat keine Farbe.
+This tee is colorless.
+
+* rot
+read
+
+* Die Zwiebel ist rot.
+The onion is red.
+
+* Mit welchen Farben?
+With which colors?
+
+* Welche Farbe hat das Hemd?
+What color is the shirt?
+
+* gelb
+yellow
+
+* Das Auge is gelb.
+The eye is yellow.
+
+* Der Schrank ist schwarz.
+The cabinat is black.
+
+* Unsere Katze ist weiß.
+Our cat is white.
+
+* Die Farbe ist teuer.
+The paint is expensive.
+
+* Die Schwarze Katze ist ruhig.
+The black cat is calm.
+
+* Ich esse eine rote Tomate.
+I am eating a red tomato.
+
+* Ich esse einen roten Apfel.
+I am eating a red apple.
+
+* Er hat ein schwarzes Pferd.
+He has a black horse.
+
+* Zwei schwarze Autos
+two black cars
+
+* Das Mädchen isst den blauen Fisch.
+The girl eats the blue fish.
+
+* Der Wein ist rotes Wasser.
+The win is red water.
+
+* Ihr schwarzes Kleid ist teuer.
+Her black dress is expensive.
+
+* Ich sehe eine rotes Flugzeug.
+I see a red airplane.
+
+* Hast du eine rotes Auto?
+Do you have a red car?
+
+* Alle Männer haben zwei rote Hüte.
+All men have two read hats.
+
+* Die rote Erdbeere ist süß.
+The red strawberry is red.
+
+* Sie mögen schwarze Pferde.
+They like black horses.
+
+* Drei rote Bücher.
+Three read books.
+
+* Hast du schwarze Farbe?
+Do you have black paint?
+
+* Ich habe grünen Saft.
+I have green juice.
+
+* Mit einem grünen Kleid
+with a green dress
+
+* Kein weißes Hemd?
+No white skirt?
+
+* Sie gibt dir den weißen Käse.
+She gives you the white cheese.
+
+* Der schwarze Bär frisst eine Apfel.
+The black bear is eating an apple.
+
+* Das schwarze Haus.
+The black house
+
+* Ein roter Hund trägt weiße Kleider.
+A red dog is wearing white clothes.
+
+* Das rote Pferd
+the red horse
+
+* die weiße Katze
+the white cat
+
+* Sie mögen Rot.
+They like red.
+
+* Die weißen Blumen sind klein.
+The white flowers are small.
+
+* Ich habe nur weiße Hosen.
+I only have white pants.
+
+* Siehst du das rote Auto?
+Do you see the red car?
+
+* Sie hat eine weiße Wand.
+She has a white wall.
+
+* Gibt es eine grünes Haus?
+Is there a green house?
+
+* Wir sehen grüne Schuhe.
+We see green shoes.
+
+* Er kommt mit weißen Blumen.
+He is coming with white flowers.
+
+* Rot gegen blau
+red against blue
+
+* Ist das Dach rot oder schwarz?
+Is the roof red or black?
+
+* braun
+brown
+
+* grau
+gray
+
+* Der Hund is grau.
+The dog is gray.
+
+* pink
+pink
+
+* bunt
+colorful
+
+* Unser Haus ist bunt.
+Our house is colorful.
+
+* Sie sieht einen grauen Vogel.
+She sees a gray bird.
+
+* Bunte Kleidung ist schön.
+Colorful clothes are beautiful.
+
+* Ich sehe eine Bunte Lampe.
+I see a colorful lamp.
+
+* Er hat ein buntes Auto.
+He has a colorful car.
+
+* Ich habe einen braunen Hut.
+I have a brown hat.
+
+* Die grauen Katzen
+the gray cats
+
+* Hast du eine braune Tasche?
+Do you have a brown bag?
+
+* Die Erde ist braun.
+The soil is brown.

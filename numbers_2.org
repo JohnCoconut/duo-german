@@ -71,3 +71,12 @@ One billion cats?
 
 * Er hat zwei Milliarden Euro.
 He has two billion euros.
+
+
+==================== level 1 =============================
+
+* Dreißig von ihnen sind Frauen.
+Thirty of them are women.
+
+* Wir gehen durch einundzwanzig Türen.
+We walk through twenty-one doors.
