@@ -1,0 +1,280 @@
+#+TITLE: Occupation
+
+* der Arzt / die Ärzte
+the doctor
+
+* der Koch / die Köche
+the cook
+
+* die Köchin / die Köchinnen
+the cook
+
+* Die Bäckerin / die Bäckerinnen
+the baker (female)
+
+* Der Bäcker / die Bäcker
+the baker (male)
+
+* Der Beruf / die Berufe
+the occupation, job
+
+* Der Beruf ist schlecht.
+The occupation is bad.
+
+* Die Köchinnen kochen.
+The cooks are cooking.
+
+* Die Frau dankt ihrem Koch.
+The woman thanks her cook.
+
+* Die Bäcker sind toll.
+The backers are great.
+
+* Das Mächen lernt mit unsere Köchin.
+The girl learns with our cook.
+
+* Ihr seid auch Ärzte.
+You are also doctors.
+
+* Meine Frau ist Ärztin.
+My wife is a doctor.
+
+* Die Köche kochen Suppe.
+The cooks are cooking soup.
+
+* Sie ist Köchin.
+She is a cook.
+
+* Die Geschwister mögen die Ärzte nicht.
+The siblings do not like the doctors.
+
+* Meine Schwestern sind Ärztinnen.
+My sisters are doctors.
+
+* Ich gehe zum Arzt.
+I am going to the doctor.
+
+* Ich kaufe beim Bächer Brot.
+I buy bread at the backery.
+
+* Unsere Eltern haben Berufe.
+Our parents have jobs.
+
+* Ich brauche einen Arzt.
+I need a doctor.
+
+* Ich danke unsere Köchin.
+I thank our cook.
+
+* die Lehrerin / die Lehrerinnen
+the teacher (female)
+
+* der Student / die Studenten
+the university student
+
+* der Schüler / die Schüler
+the pupile
+
+* die Schülerin / die Schülerinnen
+the pupil (female)
+
+* Sie ist Schülerin.
+She is a student.
+
+* der Professor
+the professor
+
+* Der Mann ist Lehrer und die Frau ist Lehrerin.
+The man is a teach and the woman is a teacher.
+
+* Mama ist Lehrerin.
+Mom is a teacher.
+
+* Meine Schwester ist Schülerin.
+My sister is a pupil.
+
+* Du schreibst der Lehrerin.
+You writes to the teacher.
+
+* Die Schülerinnen wollen Saft.
+The pupils want juice.
+
+* Ich gebe einer Professorin eine Katze.
+I give a professor a cat.
+
+* Er gibt dem Lehrer den Schlüssel.
+He gives the teacher the key.
+
+* Wir sind Schüler.
+We are pupils.
+
+* Ich bin nicht die Professorin.
+I am  not the professor.
+
+* Die Schule hat nur vier Lehrerinnen.
+The school only has four teachers.
+
+* Ich bin Schüler.
+I am a pupil.
+
+* Er zeigt mir seine Studenten.
+He shows me his university students.
+
+* Die Studentin hat eine Katze.
+The student has a cat.
+
+* Kennt die Studentin die Professorin?
+Does the university student know the professor?
+
+* Meine Schwester ist Studentin und mein Bruder ist Schüler.
+My sister is a university student and my brother is a pupil.
+
+* die Arbeitgeberin
+the employer (female)
+
+* der Arbeitgeber
+the employer (male)
+
+* der Mitarbeiter / die Mitarbeiter
+the staff, employee, college (male)
+
+* die Mitarbeiterin / die Mitarbeiterinnen
+the staff, employee, college (female)
+
+* Der Arbeitgeber trinkt Kaffee mit Milch und Zucker.
+The employer drinks coffee with milk and sugar.
+
+* Du zeigst deine Arbeit.
+You show your work.
+
+* Die Arbeitgeber sind Freunde.
+The employers are friends.
+
+* Die Arbeit ist neu für mich.
+The work is new for me.
+
+* Der Arbeitnehmer
+the employee
+
+* Der Führer / die Führer
+the leader (male)
+
+* Der Geschäftführer ist schlecht.
+The manager is bad.
+
+* Unsere Mitarbeiterin ist schwanger.
+Our coworker is pregnant.
+
+* Sie sind die Arbeitgeberinnen.
+They are the employers.
+
+* Die Arbeitnehmer tragen die Werkzeuge.
+The employees are carrying the tools.
+
+* Meine Mitarbeiter sind toll.
+My coworkers are great.
+
+* Mein Vater ist bei der Arbeit.
+My father is at work.
+
+* Die Mitarbeiter arbeit nicht.
+The coworkers do not work.
+
+* Die Arbeitgeberin bezalt.
+The employer is paying.
+
+* der Senior / die Senioren
+the senior citizen
+
+* der Meister / die Meister
+the master
+
+* Wer ist der Bürgermeister?
+Who is the mayor?
+
+* Sind sie der Bürgermeister?
+Are you the mayor?
+
+* der Autor / die Autoren
+the author, novelist
+
+* der Chef / die Chefs
+the boss
+
+* Diese Katze ist mein Chef, nicht mein Haustier!
+This cat is my boss, not my pet!
+
+* Ich bin der Chef.
+I am the boss.
+
+* Der Senior hat keine Telefonnummer.
+The elderly does not have a phone number.
+
+* Die Chefin / die Chefinnen
+the boss (female)
+
+* Sie ist meine Chefin.
+She is my boss.
+
+* der Trainer / die Trainer
+the coach
+
+* Unser Trainer schläft nie.
+Our coache never sleeps.
+
+* Wir zeigen die Zeitung den Senior.
+The show the newspaper to the elderly person.
+
+* der Händler / die Händler
+the merchant, dealer
+
+* Er kommt mit seinem Trainer.
+He comes with his coach.
+
+* der Architekt / die Architekten
+the architect
+
+* de Bauer / die Bauern
+the peasant, farmer
+
+* die Bedienung / die Bedienungen
+the waiter
+
+* Wir sind Bauern.
+We are farmers.
+
+* die Wehr / die Wehren
+the defence
+
+* Wir haben eine Feuerwehr.
+We have a fire department.
+
+* Diese Bauern haben keine Schweine.
+These farmers do not have pigs.
+
+* Diser Bauer hat neun Kühe und elf Prerde.
+This farmer has nine cows and eleven horses.
+
+* der Verkäufer
+the salesman
+
+* Ist der Architekt teuer?
+Is the architect expensive?
+
+* der Fahrer / die Fahrer
+the driver
+
+* Die Familie hat einen Architekten.
+The family has a architect.
+
+* Sie sehen die Bedienung.
+They see the waiter.
+
+* Die Feuerwehr rennt zum Feuer.
+The fire department is running to the fire.
+
+* Die Bedienung is langsam.
+The service is slow.
+
+* Er folgt dem Meister.
+He follows the master.
