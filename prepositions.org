@@ -1,0 +1,236 @@
+#+TITLE: Propositions
+
+* smooshed words
+** am = an + dem
+** aufs = auf + das
+** ins = in + das
+** im = in + dem
+** ums = um + das
+
+* Welche Tiere legen Eier?
+Which animal lay eggs?
+
+* Er ist in Österreich.
+He is in Austria.
+
+* Der Rock ist auf dem Bett.
+The skirt is on the bed.
+
+* Er schreibt aufs Buch.
+He is writing on the book.
+
+* Das Öl ist im Laden.
+The oil is in the store.
+
+* Das Kind sitzt in einem Einfaufswagen.
+The child is sitting in a shopping cart.
+
+* Ich sehe sie im Restaurant.
+I see them in the restaurant.
+
+* Vögel legen Eier.
+Birds lay eggs.
+
+* Auf welchen Pferden sitzt ihr?
+Which horses are you sitting on?
+
+* Er passt in das Auto.
+He fits in the car.
+
+* Sind sie in China oder Europa?
+Are they in China or Europe?
+
+* Ich sitze im Garten.
+I am sitting in the garden.
+
+* In Deutschland leben viele Türken.
+Many Turkish people live in Germany.
+
+* Der Vogel sitzt auf dem Tisch.
+The bird is sitting on the table.
+
+* Sie legt das Buch auf den Tisch.
+She is putting the book on the table.
+
+* Wir legen die Blumen auf den Tisch.
+We are putting the flowers on the table.
+
+* Is ein Arzt unter uns?
+Is there a doctor among us?
+
+* Ich bin unter dem Bett.
+I am under the bed.
+
+* Ich gehe ins Bett.
+I am going to bed.
+
+* Ich schreibe über sie.
+I am writing about them.
+
+* Du hast Ringe unter den Augen.
+You have rings under your eyes.
+
+* Meine Katze schläft unter dem Sofa.
+My cat is sleeping under the sofa.
+
+* Zweischen dir und mir ist eine Wand.
+There is wall between you and me.
+
+* Entweder gehen wir unter oder wir schwimmen.
+Either we sink or we swim.
+
+* Das ist zwischen ihm und ihr.
+That is between him and her.
+
+* Du läufst ins Haus.
+You are walking into the house.
+
+* Das Wasser läuft über.
+The water is overflowing.
+
+* Ich gehe ins Restaurant.
+I am going into the restaurant.
+
+* Das ist zwischen uns.
+This is between us.
+
+* Es is aus zwischen uns.
+It is over between us.
+
+* Sie sind unter uns.
+They are among us.
+
+* Wir laufen über die Straße.
+We walk across the street.
+
+* Sie is über mir.
+She is above me.
+
+* Das Restaurant ist über dem Hotel.
+The restaurant is on top of the hotel.
+
+* Die Beziehungen zwischen den beiden Ländern sind schlecht.
+The relations between the two countries are bad.
+
+* Es ist fünf vor neun.
+It is five to nine.
+
+* Kein Bier vor vier.
+No beer before four.
+
+* Ist er hinter uns?
+Is he behind us?
+
+* Wir spielen hinter dem Haus.
+We play behind the house.
+
+* Ich spreche, während ich schlafe.
+I speak while I sleep.
+
+* Nimm deinen Mantel ab!
+Take off your coat!
+
+* Wann fährt der Bus nach Bonn ab?
+When does the bus for Bonn leave?
+
+* Die Frau läuft vor dem Haus.
+The woman walks in front of the house.
+
+* Dein Auto ist neben meinem Auto.
+You car is next to my car.
+
+* Der Garten ist vor dem Haus.
+The garden is in front of the house.
+
+* Ich lese, während ich esse.
+I read while I eat.
+
+* Sie gehen hinter ihren Eltern.
+They are walking behind their parents.
+
+* Vor, während oder nach dem Abendessen?
+Before, during or after dinner?
+
+* Ich sitze neben dir und du sitzt neben mir.
+I am sitting next to yoou and you are sitting next to be.
+
+* Das Schlafzimmer ist neben der Küche.
+The bedroom is next to the kitchen.
+
+* Wann fährt unser Bus ab?
+When does your bus depart?
+
+* Das geht Sie nichts an.
+That is none of your business.
+
+* Die Häuser am Restaurant sind nicht schlecht.
+The houses by the restaurant are not bad.
+
+* Sie macht die Lampe an.
+She turns on the lamp.
+
+* Ich gehe ums Haus.
+I am going around the house.
+
+* Er ist am Zoll.
+He is at the customs.
+
+* Ich denke an sie.
+I am thinking about her.
+
+* Wir essen am Tisch.
+We eat at the table.
+
+* Die Sonne ist am Himmel.
+The sun is in the sky.
+
+* Die Ente läuft ums Schwein.
+The duck is running around the pig.
+
+* Wann kommen wir an?
+When do we arrive?
+
+* Ich bin am Tisch mit dem Mittagessen.
+I am at the table with the lunch.
+
+* Wir denke an unsere Familien.
+We are thinking of our famiies.
+
+* Außer dem Wein
+except the wine
+
+* Sie mögen Tiere, einschließlich Katzen.
+They like animals, incluing cats.
+
+* Er isst alles außer Fleisch.
+He eats anything but meat.
+
+* Wir haben eine Katze wegen unsere Eltern.
+We have a cat because of our parents.
+
+* Ja, einschließlich mir.
+Yes, me included.
+
+* Wegen ihm beginnen wir.
+Because of him we are beginning.
+
+* Nicht wegen mir.
+Not because of me.
+
+* Er isst nicht außer Obst.
+He eats nothing but fruit.
+
+* Mein Gast isst alles außer Fleisch.
+My guest eats everything except meat.
+
+* Außer den Schuhen
+except the shoes
+
+* Ich mag jedes Gemüse außer Tomaten.
+I like all vegetables except for tomatoes.
+
+* Ich mag Obst, einschließlich Orangen.
+I like fruit, including oranges.
+
+* Dies sind Fahrräder.
+These are bicycles.
