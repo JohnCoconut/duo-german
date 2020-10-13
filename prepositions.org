@@ -1,5 +1,16 @@
 #+TITLE: Propositions
 
+* Grammar Summary
+** auf +
+*** accusative : movement from one place to another place
+*** dative:
+
+* Dative infinite articles
+** dem (m)
+** der (f)
+** dem (n)
+** den (pl)
+
 * smooshed words
 ** am = an + dem
 ** aufs = auf + das
@@ -234,3 +245,82 @@ I like fruit, including oranges.
 
 * Dies sind Fahrräder.
 These are bicycles.
+
+
+=========================== level 1 ============================
+
+* Öl is auf den Hemden.
+There is oil on the skirts.
+
+* Duo kaufe ein Schloss in Österreich.
+Duo buys a palace in Austria.
+
+* Wir sind im weißen Haus.
+We are in the white house!
+
+* Das geht aufs Haus.
+That is on the house.
+It's an idiom used to describe the owner of a restaurant provdiing free food or drinks.
+
+* Ich schwimmer im Rhine.
+I am swimming in the Rhine.
+
+* Sie legt die Kleider auf das Bett.
+She puts the clothers on the bed.
+
+* Es gibt über fünfzig Zeitungen.
+There are over fifty newspapers.
+
+* Er schläft sobald er ins Bett geht.
+He sleeps as soons as he goes to bed.
+
+* Ich gehe ins Bett.
+I am going to bed.
+
+* Wir sind unter Männern.
+WE are among men.
+
+* Hinter euch!
+Behind you!
+
+* Ich sehe ihn ab und zu.
+I see him once in a while.
+
+* Sie lesen mir ein Buch vor.
+They read me a book.
+
+* Er schläft während sein Freund spricht.
+He sleeps while his friend is talking.
+
+* Wann fährt der Zug nach Stuttgart ab?
+When does the train for Stuttgart leave?
+
+* Hast du schon etwas vor?
+Do you have plans yet?
+
+* Bitte ruft ihn an.
+Please call him.
+
+* Ruf ihn an!
+Call him!
+
+* Wir essen zu Abend am Wasser.
+We are having dinner along the water.
+
+* Er denkt an sie.
+He thinks of her.
+
+* Was magst du an ihr?
+What do you like about her?
+
+* Die Katze ist am Bett.
+The cat is next to the bed.
+
+* Die Katze geht ums Essen.
+The cat is walking around the food.
+
+* Ich sitze gerne am Fenster.
+I like sitting by the window.
+
+* Außer ihm liest keiner die Speisekarte.
+Apart from him no one reads the menu.
