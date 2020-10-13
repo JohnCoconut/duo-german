@@ -1,0 +1,119 @@
+#+TITLE: Materials
+
+* das Glas
+the glass
+
+* der Stein
+the stone, rock
+
+* Das Dach ist aus Glas.
+The roof is made of glass.
+
+* Der Tisch ist aus Holz.
+The table is wooden.
+
+* der Sand
+the sand
+
+* Die Wolle ist blau wie der Himmel.
+The wool is blue, like the sky.
+** "wie" takes the same case as the thing you are comparing to
+
+* Mein Kopf ist nicht aus Beton!
+My head is not made of concrete!
+
+* Betonkopf
+reactionary die-hard
+
+* Diese Brücke ist aus Stein.
+The bridge is made of stone.
+
+* Ist die Wand aus Beton?
+Is the wall made of concrete?
+
+* Ist das Plastik?
+Is that plastic?
+
+* Die Jacke ist aus Wolle.
+The jacket is made of wool.
+
+* Wo kaufst du deine Wolle?
+Where do you buy your wool?
+
+* Das Plastik
+the plastic
+
+* Der Sand ist weiß.
+The sand is white.
+
+* Das Holz
+the wooden
+
+* Rotes Leder
+red leather
+
+* Ich mag Baumwolle.
+I like cotton.
+
+* Wir brauchen Holz für das Feuer.
+We need wood for the fire.
+
+* Die Hüte sind aus Leder.
+The hats are made of leather.
+
+* Die Tüte ist nicht aus Papier, sondern aus Plastik.
+The bag is not made of paper, but plastic.
+
+* Sind die Hemden aus Baumwolle?
+Are the shirts made of cotton?
+
+* Die Mauer ist aus Stein.
+The wall is made of stone.
+
+* Papier ist weiß.
+Paper is white.
+
+* Sie mögen Leder.
+They like leather.
+
+* Ist der Schrank aus Pappe?
+Is the cupboard made of cardboard?
+
+* Die Maus frisst Pappe.
+The mouse is eating cardboard.
+
+* das Gold
+the gold
+
+* Der Tisch ist nicht aus Eisen, sonder aus Plastik.
+The table is not made of iron, but of plastic.
+
+* Der Stahl
+the steel
+
+* Das Silber
+the silver
+
+* Die Tür ist aus Stahl.
+The door is made of steel.
+
+* Das ist aus Silber.
+This is made of silver.
+
+* das Kupfer
+the copper
+
+* Die Professorin trägt Gold.
+The professor is wearing gold.
+
+* Bohnen haben viel Eisen.
+Beans have a lot of iron.
+
+* Diese Löffel is aus Kupfer.
+This spoon is made of copper.
+
+* Eisen ist ein Metall.
+Iron is a metal.
+
+* Duo hat Zähne aus Gold!
+Duo has teeth made from gold!
