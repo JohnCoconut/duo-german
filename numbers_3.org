@@ -92,3 +92,13 @@ That is my fourth banana.
 
 * Das ist einfach Mathematik.
 That is just math.
+
+=================== level 1 ========================
+
+* Die fünfte und die sechste Tasche sind ähnlich.
+The fifth and the sixth bags are similar.
+
+* Die Summe ist ähnlich.
+The sum is similar.
+
+*
