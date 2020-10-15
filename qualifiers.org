@@ -110,3 +110,20 @@ She is the best doctor in Germany.
 
 * Nein, normalerweise nicht.
 No, normally not.
+
+====================== level 1 ====================
+
+* Er und ich sind schon von klein auf gute Freunde.
+He and I have been good friends since childhood.
+
+* von klein auf
+since childhood
+
+* Mittagessen im guten Restaurant
+Lunch in the good restaurant
+
+* Normalerweise esse ich Frühstück.
+I normally eat breakfast.
+
+* Was ist am besten?
+What is the best?
