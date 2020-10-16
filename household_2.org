@@ -1,0 +1,244 @@
+#+TITLE: Household 2
+
+* Das ist mein Haushalt.
+That is my household.
+
+* Das sind meine zwei Geräte.
+These are my two devices.
+
+* Wo sind deine Haushaltsgeräte?
+Where are your appliances?
+
+* Das Gerät / die Geräte
+the device
+
+* der Umzug
+the relocation (changing residences)
+
+* Die Reinigung ist langsam.
+The cleaning is slow.
+
+* Der Umzug ist schnell.
+The move is quick.
+
+* Die Heizung geht.
+The heater is working.
+
+* Haben sie alle zehn Geräte?
+Do they have all ten devices?
+
+* Die Heizung ist an.
+The heater is on.
+
+* Wer bezalt den Haushalt?
+Who is paying the household bills?
+
+* Er braucht seinen Schlaf.
+He needs his sleep.
+
+* Er hat das Gerät.
+He has the device.
+
+* die Rechnung / die Rechnungen
+the bill
+
+* Wer bazalt die Rechnungen?
+Who is paying the bills?
+
+* die Bürste / die Bürsten
+the brush
+
+* die Zahnbürste
+the toothbrush
+
+* Ich brauche eine Zahnbürste.
+I need a toothbrush.
+
+* die Batterie / die Batterien
+the battery
+
+* Der Laden ist voll.
+The store is full.
+
+* Wir haben Batterien.
+We have batteries.
+
+* die Leiter / die Leitern
+the ladder
+
+* Das sind unsere Leitern.
+Those are our ladders.
+
+* Ich sehe Gläser.
+I see glasses.
+
+* Die Leiter ist groß.
+The ladder is big.
+
+* Als ich wieder zu mir komme, bin ich in einem großen Raum.
+When I become conscious again, I am in a big room.
+
+* Er braucht noch eine Batterie.
+He needs another battery.
+
+* Du brauchst diese Leiter.
+You need this ladder.
+
+* Wo sind die Batterien?
+Where are the batteries?
+
+* die Zahnpasta
+the toothpaste
+
+* Wo ist die Zahnpasta?
+Where is the toothpaste?
+
+* Die Zahnpasta ist nicht süß.
+The toothpaste is not sweet.
+
+* Diser Raum ist ruhig.
+This room is quiet.
+
+* Mein Kopf ist leer.
+My head is empty. (lack knowledge, stupid)
+
+* die Toilette / die Toiletten
+the toilet
+
+* die Tasse / die Tassen
+the cup
+
+* kühl (adj)
+cool
+
+* Wir verkaufen Kühlschränke.
+We sell refrigerators.
+
+* die Schüssel / die Schüsseln
+the bowl, dish
+
+* Der Teller ist rund.
+The plate is round.
+
+* Tassen sind rund.
+Cups are round.
+
+* Du hast eine Schüssel.
+You have a bowl.
+
+* Ich mag deine schwarzen Rucksack.
+I like your black backpack.
+
+* Hast du einen Kühlschränk?
+Do you have a fridge?
+
+* Was hast du in deinem Rucksack?
+What do you have in your backpack?
+
+* Ist das die Toilette?
+Is that the toilet?
+
+* Ich habe Teller.
+I have plates.
+
+* Ich mag die grünen Tassen.
+I like the green cups.
+
+* Wir trinken aus Tassen.
+We are drinking from cups.
+
+* Der Karton ist aus Pappe.
+The box is made of cardboard.
+
+* Seine Tasse ist blau.
+His cup is blue.
+
+* Wie viele Teller brauchst du?
+How many plates do you need?
+
+* Deine großen Fische sind auf dem Teller.
+Your big fish are on the table.
+
+* das Badezimmer
+the bathroom
+
+* der Spiegel
+the mirror
+
+* Ist die Flasche leer?
+Is the bottle empty?
+
+* Der Spiegel ist alt.
+The mirror is old.
+
+* Die Seife ist weiß.
+The soap is white.
+
+* Wann duschst du?
+When do you shower?
+
+* Brauchen wir einen oder zwei Speigel?
+Do we need one or two mirrors?
+
+* Er duscht.
+He is taking a shower.
+
+* Wo sind die Rasierer?
+Where are the razors?
+
+* Wer ist im Bad?
+Who is in the bathroom?
+
+* Ich habe keinen Spiegel in meiner Küche.
+I do not have a mirror in my kitchen.
+
+* Er braucht den Rasierer.
+He needs the razor.
+
+* Er braucht Seife.
+He need soap.
+
+* Dieser Rasierer ist ganz neu.
+This razor is brand new.
+
+* Hat das Zimmer ein Bad?
+Does the room has a bathroom?
+
+* Er trinkt aus der Flasche.
+He drinks from the bottle.
+
+* Die Flashe ist aus Glas.
+The bottle is made of glass.
+
+* Wir haben dreizehn Flashen.
+We have thirteen bottles.
+
+* Ich dusche.
+I am taking a shower.
+
+* Wir haben genug Shampoo.
+We have enough shampoo.
+
+* das Dushgel / die Dushgele
+the shower gel / body wash
+
+* Die Dusche ist schmutzig.
+The shower is dirty.
+
+* Er ist in der Dusche.
+He is in the shower.
+
+* Haben Sie Duschgel und Seife?
+Do you have body wash and soap?
+
+* Das Handtuch ist blau.
+The towel is blue.
+
+* Die Handtücher sind im Schrank.
+The towels are in the cabinet.
+
+* Has das Bad eine Dusche?
+Does the bathroom have a shower?
+
+* Er ist in der Dusche.
+He is in the shower.
