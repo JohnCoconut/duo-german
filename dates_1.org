@@ -1,0 +1,184 @@
+#+TITLE: Dates 1
+
+* Woche
+** Montag
+** Dienstag
+** Mittwoch
+** Donnerstag
+** Freitag
+** Samstag
+** Sonntag
+
+* Ich sehe dich Montag.
+See you on Monday.
+
+* Der Montag ist frei.
+That Monday is free.
+
+* Er zählt die Tags.
+He is counting the days.
+
+* Es ist Donnerstag.
+It is thursday.
+
+* Was ist mit Mittwoch?
+What aoubt Wednesday?
+
+* Am Montag gehen wir aus.
+On Monday we go out.
+
+* Am Freitag fahre ich nach Hamburg.
+On Friday I go to Hamburg.
+
+* Kommen Sie bitte in drei Tagen wieder.
+Please come back in three days.
+
+* Der Dienstag ist dem Montag ähnlich.
+The Tuesday is similar to the Monday.
+
+* Ich mag den Freitag.
+I like that Friday.
+
+* Hast du am Dienstag frei?
+Are you off on Tuesday?
+
+* Ist es ein Tag?
+Is it a day?
+
+* Tag um Tag
+Day by day
+
+* Vierzig am Tag
+Forty a day
+
+* Welcher Tag kommt vor Donnerstag?
+Which day comes before Thursday?
+
+* Am Donnerstag gibt es Bier.
+On Thursday there is beer.
+
+* zwei Wochen
+two weeks
+
+* Ich sehe ihn jedes Wochenende.
+I see him every weekend.
+
+* Es ist Samstag.
+It is Saturday.
+
+* Klar, eine Sonntag ist kein Mittwoch.
+Clearly, a Sunday is not a Wednesday.
+
+* Sei bis sechs zu Hause.
+Be home by six.
+
+* Jedese Sonntag schwimmt Duo in seinem Gold.
+Every Sunday Duo swims in his gold.
+
+* Ich esse wöchentlich drei Pizzas.
+I eat three pizzas per week.
+
+* Ich habe drei Wochen Ferien.
+I have three weeks of vocation.
+
+* Er schwimmt jeden Mittwoch und Samstag.
+He swims every Wednesday and Saturday.
+
+* Das Wochenende beginnt.
+The weekend begins.
+
+* Montag ist ein Werktag.
+Monday is a workday.
+
+* Die Brüder schlafen an den Werktagen.
+The brothers sleep on weekdays.
+
+* Am Sonntag ist kein Markt in der Stadt.
+There is no market in the city on Sunday.
+
+* Die Tage der Woche
+The days of the week
+
+* Die Samstage und Sonntage
+The Saturdays and Sundays
+
+* Ich will in die Zukunft reisen.
+I want to travel to the future.
+
+* Ich will in der Zukunft reisen.
+I want to travel in the future.
+
+* Deutschland hat Zukunft.
+Germany has a future.
+
+* Der Lehrer kennt den Alltag.
+The teacher knows the daily routine.
+
+* Wir essen und trinken täglich.
+We eat and drink daily.
+
+* Wie ist dein Alltag?
+What is your daily routine like?
+
+* Die Ferien sind zu Ende.
+The holidays are over.
+
+* Dies alles ist Vergangenheit.
+This is all in the past.
+
+* Am Ende sint alle alleine.
+In the end all are alone.
+
+* Der Anfang
+the start
+
+* Das ist das Ende.
+That is the end.
+
+* Von Anfang bis Ende
+From beginning to end
+
+* zwieschen Vergangenheit und Zukunft
+Between past and future
+
+* Ohne Vergangenheit gitb es keine Zukunft.
+Without a past there is no future.
+
+* Inzweischen haben wir achtzehn Katzen.
+In the meantime we have eighteen cats.
+
+* Du kommst bald an.
+You are arriving soon.
+
+* Der Zug kommt bald.
+The trains is coming soon.
+
+* Danach ist es zehr einfach.
+Afterwards it is very simple.
+
+* Endlich!
+Finally1
+
+* Wir gehen endlich nach Hause.
+We are finally going home.
+
+* Er kommt spätestens am Montag.
+He comes on Monday at the latest.
+
+* Und inzwieschen haben wir ein Baby.
+And in the meantime we've had a baby.
+
+* Inzwischen ist er Vater von fünf Kindern.
+By now he is the father of five children.
+
+* Danach laufen wir.
+Then we run.
+
+* Endlich ist es Freitag.
+Finally it is Friday.
+
+* Nein, mir ist nicht danach.
+No, I do not feel like it.
+
+* Spätestens nach zwei Tagen
+At the latest after two days
