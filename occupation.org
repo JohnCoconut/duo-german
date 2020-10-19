@@ -177,7 +177,7 @@ My coworkers are great.
 * Mein Vater ist bei der Arbeit.
 My father is at work.
 
-* Die Mitarbeiter arbeit nicht.
+* Die Mitarbeiter arbeiten nicht.
 The coworkers do not work.
 
 * Die Arbeitgeberin bezalt.
@@ -278,3 +278,36 @@ The service is slow.
 
 * Er folgt dem Meister.
 He follows the master.
+
+======= level 1 ===========
+
+* Mein Beruf ist mir wichtig.
+My profession is important for me.
+
+* Das Mädchen lernt mit unsere Köchin.
+The girl learns with our cook.
+
+* Solange du nicht mein Arzt bist.
+As long as you are not my doctor.
+** solange is a subordinating conjunction, so "bist" moves to the end
+
+* Meine Ärztin ist so groß wie mein Sohn.
+My doctor is as big as my son.
+
+* Ich danke unsere Köchin.
+I thank our cook.
+
+* Die Schule hat viele Schüler und Lehrer.
+The school has many pupils and teachers.
+
+* Die Studentin geht zur Lehrerin und sagt ihr alles.
+The student goes to the teacher and tells her everything.
+
+* Wann bist du mit der Arbeit fertig?
+When do you get off work?
+
+* Wann machst du Feierabend?
+When do you get off work? (colloquial way to say the same as above)
+
+* Der Geschäftführer hat keine Parterschaft.
+The CEO does not have a partnership.
