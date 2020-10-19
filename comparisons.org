@@ -149,3 +149,8 @@ As soon as I go swimming, I am better.
 
 * Er ist eine langsamer Hund, langsamer als eine Schnecke.
 He is a slow dog, slower than a snail.
+
+==================== level 1 ===================
+
+* Nichts ist mir wichtiger.
+Nothing is more important to me.
