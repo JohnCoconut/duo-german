@@ -1,0 +1,189 @@
+#+TITLE: Adjectives 2
+
+* Das ist automatisch!
+This is automatic!
+
+* Plötzlich sind wir zu Hause.
+Suddenly we are home.
+
+* Du bist fit.
+You are fit.
+
+* Das ist hilfreich.
+That is helpful.
+
+* Die Hose ist komplett schwarz.
+The pants are entirely black.
+
+* Das ist nicht regional.
+This is not regional.
+
+* Das Fahrzeug ist nicht komplett.
+The vehicle is not complete.
+
+* Unser Öl ist regional.
+Our oil is regional.
+
+* Plötzhlich sehe ich dich.
+Suddenly I see you.
+
+* Das ist allgemein richtig.
+This is generally right.
+** allgemein =  alle + gemeinsam = Everybody + together
+
+* Die Augen sind relativ groß.
+The eyes are relatively big.
+
+* Ich bin wirklich seltsam.
+I am really strange.
+
+* Er macht das tasächlich.
+He does that actually.
+
+* Das ist original.
+That is original.
+
+* Ihr Gegner ist extrem.
+Her opponent is extreme.
+
+* Sie ist aktiv.
+She is active.
+
+* Der Kopf ist relati klein.
+The head is relatively small.
+
+* Das ist zu allgemein.
+That is too general.
+
+* Ja, tasächlich!
+Yes, really!
+
+* Tasächlich, er ist es!
+Really, it is him!
+
+* Das ist es wert.
+That is worth it.
+
+* Er ist beliebt bei uns.
+He is popular with us.
+
+* Das Restaurant ist beliebt.
+The restaurant is popular.
+
+* Das ist sinnvoll.
+That is sensbile. / That makes sense.
+** sinnvoll = Sinn(sense, mind) + voll(full)
+
+* Das Geld ist knapp.
+Money is tight/scarce.
+
+* Irgendwas läuft falsch.
+Something is going wrong.
+
+* Die Fans sind echt.
+The fans are authentic.
+
+* Wir sprechen privat.
+We speak privately.
+
+* Sie ist echt süß.
+She is really cut.
+
+* Das ist sehr sinnvoll.
+That is very meaningful.
+
+* Eure Antwort ist falsch.
+Your answer is incorrect.
+
+* Das ist privat.
+That is private.
+
+* Nein, es ist echt.
+No, it is real.
+
+* Die Woche ist es wert.
+The week is worth it.
+
+* Das ist wirklich sinnvoll.
+That is really useful!
+
+* Ich bin bereit.
+I am ready.
+
+* Ich habe nichts mit ihm gemeinsam.
+I have nothing in common with him.
+
+* Wir haben etwas gemeinsam.
+We have something in common.
+
+* Es ist egal, wer du bist.
+It doesn't matter who you are.
+
+* Der Junge ist nicht verantwortlich.
+The boy is not responsible.
+
+* Das Fenster ist offen.
+The window is open.
+
+* Ich bin ausgezeichnet!
+I am great / distinguished.
+
+* Das Fleisch ist ausgezeichnet.
+The meat is excellent.
+
+* Lass die Tür nicht offen.
+Do not leave the door open.
+
+* Alles ist bereit.
+Everything is ready.
+
+* Wer ist verantwortlich?
+Who is responsible?
+
+* Der Schrank ist offen.
+The cabinet is open.
+
+* Egal was du machst.
+No matter what you do.
+
+* Sind sie zuständig?
+Are you responsible? (in charge)
+
+* Der Honig schmeckt komisch.
+The honey tastes strange.
+
+* Die Frau ist genau.
+The woman is meticulous.
+
+* Das Leder ist fest.
+The leather is firm.
+
+* Er ist fest.
+It is firm.
+
+* Die Butter ist hart.
+The butter is hard.
+
+* Das Ei ist weich.
+The egg is soft.
+
+* Das Brot is sehr hart.
+The bread is very hard.
+
+* Die Hose ist kaputt.
+The pants are torn.
+
+* Wo sind sie genau?
+Where are they exactly?
+
+* Sie geht komisch.
+She walks in a strange way.
+
+* Die Teller ist auch kaputt.
+The plate is broken, too.
+
+* Die Tasse ist kaputt.
+The cup is broken.
+
+* Wofür ist sie zuständig?
+What is she responsible for?
