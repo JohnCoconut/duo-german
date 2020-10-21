@@ -1,0 +1,133 @@
+#+TITLE: Location
+
+* Sie ist nicht von dort.
+She is not from there.
+
+* Wieso bist du hier?
+Why are you here?
+
+* Hier ist mein Schlüssel.
+Here is my key.
+
+* Da sind drei Autos auf der Staße.
+There are three cars on the street.
+
+* Da drüben ist er!
+He is over there.
+
+* Die Leiter ist da.
+The ladder is there.
+
+* Sie sind dort drüben.
+They are over there.
+
+* Hier sind die Häuse mit den Restaurants.
+Here are the houses with the restaurants.
+
+* Die Katze da drüben ist süß.
+The cat over there is cute.
+
+* Bist du da?
+Are you there?
+
+* Das ist Geld in diser Hose.
+There is money in these pants.
+
+* Gibt es dort drüben Essen?
+Is there food over there?
+
+* Eure Schuhe sind hier.
+Your shoes are here.
+
+* Die Kasse ist dort drüben.
+The checkout is over there.
+
+* Hier sind fünf Dollar.
+Here are five dollars.
+
+* Es ist dort!
+It is there.
+
+* Hier ist der Spiegel.
+Here is the mirror.
+
+* Sind sie weit von hier?
+Are they far from here?
+
+* Und was ist da?
+And what is there?
+
+* Wer ist nebenan?
+Who is next door?
+
+* Wir gehen nicht nach vorne.
+We are not going to the front.
+
+* Wir sind nebenan.
+We are next door.
+
+* Ich bin hinten.
+I am in the back.
+
+* Die Leiter ist unten.
+The ladder is downstairs.
+
+* Die Schlafzimmer sind oben.
+The bedrooms are upstairs.
+
+* Es ist da vorne.
+It is up ahead.
+
+* Die Katze sind oben auf dem Dach.
+The cats are up on the roof.
+
+* Der Spiegel ist hinten im Raum.
+The mirror is at the back of the room.
+
+* Wir sind hinten in der Küche.
+We are in the back of the kitchen.
+
+* Wir wandern nach oben.
+We are hiking upwards.
+
+* Ich bin drinnen.
+I am inside.
+
+* Innen ist es fertig.
+It is done inside.
+
+* Sind sie drinnen oder draußen?
+Are they inside or outside?
+
+* Von außen?
+From outside?
+
+* Innen und außen
+inside and outside
+
+* Sie ist überall.
+She is everywhere.
+
+* Er spielt draußen.
+He is playing outside.
+
+* In Deutschland sind sie überall.
+In Germany there are everywhere.
+
+* Sie spielen drinnen.
+They are playing inside.
+
+* Von außen sieht es gut aus.
+From outside it looks good.
+
+* Er mag das Boot von innen.
+He likes the boat from inside.
+
+* Sind sie drinnen oder draußen?
+Are they inside or outside?
+
+* Ich will, dass ihr es von innen seht.
+I want you to see it from inside.
+
+* Du gehst entweder drinnen oder draußen schwimmen.
+You either go swimming inside or outside.
