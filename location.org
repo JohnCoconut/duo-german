@@ -131,3 +131,41 @@ I want you to see it from inside.
 
 * Du gehst entweder drinnen oder draußen schwimmen.
 You either go swimming inside or outside.
+
+======= level 1 =========
+
+* Da ist ein Hund auf der Brücke.
+There is a dog on the bridge.
+
+* Ist irgendwer hier?
+Is someone here?
+
+* Der Apfel da ist klein.
+That apple is small.
+
+* Das ist ein Stein in meinem Schuh.
+There is a stone in my shoe.
+
+* Da sind siebzehn Männer auf der Straße.
+There are seventeen men on the street.
+
+* Das Flugzeug ist noch nicht hier.
+The airplane is not here yet.
+
+* Hier gibt es keine Sehenswürdigkeinten.
+There are no landmarks here.
+
+* Langsam da vorne.
+Slowly there in the front.
+
+* Der Gast ist auf dem Berg.
+The guest is on top of the moutain.
+
+* Hinten im Garten sind rote Blumen.
+In the back of the garden there are red flowers.
+
+* Ich bin unten an der Tür.
+I am downstairs at the floor.
+
+* Es ist nicht überall so.
+It's not like this everywhere.
