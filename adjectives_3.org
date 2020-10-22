@@ -1,0 +1,149 @@
+#+TITLE: Adjectives 3
+
+* Ihr seht, ich bin begeistert.
+You see I am enthusiastic.
+** begeinstert <- geist(spirit, ghost)
+
+* Dises Haus ist verfügbar.
+This house is available.
+
+* Es ist notwendig.
+It is necessary.
+** notwendig = not + wendig(agile, flexible)
+
+* Keiner ist zufrieden.
+Nobody is satisfied.
+** zufrieden <- Frieden(Peace)
+
+* Bist du zufrieden?
+Are you content?
+
+* Nichts ist selbstverständlich.
+Nothing is self evident.
+** selbstverständlich = selbst(itself, youself, myself) + verständlich(undstandable)
+
+* Was ist eindeutig?
+What is clear? (something has one meaning, one interpretation)
+** eindeutig = eins(one) + deuten(to interpret) + ig
+
+* Das ist eindeutig.
+That's clear.
+
+* Lehrer sind notwendig.
+Teachers are necessary.
+
+* Ist er mit seinem Alltag zufrieden?
+Is he satisfied with his daily routine?
+
+* Alle sind begeistert.
+Everyone is excited.
+
+* Das ist eindeutig keine Orange.
+That is clearly not an orange!
+
+* Mein Bruder ist abhängig.
+My brother is addicted.
+** abhängig = abhängen(to depend) + ig = addicted, dependent
+
+* Er ist mir bekannt.
+He is familiar to me.
+** bekannt (famous, familiar) <- bekennen (to confess) <- kennen (to know, to be acquainted with; to be familiar with)
+
+* Das Mitglied ist unbekannt.
+The member is unknown.
+
+* Warum ist dein Bruder unsichtbar?
+Why is your brother invisible?
+** unsichtbar = un + sichtbar(visible)
+** sicht = Sicht(sight, view, visibility) + -bar(-able, -ible)
+
+* Der grüne Bär ist unsichtbar.
+The green bear is invisible.
+
+* Sie ist unabhängig.
+She is independent.
+
+* Der Name ist bekannt.
+The name is familiar.
+
+* Wer ist abhängig?
+Who is addicted?
+
+* Vier Tiere sind sichtbar.
+Four animals are visible.
+
+* Das ist mir unbekannt.
+That is unknown to me.
+
+* Die rote Jacke ist sichtbar.
+The red jacket is visible.
+
+* Die Schweiz ist unabhängig von Europa!
+Switzerland is independent of Europe.
+
+* Das Ende ist unbekannt.
+The end is unknown.
+
+* Beziehungen sind praktisch.
+Relationships are practical.
+
+* Er sagt ihr dass es unmöglich ist.
+He tells her it is impossible.
+** unmöglich = un- + möglich(possible)
+** möglich = mögen(to want to, may) + -lich
+
+* Sie sind unmöglich.
+You are impossible. (difficult to get along with)
+
+* Nimm es nicht persönlich.
+Do not take it personally.
+
+* Es ist nicht möglich.
+It is not possible.
+
+* Ist die Frage persönlich?
+Is the question personal?
+
+* Es ist positiv.
+It is positive.
+
+* Bäume sind nützlich.
+Trees are useful.
+** nützlich = nutzen(make use of, utilize) + -ich
+
+* Alles ist möglich.
+Everything is possible.
+
+* Ich bin meinem Freund verpflichtet.
+I am commited to my friend.
+** verpflichtet = verpflichten(to be an obligation, to commit)
+
+* Die Fahrt ist kostenlos.
+The trip is free.
+** kostenlos = kosten(cost) + -los(-less)
+
+* Das Essen ist international.
+The food is international.
+** nous ending in -tion are pronounced like "-zion"
+
+* Sie sind sehr individuell.
+They are very individualistic.
+
+* Ist es wahrscheinlich?
+Is it likely?
+** wahrscheinlich = wahr(true) + scheinen(to seem, to appear)
+
+* Wir sprechen deutlich.
+We speark very clearly.
+
+* Wahrscheinlich gibt es Wein zum Mittagessen.
+There is probably wine with lunch.
+
+* Ich bin verpflichtet.
+I am obliged.
+
+* Er schläft wahrscheinlich noch.
+He is probably still asleep.
+
+* Das Kleid ist individuell.
+The dress is distinct.
