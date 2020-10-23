@@ -147,3 +147,12 @@ He is probably still asleep.
 
 * Das Kleid ist individuell.
 The dress is distinct.
+
+
+========== from Der Zauberberg ===============
+
+* begeistert
+Frau Stöhr weinte begeistert im Anblick der Form des ehemaligen Joachim.
+
+* verfügbar
+Schon hatte er alle verfügbaren Schutzmittel gegen die Kälte aufgeboten, den ganze Apparat.
