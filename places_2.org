@@ -1,0 +1,206 @@
+#+TITLE: Places 2
+
+* Nein, auch nicht in seiner Pension.
+No, not even in his pension.
+
+* Wo wohnen Sie?
+Where do you live?
+
+* Die Kleipe ist nicht neu.
+The bar is not new.
+
+* Der Ort
+the place
+
+* Ich habe genug Platz.
+I have enough room.
+
+* der Platz / die Plätze
+the space, place, square, spot
+
+* Es gibt drei Plätze am Tische.
+There are three places at the table.
+
+* Hast du eine Unterkunft?
+Do you have a shelter?
+** Unterkunft <- kunterkommen (to find a place, to find shelter)
+
+* Wir wandern von Ort zu Ort.
+We are hiking from place to place.
+
+* Die Pension hat keine Stüle.
+The guest house has no chairs.
+
+* My Großeltern wohnen nebenann.
+My grandparents live next door.
+
+* Do whonst in Chicago.
+You live in Chicago.
+
+* Meine Schwester wohnt in Italien.
+My sister lives in Italy.
+
+* Mein Platz ist da.
+My spot is there.
+
+* Es gibt eine Pension im Schloss.
+There is an inn in the castle.
+
+* Ich wohne in Berlin.
+I live in Berlin.
+
+* Der Bereich / die Bereiche
+the realm, range, area
+
+* Wir wandern durch den Ort.
+We are hiking through the village.
+
+* Die Summe ist aus drei Bereichen.
+The sum is from three ranges.
+
+* Der Flughafen / die Flughäfen
+the airport
+** Flughafen = flug(airfare, flight) + hafen(harbor, port)
+
+* Das Bundesland / die Bundesländer
+the state (in Germany or Austria)
+** Bundesland = Bund(a bunch, alliance) + land(country)
+
+* Der Ort hat einen Flughafen.
+The town has a airport.
+
+* der Grund / die Gründe
+the reason, ground
+
+* Et hat keinen Grund.
+He has no reason.
+
+* der Bezirk / die Bezirke
+the district
+
+* Zu welchem Bezirk gehörst du?
+Wich district do you belong to?
+
+* Hamburg ist eine Stadt und ein Bundesland.
+Hamburg is a city and a state.
+
+* der Standort / die Standorte
+the site, location
+
+* Wir brauchen eine Standort am Meer.
+We need a location by the ocean.
+
+* die Region / die Regionen
+the region
+
+* aus den Regionen
+from the regions
+
+* Wie komme ich zum Flughafen?
+How do I get to the airport?
+
+* Die Region hat viele Berge.
+There are many mountains in the area.
+
+* Er wohnt gegenüber.
+He is living across the street.
+
+* Der Standort ist wichtig.
+The location is important.
+
+* der Hof / die Höfe
+the yard, courtyard
+
+* Wir spielen auf dem Hof.
+We are playing in the courtyard.
+
+* Wo ist das Zentrum der Stadt?
+Where is the city center?
+
+* die Zentrale / die Zentralen
+the headquarters, center
+
+* Er fährt zur Zentrale.
+He is driving to the headquarters.
+
+* Die Innenstadt ist alt.
+The downtown is old.
+
+* Da sind drei Höfe.
+There are three courtyards.
+
+* das Grundstück / die Grundstücke
+the premise, property, site
+
+* Das ist das Grundstück.
+That is the property.
+
+* Die Halle ist sehr groß.
+The hall is very big.
+
+* die Fläche / die Flächen
+the area, surface
+
+* Wie groß ist die Fläche?
+How big is the surface?
+
+* das Zentrum / die Zentren
+the center
+
+* Ich mag das Grundstück.
+I like the site.
+
+* Die Innenstadt ist laut.
+The city center is loud.
+
+* der Mittelpunkt / die Mittelpunkte
+the center, hub
+
+* die Insel / die Inseln
+the island
+
+* Sind sie in China oder Europa?
+Are they in China or Europe?
+
+* Das FerienHaus
+the holiday home
+
+* Es gibt Inseln im Meer.
+There are islands in the sea.
+
+* Es ist die Hauptstadt.
+It is the capital.
+** Hauptstadt = Haupt(head, main) + Stadt(city)
+
+* Die Umgebung ist grün.
+The environment is green.
+
+* Ich wohne in der Hauptstadt.
+I live in the capital.
+
+* Ist dein Onkel noch im Ausland?
+Is your uncle still abroad?
+
+* Ich habe kein Land und keine Heimat.
+I have no coutry and no home.
+
+* Im FerienHaus essen wir Äpfel.
+In the vacation home we are eating apples.
+
+* Ich zeige euch das Insere.
+I am showing you the inside.
+
+* Es gibt in unsere Umgebugn keinen Flughafen.
+There is no airport in our vicinity.
+
+* England ist auf einer Insel.
+England is on an island.
+
+* Wer geht ins Ausland?
+Who goes abroad?
+
+* Das Innere zählt nicht.
+The inside does not count.
+
+* Mein Ferienhaus hat eine kleinen Hof.
+My vocation home has a small yard.
