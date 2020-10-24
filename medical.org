@@ -1,0 +1,227 @@
+#+TITLE: Medical
+
+* der Patient / die Patienten
+the patient
+
+* Das sind unsere Patienten.
+Those are our patients.
+
+* das Medikament / die Medikamente
+the drug, medicine
+
+* Ich blute!
+I am bleeding!
+
+* Warum blutest du?
+Why are you bleeding?
+
+* Meine Schwester ist wieder krank.
+My sister is sick again.
+
+* Mein Rollstuhl ist kaputt.
+My wheelchair is broken.
+
+* Diese Apotheke hat mein Medikament nicht.
+This pharmacy does not have my medication.
+
+* Meine Freunde bluten.
+My friends are bleeding.
+
+* Kinder, warum blutet ihr?
+Children, why are bleeding?
+
+* Sie gehen mit dem Medikament zur Kasse.
+They are taking the medicine to the checkout.
+
+* Bitte hilft us; wir bluten!
+Please help us; we are bleeding!
+
+* Wir verkaufen keine Medikamente.
+We do not sell drugs.
+
+* Meine Nase blutet.
+My nose is bleeding.
+
+* Der Patient blutet.
+The patient is bleeding.
+
+* das Pflaster / die Pflaster
+the plaster
+
+* Hast du Pflaster für mich?
+Do you have a plaster for me?
+
+* Ich brauche ein Pflaster, weil ich blute.
+I need a band-aid because I am bleeding.
+
+* Wo sind meine Medikamente?
+Where are my drugs?
+
+* Ihr blutet auf meinen Teppich.
+You are bleeding onto my carpet!
+
+* das Formular / die Formulare
+the form (printed form)
+
+* Haben Sie ein Forumlar?
+Do you have a form?
+
+* Das sind die beiden Formulare.
+These are the two forms.
+
+* die Untersuchung / die Untersuchungen
+the study, investigation, examination
+
+* Das ist meine Untersuchung.
+That is my medical investigation.
+
+* Wo ist ihre Praxis?
+Where is her practice?
+
+* Das Formular ist für dich.
+The form is for you.
+
+* Gesundheit!
+Bless you!
+
+* die Krankheit / die Krankheiten
+the disease
+
+* Fast alle Leiden des Individuums sind Krankheiten des sozialen Organismus.
+Almost all sufferings of individual are illnesses of the social organism.
+
+* Gesundheit ist wichtig.
+Health is important.
+
+* Die Krankheit ist neu.
+The disease is new.
+
+* Ich bezahle für die Untersuchungen.
+I am paying for the investigations.
+
+* Das ist das erste Formular.
+This is the first form.
+
+* die Medizin / die Medizinen
+the medicine
+
+* Trinke die Medizin.
+Drink the medicine.
+
+* das Krankenhaus / die Krankenhäuser
+the hospital
+
+* Ich mag das Krankenhaus nicht.
+I don't like the hospital.
+
+* der Krankenwagen / die Krankenwagen
+the ambulance
+
+* Brauchst du einen Krankenwagen?
+Do you need an ambulance?
+
+* Ich habe eine gute Krankenversicherung.
+I have good health insurance.
+
+* Er ist im Krankenhaus.
+He is in the hospital.
+
+* Ein Krankenwagen fährt die Straße entlang.
+The ambulance is driving along the street.
+
+* Die Medizin ist süß.
+The medication is sweet.
+
+* Die Medizin ist praktisch für Mütter.
+The medicine is practical for mothers.
+
+* Wer ist bei ihr im Krankenhaus?
+Who is in the hospital with her?
+
+* Warum hast du keinen Zahnarzt?
+Why don't you have a dentist?
+
+* das Opfer / die Opfer
+the sacrifice, victim
+
+* Sie hilft den Opfern.
+She helps the victims.
+
+* der Notfall / die Notfälle
+the emergency, distress
+** Notfall = Not(distress, hardship) + Fall(case, instance)
+
+* Wir haben einen Notfall.
+We have an emergency.
+
+* Kennst du meine Zahnärztin?
+Do you know my dentist?
+
+* der Unfall / die Unfälle
+the accident, crash
+
+* Drei Unfälle in drei Wochen!
+three accidents in three weeks!
+
+* Wo ist der Notfall?
+Where is the emergency?
+
+* Die Schlafzimmer sind oben.
+The bedrooms are upstairs.
+
+* Meine Mutter ist Zahnärztin.
+My mother is a dentist.
+
+* Die Schülerin sieht eine Unfall.
+The pupil sees an accident.
+
+* Sie sind beide schlechte Köche.
+They are both mad cooks.
+
+* Ich habe das Opfer.
+I have the victim.
+
+* Das Opfer braucht Suppe.
+The victim needs soup.
+
+* Ist das der Unfall?
+Is that the accident?
+
+* Leider habe ich viele schlechte Zähne.
+Unfortunately I have many bad teeth.
+
+* Es gibt viele Opfer.
+There are many victims.
+
+* der Alkohol / die Alkohole
+the alcohol
+
+* die Ernährung
+the die, nutrition
+
+* Welche Ernährung ist gut für mich?
+Which diet is good for me?
+
+* Die Diät ist schlecht.
+The diet is bad.
+
+* Eine Therapie ist nicht notwendig.
+Therapy is not necessary.
+
+* Er mag die Therapie.
+He likes the therapy.
+
+* die Klinik / die Kliniken
+the clinic
+
+* Ist das der Arzt aus der Klinik?
+Is that the doctor from the clinic?
+
+* Das ist meine Klinic.
+That is my clinic.
+
+* Eure Ernährung ist schlecht.
+Your nutrition is bad.
+
+* Die Therapie hilft ihm.
+The therapy helps him.
