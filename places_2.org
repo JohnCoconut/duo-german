@@ -34,7 +34,7 @@ The guest house has no chairs.
 * My Großeltern wohnen nebenann.
 My grandparents live next door.
 
-* Do whonst in Chicago.
+* Do wohnst in Chicago.
 You live in Chicago.
 
 * Meine Schwester wohnt in Italien.
@@ -204,3 +204,24 @@ The inside does not count.
 
 * Mein Ferienhaus hat eine kleinen Hof.
 My vocation home has a small yard.
+
+
+============= level 1 ================
+
+* Er wohnt über mir.
+He lives above me.
+
+* Der Platz passt für die Hochzeit.
+The place is suitable for the wedding.
+
+* Manche Menschen wohnen in Amerika.
+Some people live in America.
+
+* Die Hauptstadt von Deutschland ist Berlin.
+The capital of Germany is Berlin.
+
+* My Ferienhaus ist hinter dieser Brücke.
+My vocation home is hehind this bridge.
+
+* Ich wohne im Ausland.
+I live abroad.
