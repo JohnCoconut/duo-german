@@ -225,3 +225,14 @@ Your nutrition is bad.
 
 * Die Therapie hilft ihm.
 The therapy helps him.
+
+========= level 1 ==========
+
+* Meine Zahnärztin hat schlechte Zähne!
+My dentist has bad teeth!
+
+* Das Opfer blutet stark.
+The victim is bleeding heavily.
+
+* Keine Klinik ist so voll wie diese Klinik.
+No clinic is as full as this clinic.
