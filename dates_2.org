@@ -213,6 +213,12 @@ the conclusion, end
 * Ein Schluss ist sinnvoll.
 A conclusion is reasonable.
 
+* Dieses Jahr ist der Sommer kalt.
+This year the summer is cold.
+
+* Das Hemd ist für den Sommer.
+The shirt is for the summer.
+
 * Herr, ich will ein Pferd zum Geburtstag.
 Lord, I wnat a horse for my birthday.
 
@@ -257,3 +263,45 @@ My birthday is in fourteen days.
 
 * Welches Jahrhundert?
 Which century?
+
+
+============ level 1 ================
+
+* Sie leben achtzehn Monate.
+They live for eighteen months.
+
+* Er fährt jedes Jahr ins Ausland.
+He goes abroad every year.
+
+* In Sommer scheint die Sonne.
+The sun is shining in summer.
+
+* Jährlich von Juni bis August
+Each year from June to August
+
+* Beginnt das Quartal im August?
+Does the quarter begin in August?
+
+* Der Kalender fehlt.
+The calendar is missing.
+
+* Das Oktoberfest beginnt im September.
+Oktoberfest starts in September.
+
+* seit Oktober
+since October
+
+* Die Wohnung ist kühl.
+The apartment is chilly.
+
+* In Deutschland ist Weihnachten im Winter.
+In Germany, Christmas is in winter.
+
+* Der Januar ist der erste Monat im Kalender.
+January is the first month in the calendar.
+
+* Die Saison beginnt Ende September.
+The seaon begins at the end of September.
+
+* Ich habe bald Geburtstag.
+It is my birthday soon.
