@@ -352,4 +352,14 @@ He doesn't mean it that way.
 * Er fehlen keine Eier.
 There are no eggs missing.
 
-*
+
+================ level 1 ===============
+
+* Ich arbeite gerne.
+I like working.
+
+* Die Eltern halten ihre Babys.
+The parents are holding their babies.
+
+* Ich weiß nicht wieso du ihn nicht magst.
+I do not know why you do not like him

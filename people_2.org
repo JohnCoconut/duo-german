@@ -55,6 +55,7 @@ Steel is made from iron.
 
 * die Bevölkerung / die Bevölkerungen
 population
+** Bevölkerung <- bevölkern(to populate) <- Volk(herd, )
 
 * Wie groß ist die Bevölkerung?
 What is the population?
@@ -78,13 +79,42 @@ He speaks to the youth.
 All residents are healty.
 
 * Das Paar
-the pairs
+the pair
 
 * Die Bevökerung arbeit an Werktag.
 The population works on weekdays.
 
-* Nein, die Einwohner ist kein Bürger.
+* Nein, der Einwohner ist kein Bürger.
 No, the inhabitant is not a citizen.
 
 * Mann braucht Öl für den Fisch.
 One needs oil for the fish.
+
+============== level 1 ================
+
+* Der Nutzer lernt in der Gruppe.
+The uses is learning in the group.
+
+* Ich habe mit ihm ein sehr gutes Verhältnis.
+I have a very good relationship with him.
+
+* In meiner Jugend
+during my youth
+
+* Wie viele Einwohner hat dieses Dorf?
+How many inhabitants does this village have?
+
+* Wen besuchst du?
+Whom are you visiting?
+
+* Ich besuche dich im Krankenhaus.
+I visit you in the hospital.
+
+* Man ist entweder frei oder nicht.
+One is either free or not.
+
+* Ich besuche sie alle zwei Tage.
+I am visiting her every two days.
+
+* Man ist, was man isst.
+You are what you eat.
