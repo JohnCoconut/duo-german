@@ -145,8 +145,8 @@ The idea is not bad.
 * Die Gedanken sind frei.
 Thoughts are free.
 
-* Die Ente ist langweilig.
-The duck is boring.
+* Der Ente ist langweilig.
+The duck is bored. (der Ente: accusative case)
 
 * Sonntag ist ein Tag der Ruhe.
 Sunday is a day of rest.
@@ -265,7 +265,7 @@ understanding
 Please be understanding.
 
 * Hast du Verständnis für sie?
-Can you understand her?
+Can you understand her? (have empathy for her)
 
 * die Schuld / die Schulden
 debt, fault
@@ -284,3 +284,70 @@ That is not nice at all.
 
 * Zum Glück haben wir Wasser.
 Luckily we have water.
+
+
+=========== level 1 =================
+
+* Du hast drei Wünsche.
+You have three wishes.
+
+* I will einen Flaschengeist finden.
+I want to find a genie in a bottle.
+** Flaschengeist = flaschen(bottle) + geist(genie, spirit)
+
+* Deine Freude ist sichtbar.
+Your joy is visible.
+
+* Sie ist meine erste Liebe.
+She is my first love.
+
+* Die Liebe wird alles lösen.
+Love will solve everything.
+
+* Ist für Sie alles ein Spaß?
+Is everything a joke to you?
+
+* Die Maus hat Angst vor uns.
+The mouse is scared of us.
+
+* Das ist unheimlich groß.
+That is extremly big.
+
+* Das ist dein Eindruck von mir?
+That is your impression of me?
+
+* Ich liebe euch auch.
+I love you too.
+
+* Die Angst ändert das Land.
+The fear changes the country.
+
+* Eure Bücher sind so interessant wie immer.
+Your books are as interesting as ever.
+
+* Mir ist langweilich.
+I am bored.
+
+* Ich bin langweilich.
+I am boring. (a boring person)
+
+* Seine Gedenken sind bei den Eltern.
+His thoughts are with the parents.
+
+* Ich habe liber keinen Ärger.
+I prefer not being in trouble.
+
+* Ist er ehrlich zu dir?
+Is he honest with you?
+
+* Liebling ich bin stolz auf dich.
+Darling, I am pround of you.
+
+* Der Rock ist ganz gut, aber total kurz.
+The skirt is not bad, but really short!
+
+* Wie nett von dir!
+How kind of you!
+
+* Zum Glück ja!
+Fortunately yes!
