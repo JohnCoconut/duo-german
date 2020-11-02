@@ -1,0 +1,264 @@
+#+TITLE: Time
+
+* der Morgen
+morning
+
+* Dann endet es.
+Then it is over.
+
+* der Termin / die Termine
+appointment
+
+* Haben Sie einen Termin?
+Do you have an appointment?
+
+* Moment, er schläft.
+Hold on, he is sleeping.
+
+* Welcher Tag ist heute?
+What day ist today?
+
+* Wir haben im Moment kein Öl.
+We do not have any oil at the moment.
+
+* Der Termin ist im März.
+The appointment is in March.
+
+* Gestern
+Yesterday
+
+* Gestern oder heute?
+Yesterday or today?
+
+* Handelt jetzt!
+Act now!
+
+* I habe morgen Geburtstag.
+My birthday is tomorrow.
+
+* Moment, er spricht.
+Just a moment, he is speaking.
+
+* Es ist jetzt sehr kalt.
+It is very cold now.
+
+* Und was dann?
+And then what?
+
+* Heute giht es ihm besser als gestern.
+Today he is feeling better than yesterday.
+
+* Der Moment ist persönlich.
+The moment is private.
+
+* Der Termin steht fest.
+The appointment is set.
+** feststehen (to be fixed) = stehen(stand) + fest(firm)
+
+* Wenn es läuft, dann ist es gut.
+If it works, then it is good.
+
+* Der Termin ist jedes Jahr im Juli.
+The appointment is in July every year.
+
+* die Nacht / die Nächte
+night
+
+* Heute Abend treffe ich sie.
+This evening I am meeting them.
+
+* Sie isst jeden Morgen Müsli.
+She eats cereal every morning.
+
+* Ich werde dreu Nächte bleiben.
+I will stay three nights.
+
+* Wir lesen am Abend.
+We are reading in the evening.
+
+* Ich esse nicht am Mittag.
+I do not eat at noon.
+
+* Ich werde eine Nacht bleiben.
+I will stay one night.
+
+* Die Nacht ist dunkel und voller Schrecken.
+The night is dark and full of terrors.
+
+* Wir schlafen in der Nacht.
+We sleep at night.
+
+* Ich bin spät.
+I am late.
+
+* Meine Großmutter steht jedes Morgen früh auf.
+My grandmother gets up early every morning.
+** aufstehen (to get up)
+
+* Der Zeitraum / die Zeiträume
+period, timescale
+** Zeitraum = zeit(time) + raum(space, area)
+
+* Der Zeitraum ist von Juni bis August.
+The time period is from June to August.
+
+* Ruft mich heute Abend an.
+Give me a call tonight.
+
+* Die Hochzeit ist am Mittag.
+The wedding is at noon.
+
+* In dieser Stadt isst man früh.
+In this town one eats early.
+
+* die Uhr / die Uhren
+clock, watch
+
+* Die Uhr ist auf Kopfer.
+The clock is made of copper.
+
+* Meine Uhr ist genau.
+My watch is accurate.
+
+* der Augenblick
+moment, blink of an eye
+
+* die Sekunde / die Sekunden
+second(time)
+
+* Nach drei Sekunden kommt die Antwort.
+The answer comes after three seconds.
+
+* die Stunde / die Stunden
+hour
+
+* 80 Kilometer in der Stunde
+80 kms per hour
+
+* Stunde um Stunde
+hour after hour
+
+* Ich werder noch fünf Minuten warten.
+I will wait five more minutes.
+
+* Ein Tag hat vierundzwanzig Stunden.
+A day has twenty four hours.
+
+* Wir stellen die Uhren.
+We are setting the clocks.
+
+* Ich brauche einen Minute.
+I need a minute.
+
+* Die Züge fahren alle zwei Stunden.
+The trains go every two hours.
+
+* Bitee warten Sie fünf Minuten.
+Please wait five minutes.
+
+* Und zu unserer Zeit?
+And in our time? (comparing to the past)
+
+* Wir zählen die Sekunden.
+We are counting the seconds.
+
+* Die Zeiten sind sehr gut.
+The times are very good. (things are going very well)
+
+* Im Augenblick hat sie keine Zeit.
+At the moment she has no time.
+
+* Hast du einen Augenblick?
+Do you have a moment?
+
+* Die Fahrt dauert sechs Tage und fünf Nächte.
+The trip taks six days and five nights.
+** dauern (to last)
+
+* Der Zug kommt sofort.
+The train is coming immediately.
+** sofort (immediately, at once)
+
+* Das dauert.
+It takes time.
+
+* Zu welchem Zeitpunkt kommt der Bus?
+At what time does the bus come?
+** Zietpunkt (point of time, moment)
+
+* Ich schlafe nachts.
+I sleep at night.
+
+* Ich will sofort eine Antwort.
+I want an answer right away.
+
+* Es ist halb acht.
+It is half past seven.
+
+* Es ist Mitternacht.
+It is midnight.
+
+* Das Zimmer ist halb so groß wie die Küche.
+The room is half as large as the kitchen.
+
+* Es ist viertel vor sechs.
+It is a quarter to six.
+
+* Nein, das ist keine guter Zeitpunkt.
+No, that is not a good time.
+
+* Morgen, um Mitternacht.
+Tomorrow, at midnight.
+
+* Ich bin nicht zu diesem Zeitpunkt nicht da.
+I will not there at this time.
+
+* Ihr macht das sofort!
+You do this right aways!
+
+* Um halb drei!
+At half past two!
+
+* Es dauert nur einen Augenblick.
+It only lasts a moment.
+
+* Wie lange wirst du bleiben?
+How long will you stay?
+
+* Was machst du gerade?
+What are you doing currently?
+** gerade (currently)
+
+* Es ist fast elf Uhr.
+It is almost eleven o'clock.
+
+* Damals oder heute?
+Back then or today
+
+* die Dauer / die Dauern
+duration
+
+* Die Tour dauert etwa vier Stunden.
+The tour lasts approximately four hours.
+** etwa (about, approximately)
+
+* Das Frühstück dauert etwa eine Stunde.
+The breakfast takes about one hour.
+
+* Am Sammstag wir schlafen lange.
+On Saturday we sleep late.
+
+* Ich treffe ihn fast nie.
+I almost never meet him.
+
+* Für die Dauer von einen Monat
+For the duration of one month
+
+* Wir kommen um etwa sieben Uhr.
+We are coming around seven o'clock.
+
+* Wie viel Uhr ist es gerade?
+What time is it right now?
+
+* Es ist fast elf Uhr.
+It is almost eleven o'clock.
