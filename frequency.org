@@ -1,0 +1,134 @@
+#+TITLE: Frequency
+
+* Manchmal ist er hilfreich.
+Sometimes he is helpful.
+
+* Ich laufe oft.
+I am running often.
+
+* Manchmal ist alles normal.
+Sometimes everything is normal.
+
+* Meine Mutter schwimmt mehr als mein Vater.
+My mothers swims more than my father.
+
+* My Fruende hat mehr Geld als ich.
+My friend has more money than I.
+
+* Die Küche hat wenige Teller.
+The kitches has few plates.
+** wenig (little, few)
+
+* Im Garten stehen wenige Bäume.
+In the garden stand few trees.
+
+* Sie haben wenige Bücher.
+They have few books.
+
+* Sie liest mehr Bücher als ich.
+She reads more books than I.
+
+* Wie oft kochst du?
+How often do you cook?
+
+* Bayern hat mehr Einwohner als die Schweiz.
+Bavaria has more inhabitants than switzerland.
+
+* Wir brauchen mehr Handtücher.
+We need more towels.
+
+* Die Untersuchung dauert wenige Minuten.
+The examination takes a few minutes.
+
+* das Mal / die Male
+time (occasion)
+
+* Das fünfte Mal
+the fifth time
+
+* Sind weniger Menschen wirklich besser?
+Are few people really better?
+
+* Eins ist weniger als zwei.
+One is less than two.
+
+* Ein anderes Mal
+Another time
+
+* Ich habe eine größeres Hemd als du.
+I have a bigger shirt than you.
+
+* Es gibt zahlreiche Tiere in diser Stadt.
+There are many animals in this city.
+** zahlreicht (many) = zahl(number, figure) + reicht(rich)
+
+* Es ist nicht häufig.
+It is not frequent.
+** häufig (frequent) <- häufen(to pile up, accumulate)
+
+* Er schläft weniger als seine Freundin.
+He sleeps less than his friend.
+
+* Ich sehe sie selten.
+I rarely see her.
+** selten (seldom, rarely)
+
+* Es gibt kein größeres Schloss.
+There is no greater castel.
+
+* Es gibt zahlreiche Gruppen.
+There are numerous groups.
+
+* In Europa ist er häufig.
+He is often in Europe.
+
+* Sie ist selten in der Praxis.
+She is seldom in the practice(doctor's office).
+
+* Ich besuche ihn selten.
+I rarely visit him.
+
+* Die Dauer ist meist unbekannt.
+The length is usually unknown.
+** Dauer (length, duration)
+** meist (usually, most)
+
+* Ich nehme keinerlei Medikamente.
+I don't take any medications at all.
+** keinerlei(not .. at all) = kein(no) + -erlai(producing adj describing the number of kinds of a  thing)
+*** zweierlei (two kinds of)
+*** allerlei (all kinds of)
+
+* Die meisten Insekten sind klein.
+Most insects are small.
+
+* Die meisten Spinnen haben vier Augen.
+Most spiders have vier eyes.
+
+* Wir lesen ein bisschen.
+We read a bit.
+
+* Wir kennen die misten Nachbarn.
+We know most of the neighbours.
+
+* Je größer, je stärker.
+the larger, the stronger
+
+* Ich weiß nicht, ob die Autos verfügbar sind.
+I don't know if the cars are available.
+** ob (if, whether)
+
+* Ich weiß nicht, ob er es macht oder nicht.
+I do not know whether he does it or not.
+
+* Je mehr es liest, desto weniger versteht er.
+The more he reads, the less he understands.
+
+* Sie sind meist gelb.
+Usually they are yellow.
+
+* Je mehr, desto besser.
+the more, the merrier
+
+* Je länge ich ihn kenne, desto mehr mag ich ihn.
+The longer I know him, the more I like him.
