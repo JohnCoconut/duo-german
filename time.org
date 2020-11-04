@@ -210,7 +210,7 @@ No, that is not a good time.
 * Morgen, um Mitternacht.
 Tomorrow, at midnight.
 
-* Ich bin nicht zu diesem Zeitpunkt nicht da.
+* Ich werder zu diesem Zeitpunkt nicht da sein.
 I will not there at this time.
 
 * Ihr macht das sofort!
@@ -262,3 +262,75 @@ What time is it right now?
 
 * Es ist fast elf Uhr.
 It is almost eleven o'clock.
+
+
+================= level 1 =================
+
+* Steht der Termin fest?
+Is the appointment set?
+
+* Er ist der letzte Moment.
+It is the final moment.
+
+* Ich werde morgen mit mir reden.
+I will talk to you tomorrow.
+
+* Jetzt seid bitte ruhig!
+Now please be quiet!
+
+* Heute ist es nicht so kalt wie gestern.
+Today it is not as cold as yesterday.
+
+* Ferien fangen morgen an.
+Vacation starts tomorrow.
+** anfangen (to start)
+
+* Katrin? Mit der gehe ich heute aus.
+Katrin? I am going out with her today.
+** ausgehen (to go out)
+
+* Die Kleider sind jetzt im Einkaufswagen.
+The dresses are now in the shopping cart.
+
+* Das Meer ist heute ziemlich ruhig, mein Sohn.
+The sea is quite calm today, my son.
+
+* Er hat seit gestern frei.
+He has been on holiday since yesterday.
+** seit (since)
+** freihaben (to have a holiday)
+
+* Morgen abend werden wir zusammen essen gehen.
+Tomorrow evening we will go out to eat together.
+
+* Es ist doch Nacht, oder?
+It is indeed night, right?
+
+* Es isst nicht, da es spät ist.
+You do not eat, because it is late.
+
+* Wann kommen wir morgen früh in Paris an?
+When will are arrive in Paris tomorrow morning?
+** ankommen (to arrive)
+** morgen früh (tomorrow morning)
+
+* Wie spät ist es?
+* Wie viel Uhr ist es?
+What time is it?
+
+* Ich werde heute Nacht zu Hause bleiben.
+I will stay at home tonight.
+
+* Er geht um acht Uhr ins Bett.
+He goes to bed at eight o'clock.
+
+* Es ist Zeit nach Hause zu gehen.
+It is time to go home.
+
+* Eine Stunde has sechzig Minuten.
+An hour has sixty minutes.
+
+* Nachts um elf
+Eleven at night
+
+*
