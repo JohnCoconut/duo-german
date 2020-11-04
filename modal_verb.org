@@ -1,0 +1,336 @@
+#+TITLE: Modal Verb
+
+* Bitte nicht Böse sein.
+Please don't be angry.
+
+* Sie kann nicht schwimmen.
+She cannot swim.
+
+* Er konnte vier Fremdsprachen sprechen.
+He can speak four foreign languages.
+
+* Können wir in deinem Haus sein?
+Can we be in your house?
+
+* Wir essen Nudeln mit Pilzen.
+We are eating noodles with mushrooms.
+
+* Können alle Hunde schwimmen?
+Can all dogs swim?
+
+* Wir können gehen.
+We can go.
+
+* Du kanst gehen, wohin du magst.
+You can go wherever you like.
+
+* Wir müssen ins Bett gehen.
+We have to go to bed.
+
+* Ihr müsst zur Schule gehen.
+You have to go to school.
+
+* Butter macht man aus Milch.
+Butter is made from milk.
+
+* Mein Cousin kann gut singen.
+My cousin can sing well.
+
+* Der Momment kann nicht besser sein.
+The moment cannot be better.
+
+* Könnt ihr schwimmen?
+Can you swim?
+
+* Jedes Kind muss zur Schule gehen.
+Every child has to go to school.
+
+* Sie müssen nicht sofort gehen.
+You do not have to leave right away.
+** müssen nicht (don't have to, don't need to)
+
+* Sie dürfen nicht sofort gehen.
+You must not leave right now.
+** dürfen nicht (must not, not to be allowed to)
+
+* Jeder kann kochen.
+Anyone can cook.
+
+* Du musst gehen.
+You must leave.
+
+* Die Mauer muss weg!
+The wall must go.
+
+* Mein Bruder und ich können nicht schlafen.
+My brother and I cannot sleep.
+
+* Ich kann es nicht tun.
+I cannot do it.
+** tun (to do)
+
+* Wir können die Feurerwehr nicht hören.
+We cannot hear the fire fighters.
+
+* Kannst du mich hören?
+Can you hear me?
+
+* Ich kann meine Uhr nicht findten.
+I cannot find my watch.
+
+* Ich muss lernen.
+I must learn.
+
+* Ihr sollt essen!
+You should eat.
+
+* Sie sollen schlafen.
+They should sleep.
+
+* Er sagt, dass du lernen sollst.
+He says that you should learn.
+
+* Was sollst du jetzt machen?
+What should you do now?
+
+* Soll ich nach Großbritannien gehen?
+Should I go to Great Britain?
+
+* Wie viele Bücher kannst du in einem Monat lesen?
+How many books can you read in a month?
+
+* Mein Sohn kann die Uhr lesen.
+My son call tell the time.
+
+* Sollen wir jetzt gehen?
+Should we go now?
+
+* Sie soll nicht schlafen.
+She is not supposed to sleep.
+
+* Ich soll in den Garten gehen.
+I should go into the garden.
+
+* Jeder kann das Buch lesen.
+Anyone can read the book.
+
+* Du kannst das machen!
+You can do that!
+
+* Ich habe kinne Zeit, es zu tun.
+I have no time to do it.
+** zu tun ( to do )
+
+* Wohin wollen Sie gehen?
+Where do you want to go?
+
+* Kannst du mir den Weg zeigen?
+Can you show me the way?
+
+* Er will alleine sein.
+He wants to be alone.
+
+* Wann wollt ihr essen?
+When do you want to eat?
+
+* Kann ich das Geld überweisen?
+Can I transfer the money?
+
+* Sie und uch wollen Freunde sein.
+She and I want to be friends.
+
+* Ich kann Englisch sprechen.
+I can speak English.
+
+* Können Sie bitte langsamer sprechen?
+Can you please speak slower?
+
+* Ich will jetzt essen.
+I want to eat now.
+
+* Das kann ich bestätigen.
+I can confirm that.
+** bestätigen (to confirm, to approve)
+
+* I will dir das Werkzeug zeigen.
+I want to show you the tool.
+
+* Ich kann nicht für euch bezahlen.
+I cannot pay for you.
+
+* Man kann den Mond sehen.
+One can see the moon.
+
+* Sie können mich nicht bezahlen?
+You cannot pay me?
+
+* Sie wollen schwimmen.
+They want to swim.
+
+* Wir wollen zu unserem Vater gehen.
+We want to go to our father.
+
+* Willst du mein Freund sein?
+Do you want to be my friend?
+
+* Möchten Sie gehen?
+Would you like to go?
+
+* Wir möchten die Kartoffel sehen!
+We would like to see the potato.
+
+* Können wir reden?
+Can we talk?
+
+* Ihr könnt das wiederholen.
+You can repeat that.
+
+* Können Sie mich um sieben wecken?
+Can you wake me up at seven?
+** um sieben (at seven o'clock)
+** wecken (to wake up)
+
+* Ich muss diese Motorrad benutzen.
+I have to use this motorcycle.
+** benutzen ( to use )
+
+* Möchtet ihr die Kartoffel sehen?
+Would you like to see the potato?
+
+* Ich möchte mit Ihnen sprechen.
+I would like to speak with you.
+
+* Möchtest du essen?
+Do you want to eat?
+
+* Ich möchte ein Auto mieten.
+I would like to rent a car.
+** mieten ( to rent )
+
+* Das kind möchte nicht schlafen.
+The child does not want to sleep.
+
+* Kann ich euch helfen?
+Can I help you?
+
+* Wie kann ich helfen?
+How can I help?
+
+* Ich will die Wohnung mieten.
+I want to rent the apartment.
+
+* Was möchtest du essen?
+What would you like to eat?
+
+* Sie möchte die Toilette benutzen.
+She would like to use the toilet.
+
+* Ich kann nicht so reden.
+I cannot speak like that.
+
+* Er darf lernen.
+He may learn.
+
+* Ich möchte nicht teilnehmen.
+I do not want to participate.
+** teilnehmen = Teil (thing, piece) + nehmen (to take, become)
+
+* Jeder kann teilnehmen.
+Everyone can participate.
+
+* Er kann dich registrieren.
+He can register you.
+
+* Darf ich diese Orange benutzen?
+May I use this orange?
+
+* Darf ich den Apfel essen?
+May I eat the apple?
+
+* Sie dürfen nach Hause gehen.
+They may go home.
+
+* Ihr dürft es nicht sehen.
+You are not allowed to see it.
+
+* Darfst du hier schlafen?
+Are you allowed to sleep here?
+
+* Wir wollen nicht aussagen.
+We do not want to testify.
+** aussagen (to testify)
+
+* Wir dürfen hier nicht schwimmen.
+We are not allowed to swim here.
+
+* Sie dürfen entscheiden.
+You may decide.
+
+* Dürfen wir mitmachen?
+May we participate?
+
+* Muss ich alles entscheiden?
+Do I have to decide everything?
+
+* Darf ich ins Bett gehen?
+May I go to bed?
+
+* Nein, du darfst das nicht sehen.
+No, you are not allowed to see that.
+
+* Jede Professorin darf in dem Verein sprechen.
+Every professor may speak in that club.
+
+* Könnt ihr uns vorstellen?
+Can you introduce us?
+** vorstellen (to introduce)
+
+* Meine Eltern wollen spazieren gehen.
+My parents want to walk.
+** spazieren (to walk)
+
+
+* Ich möchte das Schloss betrachten.
+I would like to look at the castle.
+** betrachten (to look at)
+
+* Kann er dich etwas fragen?
+Can he ask you something?
+** fragen ( to ask )
+
+* Manche Freunde kann man nicht ersetzen.
+Some friends are irreplaceable.
+
+* Was soll sie jetzt sagen?
+What should she say now?
+
+* Du kannst nicht nein sagen.
+You cannot say "no".
+
+* Sie möchte das Fenster öffnen.
+She wants to open the window.
+
+* Was willst du mit disen Fragen sagen?
+What do you want to say with these questions?
+
+* Willst du mich ersetzen?
+Do you want to replace me?
+
+* Ich muss das Fenster öffnen.
+I must open the window.
+
+* Ich kann nicht mit dir spazieren gehen.
+I cannot walk with you.
+
+* Ich will es mir nicht vorstellen.
+I do not want to imagine it.
+** sich(Dativ) vorstellen (to imagine)
+
+* Darf ich Sie nach Ihrem Namen fragen?
+May I ask you for your name?
+
+* Ich soll meine Lehrerin fragen.
+I am supposed to ask my teacher.
+
+* Wir können ihn nicht ersetzen.
+We cannot replace him.
