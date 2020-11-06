@@ -1,0 +1,221 @@
+#+TITLE: Adverbs 2
+
+* Selbst ich trinke Milch.
+Even I am drinking milk.
+** selbst (already)
+
+* Ich bin allein.
+I am alone.
+** allein (alone)
+
+* Dürfen wir allein schwimmen?
+Are we allowed to swim alone?
+
+* Sie sind bereits im Haus.
+They are already in the house.
+** bereits ( already )
+
+* Die Person ist sowohn gut als auch hilfreich.
+The person is both good and helpful.
+** sowohl ... als auch (both ... and )
+
+* Ich trinke sowohl Tee als auch Wein.
+I drink both tea and wine.
+
+* Sie wird nie darüber sprechen.
+She will never speak about it.
+** darüber (over it, about it)
+
+* Er ist weder hier noch da.
+He is neither her nor there.
+** weder ... noch ( neither ... nor )
+
+* Wir sprechen darüber.
+We are talking about it.
+
+* Er kocht, damit wir essen können.
+He cooks so that we can eat.
+** damit (so that, with it)
+
+* Kann ich nicht selbst entscheiden?
+Can't I decide myself?
+** selbst (oneself)
+
+* Er ist bereits da.
+He is already there.
+
+* Das Mittagessen ist weder Fisch noch Fleisch.
+The luch is neither fish nor meat.
+
+* Er ist weder groß noch klein.
+He is neither large nor small.
+
+* Was kommt nun?
+What is next?
+** nun ( now )
+
+* Nein, ich habe es nicht dabei.
+No, I do not have it with me.
+** dabei (nearby)
+
+* Genauso wie damals?
+Just like then?
+** genauso wie (just as)
+
+* Das Pferd ist dazu perfekt.
+The horse is perfect for it.
+
+* Wir lesen das Ende immer zuerst.
+We always read the end first.
+** zuerst (first, at first)
+
+* Der Spaß kommt zuletzt.
+Fun comes last.
+** zuletzt (last, lastly)
+
+* Du musst es selber machen.
+You have to do it yourself.
+
+* Mit dem Kopf zuerst
+Head first
+
+* Ich weiß nicht, ob ich Zeit dazu habe.
+I don't know if I have time for that.
+** dazu (for that purpose/intention)
+** dafür (for that reason/cause)
+
+* Er ist genauso gut wie se.
+He is as good as them.
+
+* Nun kann ich mitmachen.
+Now I can participate.
+
+* Koch die Nudeln selber.
+Cook the noodles yourself.
+
+* Zuletzt isst er sein Mittagessen.
+At last he eats his lunch.
+
+* Nun ist er wirklich hier!
+Now he is really here.
+
+* Jeder Mietwagen ist genauso nützlich.
+Every rental car is just as useful.
+
+* Was ist schon dabei?
+What is the matter with it?
+
+* Daher der Name.
+Hence the name.
+** daher (hence, therefore)
+
+* Es ist völlig offen.
+It is completely open.
+** völlig (completely, entirely)
+
+* Alles hat einmal ein End.
+Everything comes to an end.
+** einmal (once)
+
+* Ich schwimme mindestens zwei Stunde am Tag.
+I swim at least two hours every day.
+** mindestens ( at least )
+
+* Sonst noch etwas?
+Anything else?
+** sonst (else)
+
+* Der Name ist jedenfalls sehr alt.
+The name is very old in any case.
+** jedenfalls (in any case, by all means)
+
+* Das ist durchaus so.
+That is definitely so.
+** durchaus (definitely, absolutely)
+
+* Das ist nicht völlig Falsch.
+That is not complete not wrong.
+
+* Mach das Wasser warm, wir machen sonst keinen Tee.
+Make the water warm, or we don't make any tea.
+** sonst (otherwise)
+
+* Nein, nicht alles auf einmal.
+No, not everythign at once.
+
+* Die Freunde sind durchaus echt!
+The friends are absoltely real.
+
+* Es ist notwendig,  daher ist es möglich.
+It is necessary, therefore it is possbile.
+
+* Mir reicht es jedenfalls.
+I have certainly had enough.
+
+* Wir sind jedenfalls eine Familie.
+We are a family in any case.
+
+* That ist überhaupt nicht gut.
+That is definitely not good.
+** überhaupt (definitely, absoltely)
+
+* Das dach ist außerdem zu alt.
+Furthermore, the roof is too old.
+** außerdem (besides, furthermore, also)
+
+* Es ist außerdem gesund.
+It is also healty.
+
+* Ich spreche ihm erneut an.
+I am addressing him again.
+** erneut (again)
+** ansprechen (to address, to respond)
+
+* Der Apfel ist besonders grün.
+The apple is particularly green.
+** besonders (particularly, especially)
+
+* Ich bezahle meistens.
+I pay mostly.
+** meistens (mostly, usually)
+
+* Ich kann kaum sehen.
+I can hardly see.
+** kaum (hardly, barely)
+
+* Er arbeit kaum.
+He barely works.
+
+* Sie sind jedoch selten.
+However they are rare.
+** jedoch (however, though)
+
+* Nein, ich trinke kaum Alkohol.
+No, I barely drink alcohol.
+
+* Das ist jedoch nicht immer sinnvoll.
+However, that is not always useful.
+
+* Diese Kartoffel ist besonders!
+This potato is special!
+
+* Jetzt, fünf Jahre später, lesen wir er erneut.
+Now, after five years, we read it again.
+
+* Außerdem ist zu teuer.
+Besides it is too expensive.
+
+* Ihre Kleidung ist meinsten schwarz.
+Her clothing is usually black.
+
+* Ich sehe dich erneut.
+I see you again.
+
+* Sie sind jedoch nicht fit.
+They are not fit, however.
+
+* Die Leute erkennen ihn kaum.
+The people barely recognize him.
+
+* Das ist nicht überhaupt nicht salzig.
+That is not salty at all.
