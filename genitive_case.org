@@ -99,3 +99,12 @@ That is my grandparents' alcohol.
 
 * Das ist der Gast seiner Mitarbeiterin.
 That is his colleagues's guest.
+
+
+========= level 1 ============
+
+* die Fläsche des Hauses
+the area of the house
+
+* Ich mag keinen dieser Hüte.
+I do not like any of these hats.
