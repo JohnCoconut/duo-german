@@ -1,0 +1,156 @@
+#+TITLE: Nature 2
+
+* der Strand
+the beach
+
+* Der Lehere geht an den Strand.
+The teacher walkes to the beach.
+
+* Ein Haus am See
+A house by the lake
+** der See / die Seen (lake)
+
+* Ich sehe mir die Wellen auf dem Meer an.
+I am looking at the waves on the ocean.
+** ansehen (look at, view)
+** die Welle / die Wellen (wave)
+
+* Du bist nicht in dieser Welt.
+You are not in this world.
+** die Welt / die Welten (world)
+
+* Der Strand ist weiß.
+The beach is white.
+
+* Der Opfer schwimmt im See.
+The victim is swimming in the lake.
+
+* Wir schwimmen manchmal im See.
+We sometimes swim in the lake.
+
+* Sie versteht seine Welt.
+She understands his world.
+
+* Die Strände von Frankreich sind schön.
+The beaches of France are beautiful.
+
+* Ich kann dir die Welt zeigen.
+I can show you the world.
+
+* Die Welt ist klein.
+The world is small.
+
+* Sie sammelt Bernstein.
+She collects amber.
+** Bernstein (amber)
+
+* Die Wellen auf dem Meer
+the waves on the sea
+
+* das Gras
+grass
+
+* Ein paar Tiere spielen auf der Wiese.
+A couple of animals play on the meadow.
+** die Wiese / die Wiese (meadow)
+
+* Die Tierwelt ist perfekt.
+The wildlife is perfect.
+** die Tierwelt (wildlife, animal kingdom)
+
+* In der Tierwelt kommt das nie vor.
+That never happens in the animal kingdom.
+** vorkommen (occur, happen)
+
+* Die Umwelt fehlt.
+The environment is missing.
+** die Umwelt (environment)
+
+* Das ist gut for die Umwelt.
+That is good for the environment.
+
+* Das Gras and der Baum sind grün.
+The grass and the tree are green.
+
+* Sie laufen auf dem Gras.
+The walk on the grass.
+
+* Die Tierwelt ist überall.
+Wildlife is everywhere.
+
+* Auf der grünen Wiese
+on the green meadow
+** grünen (because dative case)
+
+* Er rennt durch den Wald.
+He is running through the forest.
+** der Wald (forest)
+
+* Ein Bau steht im Wald.
+A tree stands in the forest.
+
+* Wie lang ist der Rhein?
+How long the the Rhine?
+** der Rhein (Rhine river)
+
+* All diese Werkzeuge gehören mir.
+All these tools belong to me.
+** All (all)
+** das All (space, universe)
+
+* Der Rhein ist ein Fluss.
+Rhine is a river.
+** der Fluss / die Flüsse (river)
+
+* Ein Fluss ist größer als ein Bach.
+A river is bigger than a creek.
+** der Bach / die Bäche (creek)
+
+* Die weiße Fläche ist aus dem All sichtbar.
+The white area is visible from space.
+
+* Die Ente schwimmt im Bach.
+The duck is swimming in the creek.
+
+* Der Rhein ist ein großer Fluss in Deutschland.
+The Rhine is a large river in Germany.
+
+* Die Region hat viele Flüsse.
+The region has many rivers.
+
+* die Pflanze
+the plant
+
+* Viele Länder sind von der Landwirtschaft abhängig.
+Many countires depend on agriculture.
+** die Landwirtschaft (agriculture)
+
+* Die Wüste lebt.
+The desert is alive. (the living desert: an American nature documentary film)
+** die Wüste (desert)
+
+* Es sind Pflanzen im Garten.
+There are plants in the garden.
+
+* In der Wüste ist es heiß.
+It is hot in the desert.
+
+* Es gibt keine Landwirtschaft mehr.
+There is no agriculture left.
+
+* Diese Pflanze gibt es nur in Südamerika.
+This plant exists only in South America.
+
+* Ich mag das Klima.
+I like the climate.
+** das Klima (climate)
+
+* Der Storm ist knapp.
+The electricity is scarce.
+** der Strom (electricity, large river)
+
+* Meine Frau spricht oft mit den Pflanzen.
+My wift often speaks to the plants.
+
+* Wir haben keinen Strom.
+We have no electricity.
