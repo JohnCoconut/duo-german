@@ -60,7 +60,7 @@ No, I do not have it with me.
 
 * Genauso wie damals?
 Just like then?
-** genauso wie (just as)
+** genauso wie (just like)
 
 * Das Pferd ist dazu perfekt.
 The horse is perfect for it.
@@ -141,7 +141,8 @@ Make the water warm, or we don't make any tea.
 ** sonst (otherwise)
 
 * Nein, nicht alles auf einmal.
-No, not everythign at once.
+No, not everything at once.
+** auf einmal (at once)
 
 * Die Freunde sind durchaus echt!
 The friends are absoltely real.
@@ -166,7 +167,7 @@ Furthermore, the roof is too old.
 * Es ist außerdem gesund.
 It is also healty.
 
-* Ich spreche ihm erneut an.
+* Ich spreche ihn erneut an.
 I am addressing him again.
 ** erneut (again)
 ** ansprechen (to address, to respond)
@@ -219,3 +220,49 @@ The people barely recognize him.
 
 * Das ist nicht überhaupt nicht salzig.
 That is not salty at all.
+
+
+=========== level 1 =============
+
+* Darüber macht man keine Witze.
+You do not joke about that.
+
+* Ich weiß es selbst nicht genua.
+I do not know it exactly myself.
+
+* Ich habe nichts damit zu tun.
+I have nothing to do with it.
+
+* Sowohl als auch!
+Both
+
+* Nun, ich muss gehen!
+Well, I have to go!
+
+* Diese sind daher sehr groß und schwer.
+Therefore these are very big and heavy.
+
+* Sie geht einmal im Monat.
+She goes once a month.
+
+* Er ist völlig fertig.
+He is completely exhausted.
+
+* Mir recht es jedenfalls.
+I have certainly had enough.
+
+* Einmal drücken.
+Press once.
+
+* Ich stehe meistens um acht auf.
+I usually get up at eight.
+** aufstehen (get up)
+
+* Er sieht überhaupt nicht aus wie ein Arzt.
+He does not look anything like a doctor.
+
+* Die Frage hat jedoch keine Antwort.
+The question, however, does not have an answer.
+
+* Das Dach ist außerdem zu alt.
+Furthermore, the roof is too old.
