@@ -154,3 +154,12 @@ My wift often speaks to the plants.
 
 * Wir haben keinen Strom.
 We have no electricity.
+
+
+=========== level 1 ===============
+
+* Ich suche am Strand nach Bernstein.
+I am looking for amber on the beach.
+
+* Schön ist es auf der Welt zu sein.
+It is beautiful to be in the world.

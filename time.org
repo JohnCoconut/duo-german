@@ -333,4 +333,12 @@ An hour has sixty minutes.
 * Nachts um elf
 Eleven at night
 
-*
+
+================ level 2 ==================
+
+* Dann bauen wir um.
+We will rebuild then.
+** umbauen (to rebuild, reconstruct)
+
+* Die Untersuchung beginnt vor sieben Uhr am Morgen.
+The examination begins before seven in the morning.
