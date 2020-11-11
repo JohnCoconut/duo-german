@@ -1,0 +1,259 @@
+#+TITLE: Perfect 1
+
+* Wie habt ihr geschlafen?
+How did you sleep?
+
+* Ich habe acht Stunden geschlafen.
+I have slept for eight hours.
+
+* Wo haben die Damen geschlafen?
+Where did the ladies sleep?
+
+* Ich habe heute etwas gelernt.
+I learned something today.
+
+* Entschuldigung, haben Sie eine Vogelspinne gesehen?
+Excuse me, have you seen my tarantula?
+
+* Sie haben zusammen gespielt.
+They have played together.
+
+* Wo hast du mich gesehen?
+Where did you see me?
+
+* Er hat geschlafen und du hast gespielt.
+He slept and you played.
+
+* Wir haben jede Nacht gespielt.
+We played every night.
+
+* Er hat noch nie Käse gegessen!
+He has never eaten cheese!
+
+* Er hat das Buch gelesen.
+He has read the book.
+
+* Habt ihr alles gelesen?
+Have you read everything?
+
+* Nun, ich habe vom Meister gelernt.
+Well, I learned from the master.
+
+* Du hast mich unabhänig beraten.
+You have advised independently.
+** beraten (to advise, counsel)
+
+* Er hat seine Beziehung zu seinem Sohn verbessert.
+He has improved his relationship with his son.
+** verbessern (to improve)
+
+* Hat sie Sie beraten?
+Did she advise you?
+
+* Er hat mir keine Antwort gegeben.
+He has not give me an answer.
+
+* Hast du es behalten?
+Have you keep it?
+
+* Welche Länder habt ihr besucht?
+Which coutries have you visited?
+
+* Jetzt hast du es erfahren.
+Now you have experienced it.
+** erfahren (to experience)
+
+* Wer hat sie veröffentlicht?
+Who has published them?
+** veröffentlichen (to publish, to release)
+
+* Niemand hat dich gefragt!
+Nobody asked you!
+
+* Was hat er geschrieben?
+What has he written?
+
+* Jemand hat meine Tasche gestohlen!
+Someone stole my bag.
+
+* Wer hat mein Auto gestohlen?
+Who stole my car?
+
+* Er ist geschwommen.
+He swam.
+
+* Die Milch ist schlecht geworden.
+The milk went bad.
+** werden (to become, to get)
+
+* Ist alles gut gelaufen?
+Did everything go well?
+
+* Bist du auf der Straße gelaufen?
+Did you run on the street?
+
+* Ihre Kinder sind fit geworden.
+Her children has become fit.
+
+* Du bist aus Berlin gekommen.
+You have come from Berlin.
+
+* Viele Menschen sind nach Deutschland gekommen.
+Many people came to Germany.
+
+* Ihr seid zu früh gekommen.
+You came too early.
+
+* Ich bin gerade gekommen.
+I have just arrived.
+
+* Mich hat er nicht gefragt.
+He has not asked me.
+
+* Wir sind Ärzte geworden.
+We have become doctors.
+
+* Eine Katze ist auf dem Tisch gewesen.
+A cat has been on the table.
+** gewesen (past-p of sein)
+
+* Er hat es nicht erzählt.
+He did not tell it.
+** erzählne (to tell)
+
+* Wo bist du gewesen?
+Where have you been?
+
+* Habe ich Sie verletzt?
+Did I hurt you?
+** verletzen (to hurt)
+
+* Er ist nach Hause gegangen.
+He went home.
+** gegangen (past-p of gehen)
+
+* Sie sind plötlich zum Haus gerannt.
+They suddenly run to the house.
+** gerannt (past-p of rennen)
+
+* Was hat Ihnen gefallen?
+What did you like?
+
+* Wer hat euch informiert?
+Who informed you?
+** informieren (to inform, brief)
+
+* Kleider haben mich immer interessiert.
+I was always interested in clothes.
+
+* Mein Bruder ist seit gestern krank.
+My brother has been sick since yesterday.
+
+* Wer hat ihn verletzt?
+Who hurt him?
+
+* Ich bin zum Bahnhof gerannt.
+I ran to the train station.
+
+* Es hat mir sehr gut gefallen.
+I liked it a lot.
+
+* Mein Bruder hat mir alles erzählt.
+My brother has told me everything.
+
+* Er hat seinen Bruder informiert.
+He has informed his brother.
+
+* Mir hat es nicht gefallen.
+I did not like it.
+
+* Hast du mit deinem Onkel gesprochen?
+Have you spoken to your uncle?
+
+* Ich habe den Reis gekocht.
+I cooked the rice.
+
+* Die Männer haben gesprochen.
+The men have spoken.
+
+* Wo hast du deine Schuhe gefunden?
+Where did you find your shoes?
+
+* Hat dein Vater dies gemacht?
+Did your father make this?
+
+* Ich habe keinen Durst gehabt.
+I was not thirsty.
+
+* Er hat ein bisschen getrunken.
+He drank a bit.
+
+* Haben Sie das Geld überwiesen?
+Have you transferred the money?
+
+* Er hat us gesucht.
+He looked for us.
+
+* Wast hast du gestern gemacht?
+What did you do yesterday?
+
+* Er hat meinen Hund gefunden.
+He has found my dog.
+
+* Ich habe das Geld bereits überwiesen.
+I have already transferred the money.
+
+* Ich habe nach euch gesucht.
+I have looked for you.
+
+* Gestern haben wir keinen Wein getrunken.
+Yesterday we didn't drink any wine.
+
+* Der Sohn hat nur am Montag gekocht.
+The son only cooked on Monday.
+
+* Er hat mich nicht gefunden.
+He did not find me.
+
+* Wer hat das gesagt?
+Who said that?
+
+* Ich habe mein Auto verkauft.
+I sold my car.
+
+* Das habe ich nicht gesagt.
+I did not say that.
+
+* Er hat den Termin vergessen.
+He forget the appointment.
+
+* Sie hat eine sehr gute Frage gestellet.
+She asked a very good question.
+
+* Sie hat es nie vergessen.
+She never forgot it.
+
+* Er hat das Sofa nicht gemocht.
+He did not like the sofa.
+
+* Ich habe die Spielzuge in das Auto geladen.
+I have loaded the toys into the car.
+
+* Was ist geschehen?
+What happend?
+** geschehen (to happen, occur)
+
+* Sie hat für mich bestellt.
+She has ordered for me.
+
+* Der Lehrer hat viele Fragen gestellt.
+The teacher has asked a lot of questions.
+
+* Was ist passiert?
+What happend?
+
+* Warum haben Sie das Hotel nicht gemocht?
+Why didn't you like the hotel?
+
+* Hast du das schon geladen?
+Have you charged that yet?
