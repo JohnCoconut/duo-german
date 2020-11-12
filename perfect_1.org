@@ -257,3 +257,47 @@ Why didn't you like the hotel?
 
 * Hast du das schon geladen?
 Have you charged that yet?
+
+
+
+============ level 1 ================
+
+* Es hat diese Person nie gegeben.
+This person never existed.
+
+* Durch euch habe ich erfahren wer ich bin.
+Through you I have found out who I am.
+** erfahren (to learn, find out)
+
+* Und dann hast du es für dich behalten?
+And then you keep it to yourself?
+
+* Sie hat ihm eine Armbanduhr gegeben.
+She has given him a watch.
+
+* Jedenfalls hat er von mir nichts erfahren.
+Anyway he has not learned anything from me.
+
+* Sie gab ihm seine Jacke.
+She gave him his jacket.
+
+* Sie hat aufs Sofa geschrieben.
+He wrote on the sofa.
+
+* Es ist niemand gekommen.
+Nobody came.
+
+* Irh seid alle gekommen!
+You all came!
+
+* Wen hat es interessiert?
+Who was interested in it?
+
+* Er ist gegangen.
+He is gone.
+
+* Ich habe eine Unterkunft gesucht.
+I have looked for shelter.
+
+* Was sagte er?
+What did he say?
