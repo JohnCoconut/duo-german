@@ -1,0 +1,172 @@
+#+TITLE: Adjectives 4
+
+* Das sind meine größten Katzen.
+These are my biggest cats.
+
+* Wer ist müde?
+Who is tired?
+
+* Er ist zu müde.
+He is too tired.
+
+* die neuen Erdebeeren.
+The new strawberries
+
+* Die öffentliche Toilette ist nicht privat.
+The public toilet is not private.
+** öffentlich (public, official)
+
+* Die größte Tasche ist blau.
+The largest bag is blue.
+
+* Es ist dein letzter Abend.
+It's your last evening.
+
+* Das sind unsere größten Autos.
+These are our biggest cars.
+
+* Die größte Blume ist gelb.
+The largest flower is yellow.
+
+* Das ist eine öffentliche Toilette.
+That is a public toilet.
+
+* die neuen Bücher
+the new books
+
+* Die größten Pferde sind in Asien.
+The largest horses are in Asia.
+
+* die höheren Preise
+the higher prices
+
+* Die speziellen Gläser sind auf dem Tisch.
+The special glasses are on the table.
+
+* Die aktuelle Uhrzeit ist richtig.
+The current time is right.
+
+* Die internationnalen Gäste sind willkommen.
+The international guests are welcome.
+
+* Keine internationalen Getränke sind verfügbar.
+No international drinks are available.
+
+* Der gesamte Himmel ist schwarz.
+The entire sky is black.
+** gesamt (entire, whole)
+
+* Die hohen Berge sind weiß.
+The tall moutains are white.
+
+* Ich bin mein eigener Herr.
+I am my own master.
+** eigen (own)
+
+* Die aktuelle Saison läuft gut.
+The current season is going well.
+** die Saison (seaon, like footbar league)
+
+* Der gesamte Kopf ist blau.
+The whole head is blue.
+
+* Die höhren Bäume stehen auf dem Berg.
+The higher trees are on the moutain.
+
+* Du bist dein eigener Arbeitgeber.
+You are your own boss.
+
+* Die internationalen Schulen sind interssant.
+The international schools are interesting.
+
+* Was ist die aktuelle Uhrzeit?
+What is the current time?
+
+* Der gesamte Zeitraum ist drei Wochen.
+The entire time frame is three weeks.
+
+* Wo sind die öffentlichen Busse?
+Where are the public buses?
+
+* Das sind meine übrigen Geschwister.
+These are my other siblings.
+** übrig (other, remaining)
+
+* Die zusätzliche Tomate macht das essen besser.
+The additional tomato makes the dinner better.
+** zusätzlich (additional, extra)
+
+* Die Behandlung ist auf jeden einzelnen Fall abgestimmt.
+The treatment is adapted to each individual case.
+** einzeln (individual)
+** abstimmen (to adjust, to tune)
+
+* Zwei Männer bleiben hier, die übrigen mir nach!
+Two men stay here, the rest follow me!
+** Mir nach! (Follow me!)
+
+* Es geht nichts über jugendlichen Optimismus.
+There is nothing like adolescent optimism.
+** jugendlich (youthful, adolescent)
+
+* Zusätsliche Informationen befinden sich auf der Webseite.
+Additional information can be found in our website.
+
+* Nur eine alte Freundin?
+Just an old friend?
+
+* Er aß den übrigen Kuchen.
+He ate the remaining cake.
+** aß (ate)
+
+* Unser altes Haus war kleiner als das neue.
+Our old house was smaller than the new one.
+** alt (old)
+
+* Das Rauchen wurde an öffentlichen Pläzen verboten.
+Smoking was banned from public places.
+** das Rauchen (smoking)
+** verbieten (to prohibit, ban) -> verboten(past-p)
+
+* Der hohe Berg reicht in den Himmel.
+The high moutain reaches into the sky.
+
+* Es wurde eine sehr hohe Kapitalrendite versprochen.
+A very high return on investment is promised.
+** das Kapital (capital)
+** die Rendite (return)
+** versprechen (to promise) -> versprochen(past-p)
+
+* Anbei finden Sie die notwendigen Formulare.
+Attached you will find the necessary forms.
+** anbei (attached, enclosed)
+** notwendig (necessary)
+
+* Wann ist dein nächster Termin?
+When is your next appointment?
+
+* Zwei Vögel sitzen auf seiner linken Schulter.
+Two birds are sitting on his left shoulder.
+
+* Das ist ein hoher Baum.
+That is a tall tree.
+
+* Ein hoher Baum steht am See.
+There is a tall tree at the lake.
+
+* Mein neues Auto ist rot.
+My new car is red.
+
+* Der Museumsdirektor bot mir eine private Tour an.
+The museum director offered me a private tour.
+** anbieten (to offer) -> anbot (past-p)
+
+* Ein zufälliger Tag
+A random day
+
+* Das sind keine passenden Schuhe.
+These are not appropriate shoes.
+** passend (appropriate, suitable)
+
+* Das ist ein weiterer Freund von mir.
+That is another friend of mine.
