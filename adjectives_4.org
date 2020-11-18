@@ -170,3 +170,6 @@ These are not appropriate shoes.
 
 * Das ist ein weiterer Freund von mir.
 That is another friend of mine.
+
+* Die Häuser zur Linken sind rot.
+The houses on the left are red.
