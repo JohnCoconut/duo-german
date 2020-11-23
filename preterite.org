@@ -1,0 +1,345 @@
+#+TITLE: Preterite
+
+* Der Junge aß eine Orange.
+The boy ate an orange.
+
+* Wir kammen vom Flughafen.
+We came from the airport.
+
+* Ich kam gerade von dem Haus.
+I just came from that house.
+
+* Der Fisch schwamm im Wasser.
+The fish swam in the water.
+
+* Mein vater trank gestern keinen Wein.
+My father did not drink wine yesterday.
+
+* Er war mein Student.
+He was my student.
+
+* Ich trank keinen Wein.
+I did not drink wine.
+
+* Was aßt du?
+What did you eat?
+
+* Wir aßen Nudeln im Restaurant.
+We ate noodle at the restaurnt.
+
+* Er kam zurück.
+He returned.
+
+* Du trankst die Milk.
+You drank the milk.
+
+* Er begann am Montag.
+It started on Monday.
+
+* Sie waren Jungen.
+They were young.
+
+* Sah er wie ein Arzt aus?
+Did he look like a doctor?
+
+* Wir schwammen im Meer.
+We swam in the ocean.
+
+* Was sahen wir am Dienstag?
+What did we see on Tuesday?
+
+* Sie schwammen gegen den Strom.
+You swam against the stream.
+
+* Sie aßen den Käse.
+They ate the cheese.
+
+* Ich sah fit aus.
+I looked healthy.
+
+* Warst du schon in Schweden?
+Have you already been to Sweden?
+
+* Dann dachter er nach.
+Then he pondered.
+
+* Sie sprachen kein Englisch.
+They did not speak English.
+
+* Ich dachte, du kochst heute.
+I though you were cooking today.
+
+* Es ist nicht so, wie wir dachten.
+It is not as we thought.
+
+* Wir fanden die Milch.
+We found the milk.
+
+* Meine Freunde gingen zum Strand.
+My friends went to the beach.
+
+* Wie dachtest du darüber?
+What did you think of that?
+
+* Ich fand meinen Schlüssel!
+I found my key!
+
+* Wir lasen viele Bücher.
+We were reading many books.
+
+* Er ging nach Großbritannien.
+He went to Great Britain.
+
+* Wir gingen in ein kleines Hotel.
+We went to a small hotel.
+
+* Sprachst du mit dir selbst?
+Did you talk to yourself?
+
+* Sie las die Speisekarte.
+She read the menu.
+
+* Sie lag im Bett.
+She lay in bed.
+
+* Er sprach nicht mit mir.
+He did not talk to me.
+
+* Er nahm ihre Hand.
+He took her hand.
+
+* Er fand mich nicht.
+He did not find me.
+
+* Gab es viel Verkehr?
+Was there a lot of traffic?
+
+* Gestern sprach ich mit meinem Bruder.
+Yesterday I spoke with my brother.
+
+* Der Wind ließ nach.
+The wind died down.
+** nachlassen (drop, decrease, decline)
+
+* Ich schlief wie ein Bär.
+I slept like a bear.
+
+* Ich verlor den Schlüssels.
+I lost the key.
+** verlieren (to lose)
+
+* Wir fuhren nach Österreich.
+We drove to Austria.
+
+* Sie schloss die Tür
+She closed the door.
+** schliessen (to close, to lock)
+
+* Die Katzen schliefen den ganzen Tag.
+The cats slept the whole day.
+
+* Sie fuhr mich nach Hause.
+She drove me home.
+
+* Er schrieb drei Bücher in drei Jahren.
+He wrote three books in three years.
+
+* Darüber schrieb er auch später.
+He also wrote about that later.
+
+* Er schlief auf dem Tisch.
+He slept on the table.
+
+* Ich blieb da für vier Wochen.
+I stayed there for four weeks.
+
+* Sie verlor ihre Jacke.
+She lost her jacket.
+
+* Er blieb zwei Jahre in Österreich.
+He remained in Austria for two years.
+
+* Sie erhielt ein neues Herz.
+She received a new heart.
+** erhalten (to receive)
+
+* Ich ließ sie im Ausland.
+I left them abroad.
+** lassen (to let, leave)
+
+* Die Gruppe war zuvor unbekannt.
+The group was unknown before.
+** zuvor (before)
+
+* Ich schrieb ihre Telefonummber auf.
+I wrote down her phone number.
+** aufschreiben (to write down)
+
+* Ich verlor ein Bein.
+I lost a leg.
+
+* Sie spazierten in dem Wald.
+They strolled in the forest.
+
+* Wir arbeiteten, während sie schliefen.
+We worked while they slept.
+
+* Er machte es nicht.
+He did not do it.
+
+* Ich arbeitete bis Mitternacht.
+I worked until midnight.
+
+* Er stellte international aus.
+He exibited internationally.
+** ausstellen (exibit)
+
+* Alles was er sagte, war richtig.
+Everything he said was true.
+
+* Wir sagten das.
+We said that.
+
+* Er nahm den Wein aus dem Restaurant und sagte nichts.
+He took the wine from the restaurant and said nothing.
+
+* Er führte uns bis zum Bahnhof.
+He led us to the train station.
+
+* Die Straße führte nach Osten.
+The street led east.
+
+* Das is nicht, was du vorher sagtest.
+That is not what you said before.
+
+* Ich führte den Richter in den Ort.
+I lead the judge into town.
+
+* Sie arbeitete jeden Tag.
+She worked every day.
+
+* Bevor ich das mache, gehe ich ins Ausland.
+Befoer I do that, I go abroad.
+
+* Ich stellte die Tassen neben den Apfelsaft.
+I put the cupd next to the apple juice.
+
+* Ich sparzierte am Wasser entlang.
+I walked along the water.
+
+* Wir spazierten ein bisschen.
+We strolled a bit.
+
+* Er stellte seinen Fuß auf die Leiter.
+He put his foot on the ladder.
+
+* Wir wollten zum Meer gehen.
+We wanted to go to the sea.
+
+* Ich musste zur Toilette.
+I had to go to the toilet.
+
+* Sie konnten die Tür von außen nicht öffnen.
+She could not open the door from outside.
+
+* Wir konnten das Meer sehen.
+We could see the sea.
+
+* Ich konnte nicht.
+I could not.
+
+* Er musste im November ins Krankenhaus.
+He had to go to the hospital in November.
+
+* Hans wöllte die Häuser schöner machen.
+Hans wants to make the houes prettier.
+
+* Ich wollte aussagen.
+I wanted to testify.
+
+* Ich konte letzte Nacht nicht schlafen.
+I could not sleep last night.
+
+* Ich konte euch nicht finden.
+I could not find you.
+
+* Worüber wolltest du mit mir reden?
+What did you wanted to talk about with me?
+
+* Ich stand dort.
+I stod there.
+** stehen (to stand)
+
+* Meine Freunde und ich konnten nicht entscheiden.
+My friends and I could not decide.
+
+* Wir wollten dich sehen.
+We wanted to see you.
+
+* Es war so kalt, dass ich nicht schlafen konnte.
+It was so cold, that I could not sleep.
+
+* Zum glück konnten wir alles sehen.
+Luckily we are able to see everything.
+
+* Ich konnte nicht lesen, als ich klein war.
+I could not read, when I was small.
+
+* Wir wollten nicht gehen.
+We did not want to leave.
+
+* Ich wurde krank.
+I became sick.
+** werdnen (to become)
+
+* Was hatte ich?
+What did I have?
+
+* Sie hatte sechs Hunde.
+She has six dogs.
+
+* Das Wasser wurde zu Wein.
+The water turned into wine.o
+
+* Wir mussten mit dem Hund spazieren gehen.
+We had to walk the dog.
+
+* Sie wurden krank.
+They got sick.
+
+* Ich zeigte euch seine Praxis.
+I showed you his practice.
+
+* Sie zeigte mir ihr Haus.
+She showed me her house.
+
+* Ich wollte dir Glück wünschen.
+I wanted to wish you luck.
+
+* Wir wurden müde.
+We were getting tired.
+
+* Ich musste Englisch lernen.
+I had to learn English.
+
+* Alle Häuser hatten einen Garten.
+All houses had a garden.
+
+* Ich hatte genug.
+I had enough.
+
+* Seine Eltern hatten dort eine Bäckerei.
+His parents had a backery over there.
+
+* Ich wurde seine Frau.
+I became his wife.
+
+* Sie hatte einen Freund.
+She had a friend.
+
+* Sie wurde rot.
+She blushed.
+
+* Sie nahm ihm alles weg.
+She took everything away from him.
+** etwas wegnehmen (take something away)
