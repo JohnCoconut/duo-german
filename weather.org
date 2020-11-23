@@ -1,0 +1,86 @@
+#+TITLE: Weather
+
+* der Regen
+the rain
+
+* Ich habe noch nie Schnee gesehen.
+I have never seen snow.
+
+* Minuten, Meter, Grad
+minutes, meters, degrees
+
+* Bei diesem Wetter geht niemand raus.
+No one goes out in this weather.
+
+* Wir mögen den Regen nicht.
+We don't like rain.
+
+* Nichts ist so wei es scheint.
+Nothing is as it seems.
+
+* Ich möchte nicht über das Wetter sprechen.
+I don't want to talk about the weather.
+
+* Im Juni gibt es Regen.
+It rains in June.
+
+* der Schnee
+the snow
+
+* Wer steht im Regen?
+Who is standing in the rain?
+
+* Es schneit!
+It is snowing!
+
+* Es regnet wieder.
+It is raining again.
+
+* Meine Hunde spielen wenn es regnet.
+My dogs play when it rains.
+
+* Mein Handtuch ist nass.
+My towel is wet.
+
+* Ihre Hose ist trocken.
+Her pants are dry.
+
+* Es schneit im Januar.
+It snows in January.
+
+* Ich warte im Sturm.
+I am waiting in the storm.
+
+* Das Auge des Sturms
+the eye of the storm
+
+* die Wolke
+the cloud
+
+* Nimm den Regenschirm
+Take the umbrella
+
+* Irgendwo über dem Regenbogen
+Somewhere over the rainbow
+** bogen (arc)
+
+* das Gewitter
+the thunderstorm
+
+* Siehst du den Regenbogen?
+Do you see the rainbow?
+
+* Hast du Angst vor Gewitter?
+Are you afraid of thunderstorms?
+
+* über den Wolken
+Above the clouds
+
+* Der Blitz kommt vor dem Donner.
+The lighting comes before the thunder.
+
+* Der Donner folgt dem Blitz.
+The thunder follows the lightning.
+
+* Der Regenbogen ist bunt.
+The rainbow is colorful.
