@@ -1,0 +1,176 @@
+#+TITLE: Internet
+
+* Wir erkenn ihn auf dem Foto.
+We recognize him in the photo.
+
+* Wie mache ich eine Seite?
+How do I create a page?
+
+* Ich laufe an ihrer Siete.
+I am runing by her side.
+
+* Wir laden die Fahrräder in das Auto.
+We are loading the bicycles into the car.
+
+* Hat das Zimmer Internet?
+Does the room have internet?
+
+* Das WLAN functioniert nicht.
+The WiFi doesn't work.
+
+* Er will eine Internetseite.
+He wants a website.
+
+* Wir sehen manche Fotos auf dem Tisch.
+We see some photos on the table.
+
+* Es ist im Internet.
+It is on the internet.
+
+* Der Verein hat auch eine Internetseite.
+The club also has a website.
+
+* Der Reiseführer hat viele Seiten.
+The travel guide has many pages.
+
+* Die Suche begann erneut.
+The search began again.
+
+* Sie lädt was?
+She is loading what?
+
+* Die Siete lädt langsam.
+The page loads slowly.
+
+* Das soziale Netz der Zukunft
+the social network of the future
+
+* In der Zeitung sind Fotos.
+There are photos in the newspaper.
+
+* Der Fisch ist im Netz.
+The fish is in the net.
+
+* Ich habe den Anhang vergessen.
+I forgot the attachment.
+** der Anhang (attachment)
+
+* Ich kann deinen Blog nicht laden.
+I cannot load your blog.
+
+* Ihr habt endlich die Suchmaschine gefunden.
+You have finally found the search engine.
+
+* Ich habe dir etwas geschickt.
+I have sent you something.
+** schicken (to send)
+
+* Sie schreibt eine E-Mail an den Entwickler.
+She writes an email to the developer.
+
+* Das soziale Netzwerk ist groß.
+The social network is big.
+
+* Der Anhang der E-Mail fehlt!
+The attachment from the email is missing.
+
+* Sie schicken ihn zurück auf die Straße.
+They are sending him back onto the street.
+
+* Ich suche nach der Suchmaschine.
+I am searching for the search engine.
+
+* Google ist eine Suchmaschine.
+Google is a search engine.
+
+* Ich schicke dir eine E-Mail.
+I am sending you an email.
+
+* Was hat er geschickt?
+What did he send?
+
+* Ich lese die Kommentare.
+I am reading the comments.
+
+* Das Profil ist komplett.
+The profile is complete.
+
+* Seine Profile sind dort.
+His profiles are there.
+
+* Er hat sein Profil aktualisiert.
+He updated his profile.
+
+* Drucken Sie das.
+Print that.
+
+* Jede Taste hat vier Farben.
+Each key has four colors.
+** die Taste (the key, button)
+
+* Du musst die Seite aktualisiren.
+You have to refresh the page.
+
+* Der Kommentar ist kurz.
+The comment is short.
+** der Kommentar (the comment)
+
+* Wir druken Bücher.
+We print books.
+
+* Darf ich dein WLAN-Passwort haben?
+May I have your WIFI password?
+
+* Der Großvater druckt die Internetseite aus.
+The grandfather is printing the website.
+
+* Er hat einen Kommentar auf ihr Profil geschrieben.
+He wrote a comment on her profile.
+
+* Warum ist das Passwort so lang?
+Why is the password so long?
+
+* Er löscht seine Daten.
+He deletes his data.
+** löschen (to delete, erase, clear)
+** lösen (to solve, resolve)
+
+* Ich mag ihre Bilder.
+I like her pictures.
+
+* Die sozialen Berufe
+the social jobs
+
+* Sie hat ein Foto geteilt.
+She shared a photo.
+** teilen (to share)
+
+* Ich lösche mein Passwort.
+I clear my password.
+
+* Das Bild ist mir unbekannt.
+That picture is unfamiliar to me.
+
+* Ich habe das Bild gesehen.
+I saw the image.
+
+* Warum löschst du deinen Kommentar?
+Why do you delete your comment?
+
+* Ich gehe mit meinen Bildern zum Auto.
+I am going to the car with my pictures.
+
+* Sie lädt den Anhang herunter.
+She downloads the attachment.
+** herunterladen (to download)
+
+* Er lädt ein Programm herunter.
+He downloads a program.
+
+* Sie lädt das Programm hoch.
+She uploads the program.
+** hochladen (to upload)
+
+* Hast du gesehen, was sie gestern geteilt hat?
+Have you see what she shared yesterday?
+
