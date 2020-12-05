@@ -1,0 +1,88 @@
+#+TITLE: Communication
+
+* Der Berg ruft.
+The moutain is calling.
+
+* Die Vorwahl ist nicht notwendig.
+The area code is not necessary.
+** die Vorwahl (area code, prefix)
+
+* Ich bin am Telefon.
+I am on the phone.
+** das Telefon
+
+* Danke für das Gespräch!
+Thank you for the conversation!
+
+* Ruft ihr mich um acht an?
+Will you call me at eight?
+
+* Die Worwahl ist nur drei Zahlen.
+The area code is only three numbmers.
+
+* Tastaturen sind oft schmutzig.
+Keyboards are often dirty.
+** die Tastatur (keyboard)
+
+* Der Komputer hat drei Festplatten.
+The computer has three hard drives.
+** die Festplatte (hard drive)
+** die Platte (plate, disk)
+** fest (hard)
+
+* das Kabel
+the wire, cable
+** Ein langes Kabel verbindet den Bildschirm mit dem Rechner.
+A long cable connects the monitor to the computer.
+
+* der Computer
+the computer
+
+* der Rechner
+the computer
+** rechnen (to compute, calculate)
+
+* der Monitor
+the monitor
+
+* Ich habe am Strand ein Kabel gefunden.
+I have found a cable on the beach.
+
+* Sie sammeln eure Information.
+They are collecting your information.
+
+* Die Raumfahrtbehörde wird nächsten Monat eine Rakete starten.
+The space agency will launch a rocket next month.
+** starten (start, launch)
+** die Rakete (rocket)
+
+* Sie startet den Computer.
+She is starting the computer.
+
+* erneut (again)
+Wenn man schreitert, muss man es erneut versuchen.
+
+* die Zeitschrift
+magazine
+
+* die Presse
+the press
+
+* das Interview
+the interview
+
+* Er las den Artikel immer wieder.
+He read the newspaper again and again.
+
+* das Fernsehen
+the TV program, or the action of watching TV
+
+* fernsehen
+to watch TV
+
+* der Fernsehr
+the TV device
+
+* Deine Rede war ausgezeichnet.
+Your speech was excellent.
+** die Rede (speech)
