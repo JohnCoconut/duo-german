@@ -1,0 +1,18 @@
+#+TITLE: Phrase_2
+
+* Na ja, es war nicht leicht.
+Well, it was not easy.
+
+* Er hat keine Ahnung.
+He has no idea.
+
+* Aber du hast eine Ahnung, oder nicht?
+But you have an idea, don't you?
+
+* Ich bitte Sie um Verzeihung.
+I beg you pardon.
+** bitten (to ask, beg)
+** die Verzeihung (forgiveness, pardon)
+
+* Verzeihung. Ich habe Sie nicht gesehen.
+Pardon. I did not see you.
