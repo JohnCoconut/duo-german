@@ -1,0 +1,79 @@
+#+TITLE: Education
+
+* Der Verfasser erkennt den Leser.
+The author recognizes the reader.
+
+* Die Note ist weder schlecht noch gut.
+The grade is neither bad or good.
+** die Note (the note, grade)
+
+* Sie ist eine Lehrerin an der Grundschule.
+She is a teacher at the primary school.
+
+* Unsere Seminare sind interesant.
+Our seminars are interesting.
+** das Seminar (the seminar, workshop)
+
+* Wir studieren und arbeiten.
+We study and work.
+
+* In meiner Klasse gab es weniger Jungen als Mädchen.
+In my class, there were few boys than girls.
+** die Klasse (the class)
+
+* Ich habe heute zwei Test geschrieben und beide bestanden.
+I took two tests today and passed them both.
+** der Test (the test, trial)
+
+* Das Studium dauert mindestens drei Jahre.
+The study takes at least three years.
+** das Studium (the study)
+
+* Der Kurs geht von Montag bis Mittwoch.
+The course runs from Monday to Wednesday.
+
+* Nach den Tests werden wir mehr wissen.
+After the tests we will know more.
+
+* Was studierst du?
+What do you study?
+** studieren (to study)
+
+* Das Studium ist auf Englisch.
+The studies are in English.
+
+* Wir hoffen, dass der Kurs nützlich war.
+We hope that the course was useful.
+
+* Studium und Forschung gehen Hand in Hand.
+Study and research go hand in hand.
+
+* Eine gute Ausbildung ist ihm wichtig.
+A good education is important to him.
+
+* Er war die erste Hochschule in der Stadt.
+It was the first college in town.
+** die Hochschule (umbrella term for both university and college)
+
+* Diese Institute haben viele Lehrer.
+These institutes have many teachers.
+** das Institut (the institute)
+
+* Das war uns eine Lehre.
+That was a lesson to us.
+** die Lehre (the teaching, lesson)
+
+* Danach ging er zurück an die Hochschule.
+After that he went back to college.
+
+* Die Schüler verpassen den Unterricht.
+The students are missing class.
+
+* Hier gab es eine Akademie.
+Her was a academy.
+
+* Wast ist dein Fachbereich?
+What is your department?
+
+* Das Gymnasium ist privat.
+The university prep school ist private.
