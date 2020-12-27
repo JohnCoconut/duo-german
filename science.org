@@ -1,0 +1,210 @@
+#+TITLE: Science
+
+* die Wissenschaft
+the science
+
+* die Technologie
+the technology
+
+* Die Definition ist nicht eindeutig.
+The definition is not clear.
+
+* die Kenntnis, das Wissen
+the knowledge
+
+* Das ist keine Erfindung.
+This is not an invention.
+** die Erfindung (the invention)
+
+* Oder zumindest eine Theorie
+Or at least a theory
+
+* Ich habe gute Kenntnisse.
+I have good skills.
+
+* Sie sprechen über die Erfindung.
+They are talking about the invention.
+
+* Ich bin nicht gegen Technologie.
+I am not against technology.
+
+* Praxis und Theorie gingen Hand in Hand.
+Experience and theory went hand in hand.
+
+* Ist die Definition richtig?
+Is the definition correct?
+
+* Also, hier ist meine Theorie.
+Well, here is my theory.
+
+* Ist das wirklich Wissenschaft?
+Is that really science?
+
+* Ich bin ein Mann der Wissenschaft.
+I am a man of science.
+
+* Das ist eine neue Technologie.
+That is a new technology.
+
+* Natürlich ist es nur eine Theorie.
+Of course it is just a theory.
+
+* der Motor
+the motor
+
+* Ich mag Physik.
+I like physics.
+
+* Die Tempratur deines Körpers ist ganz schön hoch.
+Your body temperature is pretty high.
+** die Tempratur (the temperature)
+
+* Wir messen den Zucker in der Milch.
+We are measuring the sugar in the milk.
+** messen (to measure)
+
+* Achtung, die Tür!
+Careful, the door!
+
+* Die Sonne gibt der Erde Energie.
+The sun gives the earth energy.
+** die Energie (the energy)
+
+* Licht ist Strahlung.
+Light is radiation.
+** die Strahlung (the radiation)
+** Bremsstrahlung(braking radiation) = bremsen(to break) + Strahlung
+
+* Was messen Sie?
+What are your measuring?
+
+* Es hat einen Motor.
+It has a motor.
+
+* Der Mann misst die Strahlung.
+The man is measuring the radiation.
+
+* Ich messe die Temperatur.
+I am measuring the temperature.
+
+* Bitte stellen Sie den Motor ab.
+Please turn off the engine.
+** abstellen (to turn off)
+
+* Ich habe die Elemente gelernt.
+I learned the elements.
+** das Element (the element)
+
+* Du liest ihre Studien.
+You read her studies.
+** die Studie (the study)
+
+* Unsere Technik ist besser.
+Our technique is better.
+** die Technik (the technique)
+
+* Meine Statistik ist perfekt.
+My statistics are perfect.
+** die Statistik (the statistics)
+
+* Ich bezahle die Maschinen.
+I am paying for the machines.
+
+* Das sind gute Statistiken.
+These are good statistics.
+
+* Werden Sie das Wissen mit mir teilen?
+Will you share the knowledge with me?
+
+* Eisen ist ein Element.
+Iron is an element.
+
+* Ich habe die Statistik bei mir.
+I have the statistic with me.
+
+* Diese Studie soll es bestätigen.
+This study should confirm it.
+
+* Die Studie steht im Internet.
+The study is online.
+
+* nicht ohne mein Wissen
+not without my knowledge
+
+* Ich mag Biologie.
+I like biology.
+
+* Der Wissenschaftler / die Wissenschaftlerin
+the scicentis (masc, fem)
+
+* Der Wissenschaftler misst die Tempratur.
+The scientist is measuring the temperature.
+
+* Diese Methode ist kostenlos.
+This method is free.
+** die Methode (the method)
+
+* Der Autor ist Student der Biologie.
+The author is a student of biology.
+
+* Das Praktikum daert zwölf Monate.
+The intership lasts twelve months.
+** das Praktikum (the internship)
+
+* Lehrbücher sind zu teuer.
+Textbooks are too expensive.
+
+* Testen Sie uns?
+Are you testing us?
+
+* Ich habe Angst vor dieser Methode.
+I am afraid of this method.
+
+* Der Professor spricht über die Methode.
+The professor speaks about the method.
+
+* Testen Sie es selbst.
+Test it yourself.
+
+* Sie testen euch.
+They are testing you.
+
+* die Chemie
+the chemistry
+
+* der Kunststoff
+the plastic
+** Kunststoff = Kunst(art, craft) +  Stoff(substance, material)
+
+* Gold ist ein chemisches Element.
+Gold is a chemical element.
+** chemisch (chemical)
+
+* Der Nachweis ist nicht komplett.
+The proof is not complete.
+
+* Ihre Analysen sind gut.
+Your analyses are good.
+** die Analyse (the analysis)
+
+* Das Gas ist in der Atmosphäre.
+The gas is in the atmosphere.
+** das Gas
+the gas
+** die Atmosphäre
+the atmosphere
+
+* Stahl ist kein chemisches Element.
+Steel is not a chemical element.
+
+* Der Mensch ist Chemie.
+Humans are chemistry.
+
+* Doch der Nachweis felht.
+But the proof is missing.
+
+* Die Analysen der Krankheiten sind durchaus richtig.
+The analyses of diseases are definitely correct.
+
+* Der Nachweis ist nicht immer leicht.
+The proof is not always easy.
