@@ -1,0 +1,131 @@
+#+TITLE: Communication 2
+
+* Die Addresse ist falsch.
+The address is wrong.
+
+* Die Grüße sind für dich.
+The greetings are for you.
+** der Gruß (the greeting)
+
+* Die neuen Häuser haben Adressen.
+The new houses have addresses.
+
+* Der Lehrer mag die Grüße.
+The teacher likes the greetings.
+
+* Der Brief ist über mich.
+The letter is about me.
+** der Brief (the letter)
+
+* Ist das die richtige Anrede?
+Is that the right form of adress? (the way to address people, like Sie/du)
+** die Anrede (the form of address, salutation)
+
+* Er schreibt dir eine Notiz.
+He writes you a note.
+** die Notiz (the note)
+
+* Er gibt eine Post.
+There is a post office.
+** die Post (the post office, mail)
+
+* Deine Postleitzahl?
+Your postcode?
+** die Postleizahl (the postcode) = Post + Leitzahl(guide number)
+
+* Ich habe dir eine Einladung geschikt.
+I sent you an invitation.
+
+* Aber wo ist die Postkarte?
+But where is the postcard?
+
+* Der Briefkasten ist gelb.
+The mailbox is yellow.
+** der Briefkasten (the mailbox) = Brief(the letter) + Kasten(the box)
+
+* Ich brauche Breifmarken.
+I need postage stamps.
+** die Briefmarke (the stamp, postage stamp)
+
+* Dann senden wir es.
+Then we are sending it.
+
+* Wir haben drei Postkarten geschrieben.
+We wrote three postcards.
+
+* Sie werden den Kontakt abbrechen.
+They will terminate the contact.
+** der Kontakt (the contact)
+
+* Senden Sie den Brief ab?
+Are you mailing the letter?
+** absenden (to mail, post)
+
+* Ich habe nur eine Briefmarke.
+I have only one postage stamp.
+
+* Das war der letzte Kontakt.
+That was the last contact.
+
+* Das ist die Bestätigung.
+That is the confirmation.
+** die Bestätigung (the confirmation)
+
+* Welche Begründung gibst du?
+Which justification do you give?
+** die Begründung (the reason, justification)
+
+* Mein Verlag ist für Wissenschaft und Forschung.
+My publisher is for science and research.
+
+* Dies ist kein Thema.
+This is not an issue.
+** das Thema (the issue, topic)
+
+* Sie arbeitet für den Verlag.
+She works for the publishing house.
+
+* Heute gibt es keine guten Meldungen in der Zeitung.
+Today there is no good news in the newspaper.
+** die Meldung (the report, notification)
+
+* Es gibt keine Meldungen.
+There are no announcements.
+
+* Wir veröffentlichen den Brief.
+We publish the letter.
+
+* Verlag, Ort und Jahr
+Publisher, place and year
+
+* das Radio
+the radio
+
+* Anmeldungen sind nicht notwendig.
+Registrations are not necessary.
+
+* Die Spinne wohnt hinter dem Lautsprecher.
+The spider lives behind the loudspeaker.
+** der Lautsprecher (the loudspeaker)
+
+* Die Mietteilung ist von mir.
+The message is from me.
+** die Mitteilung (the message, communication)
+
+* Er ist im Radio.
+He is on the radio.
+** das Radio (the radio)
+
+* Hat es einen Sender?
+Does it have a transmitter?
+** der Sender (the transmitter)
+
+* Sie liest ein Taschenbuch.
+She is reading a paperback.
+
+* Die Anmeldung ist kostenlos.
+Registration is free.
+** die Anmeldung (the registration, application)
+
+* Er liest ein Taschenbuch auf dem Weg zur Arbeit.
+He reads a newspaper on the way to work.
