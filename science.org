@@ -208,3 +208,9 @@ The analyses of diseases are definitely correct.
 
 * Der Nachweis ist nicht immer leicht.
 The proof is not always easy.
+
+* Wie steht es mit der Physik?
+What about physics?
+
+* Ich arbeite am Motor.
+I work on the engine.
