@@ -1,0 +1,144 @@
+#+TITLE: Reflective Verb
+
+* Wir treffen uns um halb vier.
+We meet at half past three.
+
+* Wie fühlst du dich?
+How do you feel?
+
+* Wir befinden uns in einem Wald.
+We find ourselves in a forest.
+** sich befinden (to be, to be located)
+
+* Aber die Suche lohnt sich.
+But the search is worth it.
+** sich lohnen (to be worthwhile, to be worth it)
+
+* Die Ärztin befindet sich in der Universität.
+The doctor resides at the university.
+
+* Es lohnt sich nicht.
+It is not worth it.
+
+* Sie befindet sich in dem Schlafzimmer.
+She is in the sleeping room.
+
+* Im See befinden sich zwei Inseln.
+Two islands are located in the lake.
+
+* Er fühlt sich wohl.
+He feels well.
+
+* Wo befinden wir us?
+Where are we located?
+
+* Wir interessieren uns für Pferde.
+We are interested in horses.
+** sich fur etw interessiren (to be interested in sth)
+
+* Er interessiert sich nicht für uns.
+He is not interested in us.
+
+* Sie setzt sich auf den Stuhl.
+She is sitting on the chair.
+** sich setzen (to sit)
+
+* Er ergab sich.
+He surrended.
+** sich ergeben (to surreneder)
+
+* Setzen Sie sich nicht aufs Sofa.
+Don't sit on the sofa.
+
+* Wir freuen uns über den Regen.
+We are glab about the rain.
+** sich freuen (to be happy)
+
+* Hat es sich nicht verkauft?
+Did it not sell?
+** sich gut verkaufen (to sell well)
+
+* Wir werden uns melden.
+We will get in touch.
+** sich melden (to get in touch)
+
+* Er wird sich bald melden.
+He will get in touch soon.
+
+* Freuen wir uns doch.
+Let us rejoice.
+
+* Setzen Sie sich bitte hierher!
+Please sit down here.
+
+* Er sorgt sich.
+He worries.
+** sich sorgen (to worry, to be concerned)
+
+* Er hat sich auf den Stuhl gesetzt.
+He sat on the chair.
+
+* Wir werden uns morgen das Hotel anschauen.
+Tomorrow, we will take a look at the hotel.
+** sich etwas anshauen (to look at, check)
+
+* Sie sieht sich im Spiegel.
+She sees herself in the mirror.
+
+* Wir holen uns Pizza.
+We're going to get pizza.
+** sich holen (to fetch)
+
+* Ich werde mir das anschauen.
+I will look at that.
+
+* Ich wünsche mir eine Blume.
+I wish for a flower.
+** sich etw. wünschen (to wish for, want)
+
+* Sie wünscht sich mehr.
+She wishes for more.
+
+* Ich mache mir einen Kaffee.
+I am making myself a coffee.
+
+* Ich mache mich fertig.
+I am getting ready.
+** sich fertig machen (to get ready)
+
+* Holt ihr Bier?
+Are you going to get beer?
+
+* Deshalb habe ich mich zur Ruhe gesetzt.
+That is why I have retired.
+
+* Ich wasche mich.
+I am washing myself.
+
+* Sie sollen sich registrien.
+They should register themselves.
+
+* Ich werde mich anmelden.
+I will sign up.
+** sich anmelden (to register, sign up)
+
+* Ich erinnere mich nicht an sie.
+I don't remember them.
+** sich erinnern (to remember)
+
+* Wir haben uns verlaufen.
+We're lost.
+** sich verlaufen (to be lost)
+
+* Wir werden uns eintragen.
+We will sign in.
+
+* Ich erinnere mich an ihr Kleid.
+I remember her dress.
+** sich an etw. erinnern (to remember sth)
+
+* Ich wasche mir die Hände.
+I am washing my hands.
+
+* Du solltest dich nicht jetzt entscheiden.
+You should not make up your mind now.
