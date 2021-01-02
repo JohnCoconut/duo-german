@@ -1,0 +1,153 @@
+#+TITLE: Business 1
+
+* das Büro
+the office
+
+* Der Händler arbeitet in seiner Fabric.
+The trader works in his factory.
+** die Fabric (the factory)
+
+* Ich arbeite für dieses Unternehmne.
+I work for this company.
+** das Unternehmen (the company)
+
+* der Inhaber / die Inhaber
+the owner, holder
+
+* Ich habe eine Arbeitserlaubnis.
+I have a work permit.
+** die Arbeitserlaubnis = Arbeit + Erlaubnis(permit, permission)
+
+* Sie ist Mitglied dieser Organisation.
+She is a member of this organization.
+
+* Das Unternehmen blieb in der Stadt.
+The enterprise stayed in the city.
+
+* Was kostet die Mitgliedschaft?
+What does the member cost?
+
+* Die Unternehmen sind bereit.
+The businesses are ready.
+
+* Die Organisation hat schon drei Mal so viele Mitglieder wie letzten Monate.
+The organization already has three times as many members as last month.
+
+* Die Inhaber haben drei Fahrzeuge.
+The owners have three vehicles.
+
+* Kennst du seine Bestellungen?
+Do you know his orders?
+** die Bestellung (the order)
+
+* Er lernt seine Kollegen kennen.
+He gets to know his coworkers.
+** der Kollege (the colleague, coworker)
+
+* Sie mieten vier Autos.
+They are renting four cars.
+
+* Diese Aktie ist teuer.
+This stock is expensive.
+** die Aktie (the share, stock)
+
+* Analyse und Beratung sind hilfreich.
+Analysis and couseling are helpful.
+** die Beratung (the advice, consulting)
+
+* Was ist das höchste Gebot?
+What is the highest bid?
+** das Gebot (the bid)
+
+* Wir mieten eine Wohnung.
+We are renting an apartment.
+
+* Dieses Hotel bietet kein Mittagessen an.
+This hotel does not offer lunch.
+** anbieten (to offer, serve)
+
+* Mein Gebot war zu hoch.
+My bid was too high.
+
+* Wie vile Aktien haben Sie?
+How many shares do you have?
+
+* Das ist das Management.
+This is the management.
+** das Management
+
+* Alles ist ein Wettbewerb.
+Everything is a competition.
+** der Wettbewerb (the competition)
+
+* Ihre Miete ist hoch.
+Their rent is high.
+** die Miete (the rent, rental)
+
+* Der Beitrag ist hilfreich.
+The contribution is helpful.
+** der Beitrag (the contribution)
+
+* Der Architect übernimmt das Projekt.
+The architect is taking over the project.
+** übernehmen (to take over)
+
+* Wer hat die Dokumente?
+Who has the documents?
+** das Dokument (the document)
+
+* Seine Beträge sind immer hoch.
+His dues are always high.
+
+* Der Handel begann ruhig.
+Trading started calmly.
+** der Handel (the trade, trading)
+
+* Wie hoch ist der Gewinn?
+How big is the profit?
+** der Gewinn (the profit, gain)
+
+* Was ist der Wert von dem Auto?
+What is the value of the car?
+** der Wert (the value)
+
+* Es war ein guter Kauf.
+It was a good purchase.
+** der Kauf (the purchase)
+
+* Wir haben keinen Käufer.
+We do not have a buyer.
+** der Käufer (the buyer)
+
+* Der Verbraucher ist uns wichtig.
+The consumer is important to us.
+
+* Er ist tatsächlich unser Käufer.
+He is our customer in fact.
+
+* Der Kauf lohnt sich.
+The purchase is worth it.
+
+* Ihre Bewerbung für diese Stelle war erfolgreich.
+Your application for this position has been successful.
+** die Bewerbung (the appliation, letter of application)
+
+* Seine Karriere war zu Ende.
+His career was over.
+** die Karriere (the career)
+
+* Wir lesen die Kleinanzeigen in der Zeitung.
+We are read the classified ads in the newspaper.
+** die Kleinanzeige (the classified ad)
+
+* Wir haben keinen Jobs.
+We have no jobs.
+
+* Er begann seine Karriere beim Radio.
+He began his career at the radio.
+
+* Seine Bewerbung für diesen Job ist perfekt.
+His application for this job is perfect.
+
+* Ihr Beitrag war großartig.
+Her contribution was great.
