@@ -1,0 +1,137 @@
+#+TITLE: Language
+
+* Seine Tochter spricht sieben Sprachen.
+His daughter speaks seven languages.
+** die Sprache (the language, tongue)
+
+* Heute ist der Tourismus von Bedeutung.
+Tourism if of importance today.
+** von Bedeutung (of importance)
+
+* Tourismus hat große Bedeutung.
+Tourism is of great importance.
+** die Bedeutung (the importance, meaning)
+
+* Die Schrift ist schwarz.
+The writing is black.
+** die Schrift (the writing, script)
+
+* Er gab uns eine detaillierte Beschreibung seiner Forschung.
+He gave us a detailed description of his research.
+** die Beschreibung (the description)
+
+* Das ist mein Wörterbuch.
+That is my dictionary.
+
+* Alle Vorschläge und Ideen sind willkommen.
+All suggestions and ideas are welcome.
+** die Idee (the idea)
+
+* Wessen Wörterbuch ist dies?
+Whose dictionary is this?
+
+* Von vielen Leuten kommen gute Ideen!
+Good ideas come from many people.
+
+* Sie gibt eine gute Beschreibung dieser Länder und Inseln.
+She is giving a good description of these countries and islands.
+
+* Der Text ist lang.
+The text is long.
+** der Text (the text)
+
+* das Handbuch
+the manual, handbook
+
+* Die Information steht im Handbuch.
+The information is in the handbook.
+
+* Am Anfang war das Wort.
+In the beginning was the word.
+
+* Ihr Nicken war eine Geste der Zustimmung.
+Her nod was a gesture of consent.
+** die Zustimmung (the consent, approval)
+** die Geste (the gesture)
+** das Nicken (the nod)
+
+* Mir ist seine Zustimmung wichtig.
+His approval is important to me.
+
+* Hier wird der Titel vergeben.
+The title is awarded here.
+** der Titel (the title)
+
+* Der Bericht ist falsch.
+The report is wrong.
+** der Bericht (the report)
+
+* Das Unternehmen entwickelt ständig Konzepte für neue Produkte.
+The company is constantly developing concepts for new products.
+** ständig (constant, constantly)
+** das Konzept (the concept)
+
+* Die Unfähigkeit zu lesen ist nicht automatisch ein Zeichen für Dyslexie.
+The inability to read is not necessarily a sign of dyslexia.
+** das Zeichen (the sign)
+
+* Die individuelle Meinung zählt.
+The individual opinion matters.
+
+* Welche Erklärung ist besser?
+Which statement is better?
+
+* Diese Wörter drücken meine Meinung aus.
+These words epxress my opinion.
+** ausdrücken (to express)
+
+* Er schrieb ein Buch mit dem Titel "Sprachen".
+He wrote a book titled "Languages".
+
+* Ich las den Titel.
+I read the title.
+
+* Diese Meinung ist eher allgemein.
+This view is rather commmon.
+
+* Haben wir ein Verzeichnis?
+Do we have a directory?
+** das Verzeichnis (the list, directory)
+
+* Ich habe eine kurz Satz geschrieben, nur fünf Wörter.
+I wrote a short sentence, only five words.
+** die Satz (the sentence)
+
+* Sie schreibt sogar ein Kapitel.
+She is even writing a chapter.
+
+* Er spricht sowohl Englisch als auch Fransösisch.
+He speaks both English and French.
+** sowohl ... als auch ... (both ... and ...)
+
+* Ich kenne diese Begriffe nicht.
+I do not know these terms.
+** der Begirff (the term, concept)
+
+* Was bedeutet dieser Brief?
+What does this letter mean?
+** bedeuten (to mean, represent)
+
+* In Deutschland wird die erste Übersetzung erscheinen.
+The first translation will appear in Germany.
+** erscheinen (to appear, seem)
+
+* Hier ist eine Zusammenfassung.
+Here is a summary.
+** die Zusammenfassung = zusammen(togehter) + Fassung(the version, edition)
+
+* Die Unterhlatung ist vorbei.
+The conversation is over.
+** die Unterhaltung (the conversation)
+
+* Deine Übersetzungen der Internetseiten sind uns wichtig.
+Your translations of the webisites are important to us.
+
+* Sie ist im Begriff zu gehen.
+She is about to go.
+** im Begriff sein etw zu tun (to be about to do, to be going to do)
