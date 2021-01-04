@@ -1,0 +1,128 @@
+#+TITLE: Abstract Objects 1
+
+* Der Lehrer gibt uns Hinweise.
+The teach give us hints.
+** der Hinweis (the hint)
+
+* Die Lösungen sind falsch.
+The solutions are wrong.
+** die Lösung (the solution)
+
+* Ich habe mir ein neues Ziel gesetzt, das ich erreichen möchte.
+I have set myself a new goal, that I want to archieve.
+** das Ziel (the goal, aim)
+
+* Ich habe die Änderungen implementiert.
+I have implemented the chagnes.
+** die Änderung (the change)
+
+* Ein Zoologe studiert das Verhalten von Tieren.
+A zoologist studies the behavior of animals.
+
+* Der Lehrer lobte das Verhalten das Schülers.
+The teacher praised the pupil's behavior.
+** das Verhalten (the behavior, conduct)
+** loben (to praise)
+
+* Ich werde das Problem lösen.
+I will solve the problem.
+
+* Heute bin ich nicht in Form.
+Today I am not in shape.
+
+* Es gibt eine alternative Lösung.
+There is an alternative solution.
+** die Lösung (the solution)
+
+* Drucken wir den Hinweis!
+Let's print the note.
+
+* Auf diese Weise können wir helfen.
+We can help in this way.
+** die Weise (the way, method)
+
+* Wir müssen die Werkzeuge sofort nach dem Gebrauch reinigen.
+We have clean the tools immediately after use.
+** der Gebrauch (the use, usage)
+
+* Ich erhielt den Job durch seine Empfehlung.
+I got the job due to his recommendation.
+** die Empfehlung (the recommendation)
+** erhalten (to obtain, get)
+
+* Er ist nicht in der Lage, es zu tun.
+He is not in a poition to do it.
+** die Lage (the position, situation)
+
+* Er war in der Lage, sie finanziell zu unterstützen.
+He was in the position to help her financially.
+
+* Eine Auswahl aus seinen Briefen
+A selection of his letters
+** die Auswahl (the selection, choice)
+
+* Wir sollten unsere Kinder nicht unter Druck setzen.
+We should not push our children unter pressure.
+** der Druck (the pressure, print)
+
+* auf seine Weise
+in his way
+
+* Dieses Wort ist noch in Gebrauch.
+This word is still in use.
+
+* Der Dokumentarfilm zeigt die Entwicklung vom Baby zum Erwachsenen.
+The documentary shows the developement from baby to adult.
+** die Entwicklung (the development)
+** der Dokumentarfilm (the documentary)
+** der Erwachsener (the adult)
+
+* Das Engagement
+the commitment, engagement
+
+* Die Firma erwartet Treue und Engagement von ihren Mitarbeitern.
+The company expects loyalty and engagement from its workers.
+** die Teue (the loyalty)
+** erwarten (to expect)
+
+* Egal, was ich versuche, das Ergebnis ist immer das gleiche.
+No matte what I try, the outcome is always the same.
+** das Ergebnis (the result, outcome)
+
+* Sie verfügt über die Kompetenz, das Team zu leiten.
+She has the compentence to lead the team.
+** die Kompetenz (the competence, expertise)
+** über etw. verfügen (to have sth)
+** leiten (to lead)
+
+* Der Student bat seien Betreuer um Hilfe.
+The student asked his mentor for help.
+** die Hilfe (the help)
+** bitten (to request, ask) -> bat
+** jdn. um etw. bitten (to ask sb. for sth.)
+
+* Was sind deine Maße?
+What are your measurements?
+** das Maß (the measurement, measure)
+
+* Ein Lichtjahr ist kein Maß für die Zeit, sondern für die Entfernung.
+A lightyear is not a measure of time, but of distance.
+
+* Nachdem mein erster Versuch gescheitert war, probierte ich es erneut.
+After my first attempt had failed, I tried again.
+** der Versuch (the attempt)
+** scheitern (to fail) -> geschreitert (failed)
+** probieren (to try)
+
+* Die Zusammenarbeit im Team war sehr effizient.
+The cooperation in the team was very efficient.
+** die Zusammenarbeit (the cooperation, collaboration)
+
+* Unsere Firma produziert Autoteile der höchsten Qualität.
+Our company produces car parts of the highest quality.
+
+* die Gelegenheit
+the occasion, opportunity
+
+* Erziehung ist für Eltern eine Gelegenheit.
+Parenting is an oppotunity for parents.
