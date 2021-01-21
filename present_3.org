@@ -1,0 +1,181 @@
+#+TITLE: Present 3
+
+* Melden Sie mich nicht.
+Don't report me.
+
+* Sie sichern den Raum.
+They secure the room.
+** sichern (to secure)
+
+* Auf mein Zeichen springen wir!
+On my signal we jump.
+** springen (to jump)
+
+* Ich bitte dich um eine Antwort.
+I request you for an answer.
+** bitten (to request)
+
+* Sie merken nichts.
+They do not notice anything.
+** merken (to notice)
+
+* Lehren heißt Lernen.
+To teach is to learn.
+** heißen (to mean)
+
+* Wen zitieren wir?
+Who are we quoting?
+** zitieren (to quote, cite)
+
+* Wir markieren es.
+We are marking it.
+
+* Er präsentierte seinem Team die neuste Version der Software.
+He presented the latest version of the software to his team.
+** etw_akk. präsentieren (to present sth)
+
+* Es basiert auf Studien.
+It is based on studies.
+** etw_akk. basieren (to base sth)
+
+* Sie begann zu telefonieren.
+She began to make a phone call.
+
+* Wie kontaktieren Sie ihn?
+How do you contact him?
+** kontaktieren (to contact)
+
+* Man sollte die Begriffe in der Einleitung definieren.
+You should define the terms in your introduction.
+** definieren (to define)
+
+* Wo fangen wir an?
+Where do we start?
+
+* Ich markierte einige wichtige Stellen in meinem Buch.
+I highlighted some important passages in my book.
+** markieren (to highlight)
+
+* Bitte wechseln Sie das Thema.
+Please change the subject.
+** wechseln (to change)
+
+* Ich danke Ihnen, dass Sie unserem Land dienen.
+I thank you for serving our country.
+
+* Sie überprüfen die Daten.
+They are verifying the data.
+** überprüfen (to verify)
+
+* Sofort wenden!
+Turn immediately!
+** wenden (to turn)
+
+* Alle Bürger müssen das Gesetz achten.
+All citizens must respect the law.
+** achten (to respect)
+
+* Achte auf deine Ernährung!
+Pay attention to your diet!
+
+* Er tut dir nichts.
+He does not harm you.
+
+* Ich versuche, mein theoretisches Wissen in meinem Job anzuwenden.
+I tryh to apply my theoretical knowledge in my job.
+** anwenden (to apply)
+
+* Sie erwarten unseren Besuch.
+They are expecting our visit.
+** erwarten (to expect)
+
+* Ein Detektiv wird den Fall weiter ermitteln.
+A detective will investigate the case further.
+** ermitteln (to investigate)
+
+* Die neue Software ermöglicht es mir, von zu Hause aus zu arbeiten.
+The new software enables me to work from home.
+** ermöglichen (to enable, faciclitate)
+
+* Wir erhöhen den Preis.
+We are raising the price.
+
+* Die Zeitschrift erscheint monatlich.
+The journal is published monthly.
+** erscheinen (to be published)
+
+* Brechenen Sie mir diese Zeit?
+Are you charging me this time?
+
+* Das Verhältnis betriff meine Eltern.
+The affair concerns my parents.
+
+* Das betrifft mich nicht.
+That does not affect me.
+
+* Die Zeitungen berichten über die Welt.
+The newspapers report on the world.
+** berichten (to report)
+
+* Er bekommt die Schuld.
+He gets the blame.
+** die Schuld (the guilt, falut)
+
+* Es bewegt sich.
+It moves.
+** sich bewegen (to move)
+
+* Diese Bereiche betreffen dich nicht.
+These areas doesn't concern you.
+** betreffen (to concern)
+
+* Wir berechnen den Preis.
+We are calculating the price.
+
+* Sie bewegen ihn nach links.
+They are moving him to the left.
+
+* Die Mitteilung betrifft letzen Sommer.
+The message is regarding last summer.
+
+* Wir entwickeln einen Plan.
+We are developing a plan.
+
+* Frauen verändern die Welt.
+Women change the world.
+** verändern (to change)
+
+* Katzen meiden Hunde.
+Cats avoid dogs.
+
+* Vergessen Sie Ihre Sachen nicht.
+Don't forget your things.
+
+* Sie födern es!
+You encourage it!
+** födern (to encourage)
+
+* Wir vergleichen die Städte.
+We are comparing the cities.
+** vergleichen (to compare)
+
+* Der Sicherheitsgurt verhindert schwere Verleztungen  bei Unfällen.
+The seat belts prevents serious injuries in accidents.
+** verhindern (to prevent)
+
+* Er wird schmutzig.
+He becomes dirty.
+
+* Ich möchte noch eine Tasse Kaffee, bitte!
+I would like another cup of coffee, please.
+
+* Die Band wird in einer Bar auftreten.
+The band is going to perform at a bar.
+** auftreten (to perform)
+
+* Ich trete gegen die Tür.
+I kick the door.
+
+* Die Zahlen stimmen.
+The numbers are correct.
+** stimmen (to be correct, true)
