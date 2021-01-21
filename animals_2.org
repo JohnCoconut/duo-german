@@ -1,0 +1,114 @@
+#+TITLE: Animals 2
+
+* der Schmetterling
+the bufferfly
+
+* Wolle kommt von Schaffen.
+Wool comes from sheep.
+** das Schaf (the sheep)
+
+* Eichhörnchen verbringen den Großteil ihrer Zeit in Bäumen.
+Squirrels spend most of their time in trees.
+
+* Im lichten Wald sah ich den Fuchs deutlich.
+In the sparse forest, I saw the fox clearly.
+
+* Du kannst den Hund streicheln; er wird dich nicht beißen.
+You can pet the dog; it will not bite you.
+** streicheln (to pet)
+** beißen (to bite)
+
+* Die Gans ist weiß, der Fuchs ist rot.
+The goose is white, the fox is red.
+
+* Ich sah eine Giraffe im Zoo.
+I saw a giraffe at the zoo.
+** der Zoo (the zoo)
+
+* Der Löwe ist ein Symbol der Macht.
+The lion is a symbol of strength.
+** der Löwe (the lion)
+
+* Ameisen sind klein, Elefanten sind groß.
+Ants are small, elephants are big.
+** die Ameise (the ant)
+** der Elefant (the elephant)
+
+* Bist du ein Säugetier?
+Are you a mammal?
+** Säugetier = säugen(to suckle) + Tier(animal)
+
+* der Eisbär
+the polar bear
+
+* Er ritt auf einem Kamel durch die Wüste.
+He rode through the desert on a camel.
+** das Kamel (the camel)
+** reiten (to ride) -> ritt
+
+* der Pinguin
+the penguin
+
+* die Schildkröte
+the turtle
+
+* Schildkröten gelten als sehr langsame Tiere.
+Turtles are said to be very slow animals.
+** gelten als (to be considered as)
+
+* Wir konnten einige Wale vom Boot aus sichten.
+We are able to sight some whales from the boat.
+** der Wal (the whale)
+
+* Gibt es im Zoo Zebras?
+Are there zebras in the zoo?
+** das Zebra (the zebra)
+
+* Das Huhn legt jeden ein Ei.
+The chicken lays an egg every day.
+** das Huhn (the chicken)
+** der Hahn (the rooster, cock)
+
+* Einen Tiger erkennt man an den Streifen.
+You can tell the tiger by its stripes.
+** der Tiger (the tiger)
+
+* der Delphin
+the dolphin
+
+* das Horn / die Hörner
+the horn
+
+* Haben Hamster Hörner?
+Do hamsters have horns?
+
+* Eine Wespe ist in meiner Hose!
+There is a wasp in my pants.
+** die Wespe (the wasp)
+
+* Die Wespe sticht den Koch.
+The wasp strings the cook.
+** stechen (to sting)
+
+* der Zebrastreifen
+the zebra crossing
+
+* der Streif
+the stripe
+
+* Tiger sind wie Löwen mit Streifen.
+Tigers are lions with stripes.
+
+* Der böse Wolf ist eine beliete Figur in Märchen.
+The bad wolf is a popular figure in fairy tales.
+** der Wolf (the wolf)
+
+* Es gibt Haie im Wasser, und darum gehen wir nicht an den Strand.
+There are sharks in the water, and for that reason we do not go to the beach.
+** der Hai (the shark)
+
+* Diser Hai ist harmlos.
+This shark is harmless.
+
+* Der Fluss ist gefährlich.
+The river is dangerous.
