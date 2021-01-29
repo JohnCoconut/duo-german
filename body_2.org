@@ -1,0 +1,95 @@
+#+TITLE: Body_2
+
+* die Zunge
+the tongue
+
+* das Gehirn
+the brain
+
+* Er hat die höhere Stirn.
+He has the higher forehead.
+** die Stirn (the forehead)
+
+* Der Mann mit den Zwei Gehirnen.
+The man with two brains
+
+* Sie hat rote Lippen.
+She has red lips.
+** die Lippe (the lip)
+
+* Haben Insekten eine Lunge?
+Do insects have lungs?
+** die Lunge (the lung)
+
+* Das Gehirn ist im Kopf.
+The brain is in the head.
+
+* Das Kinn ist unter dem Mund.
+The chin is under the mouth.
+** das Kinn (the chin)
+
+* Jedes Kind hat ein Kinn.
+Every child has a chin.
+
+* Der junge Hai träumt von einem dicken Fisch.
+The young shark dreams of a fat fish.
+** dick (fat, thick)
+
+* Das Herz ist im Brustkorb.
+The heart is in the chest.
+** der Brustkorb(the chest) = Brust + Korb(cage)
+
+* Der Bauch ist leer.
+The belly is empty.
+** der Bauch (the belly)
+
+* der Daumen
+the thumb
+
+* Er ist nicht dick, sondern dünn.
+He is not fat, but thin.
+** dick (fat)
+** dünn (thin)
+
+* die Ferse
+the heel
+
+* Er bewegt seine Hüfte.
+He moves his hip.
+** die Hüfte (the hip)
+
+* Er hat zehn Zehen und viele Zähne.
+He has ten toes and many teeth.
+** der Zeh (the toe)
+
+* der Knöchel
+the ankle
+
+* Wir sind ihm auf dem Fersen.
+We are on his heels. (to chase someone and be right behind him/her)
+
+* der Darm
+the intestine
+** der Dickdarm (large intestine)
+** der Dünndarm (small intestine)
+
+* Wie viele Knochen hat eine Katze?
+How many bones does a cat have?
+** der Knochen (the bone)
+
+* der Oberschenkel
+the thigh
+
+* der Unterschenkel
+the lower leg
+
+* Meine Muskeln sind schwach.
+My muscles are weak.
+** der Muskel (the muscle)
+
+* Die Haut ist auch eine Organ.
+The skin is also an organ.
+
+* Alkohol ist schlecht für die Leber.
+Alcohol is bad for the liver.
+** die Leber (the liver)
