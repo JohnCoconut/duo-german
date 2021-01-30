@@ -134,3 +134,10 @@ She will book a room for us.
 
 * Wo wirst du deinen Urlab buchen?
 Where will you book you vocation?
+
+* Wer Geld mag, wird auch Geld besitzen.
+Whoever likes money will also have money.
+
+* Was wird ihn dazu bewegen?
+What will make him do that?
+** jdn zu etw bewegen (incite sb. to do sth.)
