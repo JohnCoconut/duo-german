@@ -1,0 +1,34 @@
+#+TITLE: Math
+
+* Zwei plus zwei gleich vier.
+Two plus two equals four.
+
+* Zwei und zwei ist vier.
+Two plus two are four.
+
+* Vier plus vier macht acht.
+Four plus four equals eight.
+
+* Zwei plus zwei ist vier.
+Two plus two is four.
+
+* Eins plus eins gibt zwei.
+One plus one is two.
+
+* Fünf minus vier ist eins.
+Five minus four is one.
+
+* Neun minus sieben ist gleich zwei.
+Nine minus seven is equal to two.
+
+* Sieben weniger drei gleich vier.
+Seven minus three equals four.
+
+* Acht geteilt durch zwei gleich vier.
+Eight divided by two equals four.
+
+* Zwölf geteilt durch vier gleich drei.
+Twelve divided by four equals three.
+
+* Zwei mal drei ist sechs.
+Two times three is six.
