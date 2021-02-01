@@ -1,0 +1,79 @@
+#+TITLE: Banking
+
+* die Münze
+the coin
+
+* Haben Sie die Zahlung erhalten?
+Have you received the payment?
+** die Zahlung (the payment)
+** erhalten (to receive)
+
+* Die einzelnen Werte sind auf der Rechnung.
+The itemized values are on the check.
+** einzelnen (individual)
+** die Rechnung (the invoice, bill)
+
+* Ich bezahle die Zinsen.
+I pay for the intersts.
+** der Zins (the interest, rate)
+
+* Alles über Geld von Aktien bis Zinsen
+Everything about money from shares to interest
+** die Aktie (the share, stock)
+
+* Die Zahlung wird erfolgen.
+The payment will be made.
+
+* Die Rechnung kommt.
+The bill is coming.
+
+* Ich werde die Rechnung zahlen.
+I will pay the bill.
+
+* Was ist der Betrag?
+What is the amount?
+
+* Ich habe eine Münze und du hast acht Müzen.
+I have one coin and you have eight coins.
+
+* Für sehr hohe Zinsen natürlich
+For very high interest of course
+
+* Ich habe weniger Münzen als er.
+I have fewer coins than he.
+
+* Ich werde dir die Rechnung schicken.
+I will send you the bill.
+
+* Die Münzen sind auf Metall.
+The coins are made of metal.
+
+* Wer ist für die Zahlung verantwortlich?
+Who is responsible for the payment?
+
+* Münzen in der Tasche
+Coins in the pocket
+
+* Jeder Betrag ist willkommen, auch wenn er klein ist.
+Any amount is welcome, even if it is small.
+
+* die Kreditkarte
+the credit card
+
+* Wir haben keine Finanzierung.
+We have no financing.
+** die Finanzierung (the financing)
+
+* Die Finanzierung ist von der Stadt.
+The funding ist from the city.
+
+* Ich habe mein Konto dort.
+I have my account there.
+** das Konto (the account)
+
+* Gibt es eine Frist?
+Is there a deadline?
+** die Frist (the deadline, time limit)
+
+* Geld auf dem Konto
+Money in the account
