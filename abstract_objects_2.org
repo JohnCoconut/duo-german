@@ -1,0 +1,298 @@
+#+TITLE: Abstract Objects 2
+
+* Was ist der Unterschied zwieschen einem Schüler und einem Studenten?
+What is the difference between a pupil and a university student?
+** der Unterschied (the difference)
+
+* Der Rechsanwalt stellt seine Version vor.
+The lawyer presents his version.
+** vorstellen (to present)
+** die Version (the version)
+
+* Das ist eine Verbesserung.
+That is an improvement.
+
+* die Basis
+the basis
+
+* Beide Versionen sind toll.
+Two versions are great.
+
+* die Bestimmung
+the regulation, destiny
+** bestimmen(to determine, define) + -ung
+
+* Du siehst die Unterschiede.
+You see the differences.
+
+* Mathmatik ist die Basis für dieses Projekt.
+Math is the basis for this project.
+
+* Eine Planung liegt bereits vor.
+A design already exists.
+** die Planung (the plan, design)
+** bereits vorlegen (already exist)
+
+* Wir haben viele gute Erfahrungen.
+We have many good experiences.
+
+* Er hat das Wissen und die Erfahrung.
+He has the knowledge and the experience.
+
+* Es gibt Unterschieden.
+There are differences.
+
+* Dies ist die Basis für weitere Forschung.
+This is the basis for further research.
+
+* Wir entwickeln die beste Version.
+We are developing the best version.
+
+* die Regelung
+the regulation
+
+* Hier ist Planung nützlich.
+Planning is useful here.
+
+* Aber er hat auch gute Eigenschaften.
+But he also has good traits.
+** die Eigenschaft (the property, trait)
+
+* Wer wärst du ohne diese Eigenschaften?
+Who would you be without these traits?
+
+* Die Unterstützung hilft uns.
+The encouragement is helping us.
+** die Unterstützung (the support, encouragement)
+
+* Ich ging in der Menge verloren.
+I got lost in the crowd.
+** die Menge (the crowd, quality)
+** verlorengehen (get lost)
+
+* Dein Namen steht oben auf der Liste.
+You names is at the top of the list.
+
+* Es gibt keine höhere Kraft.
+There is no higher force.
+
+* Das Original ist in ihrer Tasche.
+The original is in her bag.
+
+* Diese Kategorie mag sie nicht.
+She does not like this category.
+
+* Die Menge stimmt.
+The quality is right.
+
+* Wir brauchen Ihre unterstützung.
+We need your support.
+
+* Sie finden dort Hilfe und Unterstützung.
+You find help and support there.
+
+* Seine Eigenschaften sind rot und klein.
+Its properties are red and small.
+
+* Er hat keine Kraft mehr.
+He has no energy left.
+
+* die Höhe
+the height, amount
+
+* Es gibt kein Mittel gegen diese Krankheit.
+There is no remedy for this disease.
+** das Mittel (the remedy, mean value)
+
+* Die Position ist klar.
+The position is clear.
+
+* Darf ich zwei Vorschläge machen?
+May I make two suggestions?
+** der Vorschlag (the suggestion)
+
+* Was ist die Länge?
+What is the lenght?
+** die Länge (the length)
+
+* Stimmt die Länge?
+Is the length right?
+
+* Habt ihr Vorschläge für den Unterricht?
+Do you have suggestions for the class?
+
+* Die Wissenschaftlerin hat ein neues Mittel gefunden.
+The scientist found a new remedy.
+
+* Sie will mit allen Mitteln gewinnen.
+She wants to win by any means.
+
+* Der Zugang ist nicht leicht.
+Admission is not easy.
+** der Zugang (the access, admission)
+
+* In dieser Höhe ist keine Landwirtschaft möglich.
+At this height agriculture is not possible.
+
+* Was ist die Länge dieses Flusses?
+What is the length of this river?
+
+* Was ist die Höhe des Berges?
+What is the height of the mountain?
+
+* Der Zugang ist gratis.
+The access is free.
+
+* Die Vorschläge sind alt, glaube ich.
+The proposals are old, I believe.
+
+* Der Zugang war über eine Leiter.
+The access was via a ladder.
+
+* Eine Einführung in ihre Ergebnisse und Probleme
+An introduction to her results and problems
+
+* die Spalte
+the crack, column(in a table)
+
+* Der Hintergrund ist grün.
+The background is green.
+
+* Wo ist die Anleitung?
+Where is the manual?
+** die Anleitung (the manual)
+
+* Er braucht eine Einführung.
+He needs an introduction.
+
+* Welche Rolle wollen Sie?
+Which role do you want?
+** die Rolle (the role)
+
+* Was ist die richtige Verwendung?
+What is the proper usage?
+
+* Der Verlauf
+the process, progress
+
+* Der Hintergrund ist komplett schwarz.
+The background is completely black.
+
+* Es gibt noch eine Spalte.
+There is another column.
+
+* Die Verwendung ist deutlich.
+The usage is clear.
+
+* Dieser Verlauf is sehr selten.
+This process is very rare.
+
+* Die Spalte ist grün.
+The column is green.
+
+* Eine Einführung mit Dokumenten
+An introduction with documents
+
+* Eine Anleitung für Eltern
+A manul for parents
+
+* das Feld
+the field
+
+* Achtung, eine Stufe
+Mind the step
+
+* Die Wirkung ist positiv.
+The effect is positive.
+** die Wirkung (the effect)
+
+* Keine guten Referenzen
+No good references
+
+* Größe und Gewicht
+Height and weight
+** das Gewicht (the weight)
+** die Größe (the height)
+
+* Sie läuft auf einem Feld.
+She runs in a feld.
+
+* Die Partys sind nicht morgen.
+The parties are not tomorrow.
+
+* Ich mag keine Einzelheiten.
+I don't like details.
+** die Einzelheit (the detail)
+
+* Wir rennen durch die Felder.
+We are running through the fields.
+
+* Gab es da Referenzen?
+Were there references?
+
+* Was ist sein Gewicht?
+What is his weight?
+
+* Hier ist eine Stufe.
+Here is a step.
+
+* Was sind deine Referenzen?
+What are your references?
+
+* Sagen Sie mir bitte die Einzelheiten.
+Please tell me the details.
+
+* Die zweite Stufe ist höher als die erste.
+The second step is higher than the first one.
+
+* der Kreis
+the circle
+
+* der Einsatz
+the use, application, commmitment
+
+* Wir haben keinen Überblick.
+We don't have an overview.
+** der Überblick (the overview)
+
+* Nun, es ist die Kombination.
+Well, it is the combination.
+
+* die Umsetzung
+the implementation
+
+* Der Einsatz zählt.
+The dedication is what counts.
+
+* Die Kombination von Geld und Pink macht diese Wand sehr interessant.
+The combination of yellow and pink makes this wall very interesting.
+
+* Die Straßen sind gewöhnlich in einem guten Zustand.
+The streets are usually in a good shape.
+** de Zustand (the condition)
+** gewöhnlich (usually)
+
+* Der Blick sagt alles.
+The looks says it all.
+** der Blick (the view, look)
+
+* Glaubst du an Liebe auf den ersten Blick?
+Do you believe in love at first sight?
+
+* Einführung und Überblick
+Introduction and overview
+
+* Die Umsetzung ist uns wichtig.
+The implementation is important to us.
+
+* Der Junge macht einen Kreis.
+The boy makes a circle.
+
+* Sie sind in guten Zustand.
+You are in good condition.
+
+* Der erste Einsatz
+the first deployment
+
+* Diese Auto ist in gutem Zustand.
+This car is in good condition.
