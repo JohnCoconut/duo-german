@@ -1,0 +1,163 @@
+#+TITLE: Sports
+
+* der Ball
+the ball
+
+* das Team
+the team
+
+* Aber das Team hatte kein Glück.
+But the team was out of luck.
+
+* Wer gewinnt im Fußball?
+Who is winning in the football?
+
+* Was ist dein Hobby?
+What is your hobby?
+** das Hobby
+
+* Ich habe einen Fußball gefunden.
+I found a football.
+
+* Ich mag Sport.
+I like sport.
+** der Sport
+
+* die Aktivität / die Aktivitäten
+the activity
+
+* Welche Hobbys hast du?
+Which hobbies do you have?
+
+* Die Aktivitäten sind gesund für Patienten.
+The activities are healty for patients.
+
+* Wie oft machst du Sport?
+How often do you exercise?
+
+* Ich mag keinen Sport.
+I don't like sports.
+
+* Das da ist ein Ball.
+That is a ball.
+
+* Der Ball ist rund.
+The ball is round.
+
+* Deutsch ist sein Hobby.
+German is his hobby.
+
+* Spielst du kein Tennis?
+Don't you play tennis?
+
+* Welchem Team wird wahrscheinlich gewinnen?
+Which team will probably win?
+
+* Welche Aktivitäten sind dazu notwendig?
+Which activities are necesssary for that?
+
+* der Spieler / die Spilerin
+the playher
+
+* Der Sieg ist unser.
+The victory is ours.
+** der Sieg (the victory)
+
+* Die Bundesliga hat gestern gespielt.
+The german league played yesterday.
+** Bundesliga = Bundes(federation, national) + Liga(legaue)
+
+* Du findest einen Zuschauer.
+You find a spectator.
+** der Zuschauer (the viewer, spectator)
+
+* Unsere komplette zweite Mannschaft ist weg.
+Our complete second team is gone.
+** die Mannschaft (the team)
+
+* Diese Liga ist die beste Liga, glaube ich.
+This league is the best league, I think.
+
+* Er sieht ein Spieler aus.
+He looks like a player.
+
+* Wir verloren das Spiel.
+We lost the match.
+** verlieren (to lose)
+
+* Die Zuschauer kamen zurück.
+The spectators came back.
+
+* Deine Mutter hat die Spiele gesehen.
+Your mother has seen the games.
+
+* In welcher Liga spielt er?
+In which league does he play?
+
+* Eine Teilnahme ist kostenlos.
+Attendence is free of charge.
+** die Teilnahme (the attendence, participation)
+
+* In der Liga spielen zehn Mannschaften.
+Ten teams play in the league.
+
+* Dies war der erste Sieg seiner Karriere.
+This was the first victory of his career.
+
+* Diese Mannschaft hat gute Spieler.
+This team has good players.
+
+* Ich bin nicht zuständig für das Schwimmbad.
+I am not responsible for the swimming pool.
+
+* Du fährst kein Ski.
+You don't ski.
+
+* Die Zahnärztinnen laufen um die Wette.
+The dentists run a race.
+** um die Wette rennen (to have a race)
+
+* Diese Wette ist komisch.
+This bet is strange.
+** die Wette (the bet)
+
+* Meine Einladung gilt noch.
+My invitation is still valid.
+** gelten (to be effective, hold true)
+
+* Der Vogel ist meist in Bewegung.
+The bird is mostly in motion.
+** die Bewegung (the movement, motion)
+
+* In meiner Freizeit lese ich gern.
+I like to read in my spare time.
+
+* Keine Freizeit mehr, klar?
+No more leisure time, is that clear?
+
+* Die Bewegungen sind langsam.
+The movements are slow.
+
+* Ich bin Ski gelaufen.
+I skied.
+
+* Jede Bewegung war ruhig.
+Every move was calm.
+
+* Wast machst du gerne in deiner Freizeit?
+What do you like to do in your free time?
+
+* Mein Haus hat ein großes Schwimmbad.
+My house has a big swimmming pool.
+
+* Ich ging ins Schwimmbad mit meinem Vater.
+I went to the pool with my father.
+
+* Die Wette gilt.
+The bet is on.
+
+* Ich werde niemals in das Schwimmbad gehen.
+I will never go into the swimming pool.
+
+* Es gilt für alle.
+It applies to everyone.
