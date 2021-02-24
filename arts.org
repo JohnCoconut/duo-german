@@ -1,0 +1,264 @@
+#+TITLE: Arts
+
+* die Kunst
+the art
+
+* Meine Professorin kennt alle Ausstellungen.
+My professor knows all exhibitions.
+** die Ausstellung (the exhibition)
+
+* Sie haben ein Studio im Zentrum.
+They have a studio in the center.
+** das Studio
+
+* eine Gitarre
+a guitar
+
+* Ich bin Musiker.
+I am a musician.
+** der Musiker / die Musikerin
+
+* Die Galarie befindet sich in Wien.
+The galary is in Vienna.
+** sich befinden (to be, be located)
+
+* Die Schüler besuchen die Ausstellung in Wien.
+The students visit the exhibition in Vienna.
+
+* Das Studio ist begeistert.
+The studio is thrilled. (meaning the people in the studio are overjoyed.)
+
+* Das Thema der Ausstellung
+The topic of the exhibition
+
+* Wir interessieren uns für Kunst.
+We are interested in art.
+
+* Nicht viele Musiker sind reich.
+Not many musicians are rich.
+
+* Es gibt zwei Ausstellungen im Schloss.
+There are two exhibitions in the castle.
+
+* Kunst ist eine Kategorie.
+Art is a category.
+
+* der Künstler / die Künstlerin
+the artist
+
+* das Theater
+the theater
+
+* Sie sind Künstler.
+They are artists.
+
+* Ich bin Künstler des Monats.
+I am the artist of the month.
+
+* Du spielst zwei Instrumente.
+You play two instruments.
+** das Instrument
+
+* Sie wird Musik hören.
+She will listen to music.
+
+* Landwirdschaft ist die Basis der Kultur.
+Agriculture is the foundation of civilization.
+
+* Sie hatten ihre eigene Kultur.
+They had their own culture.
+
+* Aber Ich male nicht.
+But I am not painting.
+** malen (to paint)
+
+* Musik ist sehr wichtig für die Entwicklung von Kindern.
+Music is very important for the development of children.
+
+* Nicht die Instrumente!
+Not the instruments!
+
+* Er singt während sie malt.
+He sings while she paints.
+
+* das Theater
+the theater
+
+* Wir spielen mit den Gruppen Musik.
+We are playing music with the bands.
+
+* Ich male die Küche an.
+I am painting the kitchen.
+** etw. anmalen (to paint sth)
+
+* Ich gehe ins Theater.
+I am going to the theater.
+
+* der Film
+the film
+
+* Die Katze tanzt nicht mit dem Hund.
+The cat does not dance with the dog.
+
+* Sie liest über neue Modelle in der Zeitschrift.
+She is reading about new models in the magazine.
+** das Modell (the model)
+
+* Alles ist für den Start bereit.
+Everything is ready for the start.
+** der Start
+
+* Mein eigener Entwurf
+my own design
+** der Entwurf (the design, concept)
+
+* Die Regie ist immer ausgezeichnet.
+The direction is always superb.
+** die Regie (the direction, management)
+
+* Sie macht ein Modell für einen neuen Zug.
+She is making a model for a new train.
+
+* Die Frauen spielen keine Musikinstrumente.
+The women do not play musical instruments.
+
+* Musikinstrumente sind oft größer als Spielzeuge.
+Music instruments are often bigger than toys.
+
+* Das ist nicht der Start.
+That is not the start.
+
+* Der Entwurf stimmt.
+The draft is right.
+
+* Die Enkelin tanzt auf dem Tisch.
+The granddaughter is dancing on the table.
+
+* Das Design ist toll.
+The design is great.
+** das Design
+
+* Analyse und Kritik
+analysis and critique
+** die Kritik
+
+* Das Museum öffnet um neun Uhr.
+The museum opens at nine.
+** das Museum
+
+* Ich mag das Lied.
+I like the song.
+** das Lied (the song)
+
+* Literatur und Kultur in Stadt und Region
+Literature and culture in the city and region
+
+* Ich mag das Lied.
+I like the song.
+
+* Sie ist selten in den Sammlungen.
+She is rare in the collections.
+** die Sammlung (the collection)
+
+* Wie findest du dieses Design?
+How do you like this design?
+
+* Er schreibt Literatur.
+He write literature.
+
+* Der Schuh ist in meiner Sammlung.
+The shoe is in my collection.
+
+* Die Fotografie ist echt.
+The photography is real.
+
+* Sie spielen unser Lied.
+They are playing our song.
+
+* Fotografie war seine Empfehlung für sie.
+Photography was his recommendation for her.
+
+* Die Kritik ist positiv.
+The critique is positive.
+
+* Das Museum ist einen Besuch wert.
+The museum is worth a visit.
+
+* der Tanz
+the dance
+
+* Er hat seinen eigenen Stil.
+He has his own style.
+** der Stil (the style)
+
+* Sprache und Stil
+language and style
+
+* Ich mag Jazz.
+I like jazz.
+
+* Ich denke, dass er Jazz mag.
+I think that he likes jazz.
+
+* Die Konzerte sind im Schloss.
+The concerts are in the castle.
+** das Konzert
+
+* Das ist schon aus der Mode.
+That is already out of style.
+** die Mode (the fashion)
+
+
+* Heute Abend will ich in ein Konzert gehen.
+Tonight I want to go to a concert.
+
+* die Bühne
+the stage
+
+* Das Konzert fängt in zwanzig Minuten an.
+The concert will start in twenty minutes.
+
+* Die Rahmen sind schon.
+The frames are beautiful.
+** der Rahmen / die Rahmen
+
+* Meine Welt ist die Mode.
+My world is fassion.
+
+* Der Musiker geht auf die Bühne.
+The musician goes onto the stage.
+
+* die Kamera
+
+* Wir gehen ins Kino.
+We go to the cinema.
+
+* Die Plastik ist aus Plastik.
+The sculpture is made of plastic.
+
+* Die Dokumentation stimmt.
+The documentation is true.
+
+* Der Schauspieler macht eine Diät.
+The actor is on a diet.
+
+* Ich arbeit im Kino.
+I work at the cinema.
+
+* Er begann verschiedene Tätigkeiten.
+He began different activities.
+
+* Ich bin mit dieser Tätigkeit zufrieden.
+I am satisfied with this job.
+
+* Diese Tätigkeit ließ ihm Zeit für Bücher.
+This activity left him time for books.
+
+* Der Künstler verkauft seien Plastik.
+The artist sells his sculpture.
+
+* Der Schauspieler fehlt, und niemand weiß, wo er ist.
+The actor is missing, and no one knows where he is.
+
+* Hier sind zwei Kameras.
+Here are two cameras.
