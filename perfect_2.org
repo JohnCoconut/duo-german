@@ -1,0 +1,148 @@
+#+TITLE: Perfect 2
+
+* Das hat zu nichts geführt.
+That led to nothing.
+** führen (to lead, guide)
+
+* Ist gestern was passiert?
+Did something happen yesterday?
+
+* Ich weiß nicht genau, wie es passiert ist.
+I don't know exactly how it happened.
+
+* Ich habe verstanden.
+I understood.
+
+* Er hat es nicht geschafft.
+He did not accomplish it.
+** schaffen -> geschafft
+
+* Er hat an mich gedacht.
+He thought about me.
+** denken -> gedacht
+
+* Sie hat den Hund nicht akzeptiert.
+She has not accepted the dog.
+
+* Was hast du heute geschafft?
+What did you accomplish today?
+
+* Hat er das akzeptiert?
+Has he accepted that?
+
+* Haben Sie verstanden?
+Did you understand?
+
+* Daran habe icht nicht gedacht.
+I did not think about it.
+
+* Ist etwas passiert?
+Has something happened?
+
+* Wir haben es geschafft.
+We made it.
+
+* Ich habe es nicht gewusst.
+I didn't know it.
+** wissen -> gewusst
+
+* Du hast mich dazu gebracht.
+You've brought me to it.
+** bringen -> gebracht
+
+* Er hat einen Verein gegründet.
+He found a club.
+** gründen -> gegründet
+
+* Er hat dieses Land verlassen.
+He has left this country.
+** verlassen -> verlassen
+
+* Sie hat uns für immer verlassen.
+She has left us forever.
+
+* Wir haben alle Zimmer geprüft.
+We have checked all the rooms.
+** prüfen -> geprüft
+
+* Hast du ihm deine Nummber genannt?
+Have you told him your number?
+** nennen -> genannt
+
+* Jetzt hat sie ihr eigene Gemeide gegründet.
+Now she has founded her own community.
+
+* Er hat schon drei Firmen gegründet.
+He has founded three firms already.
+
+* Sie hat das Krankenhaus vor einer Stunde verlassen.
+She left the hopital one hour ago.
+
+* Er hat dich geprüft und er ist zufrieden mit dir.
+He has tested you and he is satisfied with you.
+
+* Hast du mir Essen aus dem Restaurant gebracht?
+Have you brought me food from the restaurant?
+
+* Sie hat das Dorf vor zehn Minuten verlassen.
+She left the village ten minutes ago.
+
+* Hast du es gebracht?
+Did you bring it?
+
+* Hast du gewusst, dass manche Fische fliegen können?
+Did you know that some fish can fly?
+
+* Sie hat ihm alles vergeben.
+She has forgiven him for everything.
+** vergeben -> vergeben
+
+* Die Stadt hat diesen Traum erfüllt.
+The city has fulfilled this dream.
+** erfüllen -> erfüllt
+
+* Hast du mir nicht vergeben?
+Have you not forgiven me?
+
+* Er hat die Gläser gehalten.
+He has hold the glasses.
+** halten -> gehalten
+
+* Ich habe keine Nummer gewählt.
+I have not dialed any number.
+** wählen(to dial) -> gewählt
+
+* Du hast meine Hand gehalten.
+You've held my hand.
+
+* Leute sind verschwunden.
+People have disappeared.
+** verschwunden(disappear) -> verschwunden
+
+* Das habe ich nie gewollt.
+I never wanted that.
+** wollen -> gewollt
+
+* Sie haben mein Foto nie gewollt.
+They never wanted my photo.
+
+* Silber und Geld habe ich nie gewollt.
+I never wanted silver and gold.
+
+* Sie haben gewählt.
+They have voted.
+
+* Ich habe deinen Wunsch erfüllt.
+I have fulfilled your wish.
+
+* Ich habe den Schlüssel in der Hand gehalten.
+I have hold the key in the hand.
+
+* Wir haben ihn zum Bürgermeister gewählt.
+We have elected him mayor.
+
+* Meine Pflanze ist verschunden.
+My plant has vanished.
+
+* Danach ist sie wieden verschunden.
+After that she is gone again.
