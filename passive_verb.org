@@ -1,0 +1,86 @@
+#+TITLE: Passive Verb
+
+* Die Bewerbung wurde nicht berücksichtigt.
+The application was not considered.
+** berücksichtigen (to take sth into account, consider) -> berücksichtigt
+
+* Meine Tasche wurde gestohlen.
+My bag was stollen.
+** stehlen -> gestohlen
+
+* Sie werden nicht berücksichtigt.
+You are not considered.
+
+* Ich werde nicht berücksichtigt.
+I am not being considered.
+
+* Auch Bildung wird berücksichtig.
+Also education is being considered.
+
+* Der Breif wird geschrieben.
+The letter is being written.
+** schreiben -> geschrieben
+
+* Wann wird es veröffentlicht?
+When will it be published?
+** veröffentlichen -> veröffentlicht
+
+* Die Ergebnisse wurden nie veröffentlicht.
+The results were never published.
+
+* Der Lehrer wurde bewertet.
+The teacher was evaluated.
+** bewerten -> bewertet
+
+* Wann wurde sie geboren?
+When was she born?
+** gebären(to give birth to) -> geboren
+
+* Dort wurde auch das erste drei Kinder geboren.
+That is also where the first of his three children was born.
+
+* Wir wurden in disem Krankenhaus geboren.
+We were born in this hospital.
+
+* Diese Leistungen werden durch Noten bewertet.
+These achievements are evaluated with grades.
+
+* Wird das gewährleistet?
+Is that guaranteed?
+** gewährleisten(to ensure, guarantee) -> gewährleistet
+
+* Wird diese Chance genutzt?
+Is this chance being used?
+** nutzen -> genutzt
+
+* Heute wird es als Restaurant genutzt.
+Today it is being used as a restaurant.
+
+* Keiner wird bevorzugt.
+No one is favored.
+** bevorzugen(to prefer, favor) -> bevorzugt
+
+* Es wurde geändert.
+It was changed.
+** ändern -> geändert
+
+* Wann, wo und was wird gegessen?
+When, where and what is being eaten?
+
+* Die jungen Pflanzen werden asl Gemüse gegessen.
+The young plants are eaten as vegetables.
+
+* Das wird gewährleistet.
+That is guaranteed.
+
+* Mietglieder werden bevorzugt.
+Members are favored.
+
+* Das wird nicht gewährtleistet.
+That is not guaranteed.
+
+* Hilfe, ich werde gegessen.
+Help, I am being eaten.
+
+* Es wird wieder gegessen.
+We eat again.
